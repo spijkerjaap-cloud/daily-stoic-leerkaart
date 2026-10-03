@@ -287,7 +287,32 @@ button.active {
 }
 
 .view[hidden] { display: none; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
 .view > * { margin-bottom: 14px; }
+.daily-status { margin: 0 3px 10px; color: #ecf2ec; font-size: .83rem; font-weight: 700; }
+#dailyContent { display: grid; gap: 14px; }
+#dailyContent > * { margin: 0; }
+.daily-hero { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+.daily-hero > div { min-width: 0; }
+.daily-hero .display-title { margin: 9px 0 3px; }
+.daily-hero blockquote { margin: 12px 0; }
+.daily-thinker-image { flex: 0 0 auto; width: clamp(74px,23vw,124px); height: clamp(74px,23vw,124px); border-radius: 8px; object-fit: cover; border: 1px solid var(--line); }
+.tag-list { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 12px; }
+.tag-list span { padding: 6px 9px; border-radius: 999px; background: #e6ede7; color: var(--green); font-size: .78rem; font-weight: 700; }
+.daily-diagram { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; padding: 16px; border-radius: 8px; background: #f1ebde; }
+.daily-node { padding: 9px 11px; border-radius: 8px; border: 1px solid #d7c7ad; background: #fffdf8; font-size: .86rem; font-weight: 700; }
+.daily-arrow { color: var(--clay); font-size: 1.15rem; font-weight: 800; }
+.table-scroll { overflow-x: auto; }
+.daily-concepts table { min-width: 460px; }
+.daily-concepts th,.daily-concepts td { padding: 9px 12px 9px 0; }
+.remember-line { margin-top: 15px; padding: 12px; border-left: 4px solid var(--gold); background: #f1ebde; font: 700 1.08rem Georgia,serif; }
+.anchor-card > div { display: grid; gap: 8px; }
+.anchor-card span { display: grid; gap: 2px; padding: 10px; border-radius: 8px; background: #fffdf8; border: 1px solid var(--line); }
+.anchor-card b { color: var(--clay); font-size: .78rem; text-transform: uppercase; }
+.daily-archive summary { font-weight: 800; }
+.daily-archive #dailyArchiveList { margin-top: 10px; }
+.archive-lesson { width: 100%; display: flex; justify-content: space-between; gap: 10px; align-items: baseline; padding: 10px 0; border-top: 1px solid var(--line); color: var(--ink); text-align: left; cursor: pointer; }
+.archive-lesson span { color: var(--muted); }
 .display-title { font-size: clamp(1.35rem, 5vw, 1.9rem); margin-top: 8px; }
 .source-link { padding: 3px 5px; }
 a { color: var(--blue); }

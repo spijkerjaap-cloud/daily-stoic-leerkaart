@@ -1,9 +1,12 @@
-const CACHE_NAME = "daily-stoic-pwa-v4";
+const CACHE_NAME = "daily-stoic-pwa-v5";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=3",
-  "./app.js?v=3",
+  "./styles.css?v=4",
+  "./app.js?v=4",
+  "./ai-config.json",
+  "./content/daily/index.json",
+  "./content/daily/2026-10-03.json",
   "./manifest.webmanifest?v=2",
   "./icon.svg",
   "./assets/thinkers/zeno.webp",

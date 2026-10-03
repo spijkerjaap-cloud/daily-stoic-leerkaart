@@ -1,0 +1,7 @@
+name = "daily-stoic-feedback"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+ALLOWED_ORIGIN = "https://spijkerjaap-cloud.github.io"
+OPENAI_MODEL = "gpt-5-mini"

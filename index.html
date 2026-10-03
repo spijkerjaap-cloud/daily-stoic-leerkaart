@@ -9,7 +9,7 @@
   <title>The Daily Stoic · Leeratelier</title>
   <link rel="manifest" href="./manifest.webmanifest?v=2">
   <link rel="apple-touch-icon" href="./icon.svg">
-  <link rel="stylesheet" href="./styles.css?v=3">
+  <link rel="stylesheet" href="./styles.css?v=4">
 </head>
 <body>
   <main class="app-shell">
@@ -19,24 +19,12 @@
     </header>
 
     <section class="view active" id="view-vandaag" aria-labelledby="heading-vandaag">
-      <div class="quote-panel">
-        <p class="theme">Vandaag · controle en oordeel</p>
-        <h2 id="heading-vandaag" class="display-title">Stuur je keuze, niet de uitkomst</h2>
-        <blockquote>“Sommige dingen hangen van ons af, andere niet.”</blockquote>
-        <p class="source">Epictetus, <cite>Enchiridion</cite> 1 · Nederlandse parafrase</p>
-      </div>
-      <div class="visual-card">
-        <h2>Het idee in één beeld</h2>
-        <div class="drawing" role="img" aria-label="Een binnenste cirkel met oordeel en handelen; daarbuiten reputatie, weer en uitkomst">
-          <div class="orbit outside"><span>weer</span><span>reputatie</span><span>uitkomst</span></div>
-          <div class="orbit inside"><strong>mijn keuze</strong><span>oordeel</span><span>handeling</span></div>
-        </div>
-        <p class="caption">Je kunt de uitkomst beïnvloeden. Alleen je eigen oordeel en keuze zijn helemaal van jou.</p>
-      </div>
-      <div class="card"><h2>Drie stappen voor vandaag</h2><ol class="steps"><li>Zie wat er feitelijk gebeurt.</li><li>Merk je eerste oordeel op.</li><li>Kies een verstandige, rechtvaardige stap.</li></ol></div>
+      <h2 id="heading-vandaag" class="visually-hidden">Dagelijkse les</h2>
+      <p id="dailyStatus" class="daily-status" role="status">Dagelijkse les laden…</p>
+      <div id="dailyContent"></div>
       <div class="card primer-teaser"><div><p class="eyebrow dark">Nieuw hier?</p><h2>Wat is stoïcisme?</h2><p>Lees in twee minuten waar de Stoa vandaan komt en hoe de ideeën samenhangen.</p></div><button class="action secondary" id="openPrimer" type="button">Lees de basis →</button></div>
       <div class="card next-card" id="personalNext"></div>
-      <p class="source source-link">Bron: <a href="https://www.stoicsource.com/epictetus/enchiridion/1/" target="_blank" rel="noopener noreferrer">Enchiridion 1</a></p>
+      <details class="card daily-archive"><summary>Eerdere lessen</summary><div id="dailyArchiveList"></div></details>
     </section>
 
     <section class="view" id="view-denker" aria-labelledby="heading-denker" hidden>
@@ -84,8 +72,8 @@
         <label for="reportText">Verslag</label><textarea id="reportText" rows="9" maxlength="15000" placeholder="Wat gebeurde er? Wat dacht je? Wat deed je? Wat zou je volgende keer kiezen?"></textarea>
         <label class="upload-zone" for="reportFile"><strong>Of kies een .txt, .md of .json bestand</strong><span>Ook slepen naar dit vak werkt. Maximaal 1 MB.</span></label><input id="reportFile" type="file" accept=".txt,.md,.json,text/plain,text/markdown,application/json" hidden>
         <div class="action-row"><button id="saveReport" class="action" type="button">Verslag bewaren</button><button id="analyzeReport" class="action secondary" type="button">Bekijk met AI</button></div>
-        <p class="fineprint">Verslagen blijven in deze browser. Voor AI-feedback gaan het gekozen verslag, je oefenstand en maximaal twee samenvattingen van eerdere AI-feedback naar OpenAI, uitsluitend na je klik. Een API-sleutel is nodig en wordt niet opgeslagen.</p>
-        <details class="key-panel"><summary>AI instellen</summary><label for="apiKey">OpenAI API-sleutel voor deze sessie</label><input id="apiKey" type="password" autocomplete="off" spellcheck="false" placeholder="sk-…"><p class="fineprint">Gebruik bij voorkeur een sleutel met een eigen bestedingslimiet. Op een gedeeld apparaat is deze browserroute minder geschikt; een eigen server is veiliger.</p></details>
+        <p class="fineprint">Verslagen blijven in deze browser. Voor AI-feedback gaan alleen het gekozen verslag, je oefenstand en maximaal twee samenvattingen van eerdere feedback naar de AI-dienst, na je klik.</p>
+        <details class="key-panel"><summary id="aiSetupLabel">AI instellen</summary><label id="aiSecretLabel" for="apiKey">OpenAI API-sleutel voor deze sessie</label><input id="apiKey" type="password" autocomplete="off" spellcheck="false" placeholder="sk-…"><p id="aiSetupHelp" class="fineprint">De veilige serverkoppeling wordt ingericht. Tot die tijd is de bestaande directe sleutelroute beschikbaar; de sleutel wordt niet opgeslagen.</p></details>
         <p id="reportStatus" class="status" role="status"></p>
       </article>
       <article id="reportFeedback" class="card" hidden aria-live="polite"></article>
@@ -102,6 +90,6 @@
       <button data-view="verslagen" type="button">Verslagen</button>
     </nav>
   </main>
-  <script src="./app.js?v=3" defer></script>
+  <script src="./app.js?v=4" defer></script>
 </body>
 </html>

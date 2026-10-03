@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-03",
+  "title": "Stuur je keuze, niet de uitkomst",
+  "theme": "Controle en oordeel",
+  "thinkerId": "epictetus",
+  "passage": "Sommige dingen hangen van ons af, andere niet.",
+  "attribution": "Epictetus, Enchiridion 1 · Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Enchiridion 1",
+    "url": "https://www.stoicsource.com/epictetus/enchiridion/1/"
+  },
+  "facts": [
+    "Epictetus leefde ongeveer van 50 tot 135 n.Chr. en behoort tot de late Romeinse Stoa.",
+    "Hij werd geboren in Hierapolis en leefde een tijd als slaaf in Rome.",
+    "Hij studeerde bij Musonius Rufus en gaf later les in Nicopolis.",
+    "Zijn leerling Arrianus legde zijn onderwijs vast."
+  ],
+  "theory": "Epictetus noemt het vermogen om indrukken te beoordelen en bewust te kiezen prohairesis. Een uitkomst kun je vaak beïnvloeden, maar zij hangt ook van anderen en omstandigheden af. Je oefent wijsheid, rechtvaardigheid, moed en matigheid in de keuze die je nu maakt.",
+  "connections": ["Dichotomie van controle", "Indruk en oordeel", "Vier deugden"],
+  "diagram": ["Gebeurtenis", "Indruk", "Oordeel toetsen", "Goede stap"],
+  "concepts": [
+    {"term": "Indruk", "meaning": "Wat zich aan je voordoet", "example": "Mijn bericht blijft onbeantwoord."},
+    {"term": "Oordeel", "meaning": "De uitleg die jij eraan geeft", "example": "Ze vinden mijn werk slecht."},
+    {"term": "Eigen keuze", "meaning": "Wat jij nu kunt doen", "example": "Rustig navragen."}
+  ],
+  "modernExample": {
+    "situation": "Je stuurt een voorstel en hoort niets terug.",
+    "automatic": "Je leest stilte als afwijzing en stuurt een geïrriteerd bericht.",
+    "stoic": "Je merkt op dat afwijzing nog een aanname is en vraagt vriendelijk om een reactie."
+  },
+  "explain": "Epictetus, een voormalige slaaf en later leraar in Nicopolis, opent zijn Enchiridion met een onderscheid: mijn oordeel en keuze zijn van mij; mijn reputatie en de reactie van een ander niet. Daarom oefen ik zorgvuldig handelen zonder de afloop op te eisen.",
+  "exercise": "Schrijf bij één irritatie drie regels: wat gebeurde er, wat vul ik zelf in, en wat is mijn volgende goede stap?",
+  "reflection": "Welke aanname behandelde ik vandaag als een feit?",
+  "remember": "Ik kies mijn reactie; ik bezit de uitkomst niet.",
+  "knowledgeAnchor": {
+    "name": "Epictetus",
+    "concept": "Prohairesis: het vermogen om te oordelen en te kiezen",
+    "sentence": "Stuur je keuze, niet de uitkomst."
+  }
+}
