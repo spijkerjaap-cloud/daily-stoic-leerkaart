@@ -2,9 +2,9 @@ const CACHE_NAME = "daily-stoic-pwa-v2";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css",
-  "./app.js",
-  "./manifest.webmanifest",
+  "./styles.css?v=2",
+  "./app.js?v=2",
+  "./manifest.webmanifest?v=2",
   "./icon.svg"
 ];
 
