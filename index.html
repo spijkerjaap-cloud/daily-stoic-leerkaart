@@ -9,7 +9,7 @@
   <title>The Daily Stoic · Leeratelier</title>
   <link rel="manifest" href="./manifest.webmanifest?v=2">
   <link rel="apple-touch-icon" href="./icon.svg">
-  <link rel="stylesheet" href="./styles.css?v=2">
+  <link rel="stylesheet" href="./styles.css?v=3">
 </head>
 <body>
   <main class="app-shell">
@@ -34,18 +34,33 @@
         <p class="caption">Je kunt de uitkomst beïnvloeden. Alleen je eigen oordeel en keuze zijn helemaal van jou.</p>
       </div>
       <div class="card"><h2>Drie stappen voor vandaag</h2><ol class="steps"><li>Zie wat er feitelijk gebeurt.</li><li>Merk je eerste oordeel op.</li><li>Kies een verstandige, rechtvaardige stap.</li></ol></div>
+      <div class="card primer-teaser"><div><p class="eyebrow dark">Nieuw hier?</p><h2>Wat is stoïcisme?</h2><p>Lees in twee minuten waar de Stoa vandaan komt en hoe de ideeën samenhangen.</p></div><button class="action secondary" id="openPrimer" type="button">Lees de basis →</button></div>
       <div class="card next-card" id="personalNext"></div>
       <p class="source source-link">Bron: <a href="https://www.stoicsource.com/epictetus/enchiridion/1/" target="_blank" rel="noopener noreferrer">Enchiridion 1</a></p>
     </section>
 
     <section class="view" id="view-denker" aria-labelledby="heading-denker" hidden>
-      <div class="section-intro"><p class="eyebrow dark">De mensen achter de ideeën</p><h2 id="heading-denker">Ontmoet de denkers</h2><p>Kies een naam. Bekijk hun plaats in de Stoa, hun belangrijkste ideeën en een vraag om ze te onthouden.</p></div>
+      <div class="section-intro"><p class="eyebrow dark">De mensen achter de ideeën</p><h2 id="heading-denker">Ontmoet de denkers</h2><p>Kies een naam. Elk beeld verbeeldt een kernidee; het is geen historisch portret.</p></div>
       <div id="thinkerList" class="chip-list" role="group" aria-label="Kies een denker"></div>
       <article id="thinkerDetail" class="card detail-card" aria-live="polite"></article>
     </section>
 
     <section class="view" id="view-theorie" aria-labelledby="heading-theorie" hidden>
       <div class="section-intro"><p class="eyebrow dark">De kaart van de Stoa</p><h2 id="heading-theorie">Van indruk naar karakter</h2><p>De begrippen hangen samen: wat gebeurt er, hoe oordeel je, en hoe handel je?</p></div>
+      <article class="card primer" id="primer">
+        <p class="eyebrow dark">Begin hier · 2 minuten</p>
+        <h3>Wat is stoïcisme?</h3>
+        <p>Stoïcisme is een filosofische school die rond <strong>300 v.Chr. in Athene</strong> ontstond. Zeno van Citium gaf les bij de <em>Stoa Poikile</em>, een beschilderde zuilengang. De naam van de school komt van die plek.</p>
+        <p>De hoofdvraag is: <strong>hoe leef je goed wanneer niet alles loopt zoals je wilt?</strong> De stoïcijnen vonden karakter belangrijker dan bezit of status. Goed leven vraagt een redelijke blik én rechtvaardig handelen tegenover anderen.</p>
+        <div class="primer-pillars">
+          <div><strong>1 · Begrijp</strong><span>Onderzoek wat waar is en welke indruk je erbij krijgt. <em>Logica</em></span></div>
+          <div><strong>2 · Plaats</strong><span>Zie jezelf als deel van de natuur en een groter geheel. <em>Natuurleer</em></span></div>
+          <div><strong>3 · Handel</strong><span>Kies wat wijs, rechtvaardig, moedig en matig is. <em>Ethiek</em></span></div>
+        </div>
+        <div class="primer-example"><strong>Een voorbeeld</strong><p>Een collega reageert kort. Dat is de <b>gebeurtenis</b>. “Ze is boos op mij” is jouw eerste <b>oordeel</b>. Je kunt dat toetsen en daarna rustig <b>handelen</b>.</p></div>
+        <details><summary>Meer achtergrond: perioden en misverstanden</summary><p>De vroege Stoa begon met Zeno, Cleanthes en Chrysippus in Athene. Panaetius hoort bij de midden-Stoa. Seneca, Musonius Rufus, Epictetus en Marcus Aurelius schreven of onderwezen in de Romeinse tijd. De grens tussen deze perioden is een hulpmiddel; historici leggen die niet allemaal precies gelijk.</p><p>Stoïcijns zijn betekent niet dat je niets voelt. De oefening is om je eerste reactie te onderzoeken en zorgvuldig te kiezen. Je kunt een uitkomst vaak beïnvloeden, ook als die nooit volledig van jou afhangt.</p></details>
+        <p class="source">Verdieping: <a href="https://plato.stanford.edu/entries/stoicism/" target="_blank" rel="noopener noreferrer">Stanford Encyclopedia of Philosophy</a> · <a href="https://iep.utm.edu/stoicism/" target="_blank" rel="noopener noreferrer">Internet Encyclopedia of Philosophy</a></p>
+      </article>
       <div class="flow" aria-label="Stoïcijnse denkroute"><span>Gebeurtenis</span><b>→</b><span>Indruk</span><b>→</b><span>Oordeel</span><b>→</b><span>Keuze</span><b>→</b><span>Handeling</span></div>
       <div id="theoryList" class="theory-list"></div>
     </section>
@@ -87,6 +102,6 @@
       <button data-view="verslagen" type="button">Verslagen</button>
     </nav>
   </main>
-  <script src="./app.js?v=2" defer></script>
+  <script src="./app.js?v=3" defer></script>
 </body>
 </html>

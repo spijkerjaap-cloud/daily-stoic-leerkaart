@@ -2,6 +2,8 @@
 
 Telefoonvriendelijke PWA met vijf schermen: Vandaag, Denker, Theorie, Oefening en Verslagen.
 
+Onder **Theorie** staat een leesbare introductie tot het stoïcisme. Elk van de acht denkers heeft een eigen illustratie die één kernidee verbeeldt. De figuren zijn symbolisch en geen historische portretten.
+
 ## Gebruik
 
 Open de GitHub Pages-site en voeg die via **Zet op beginscherm** toe aan je telefoon. De basisinhoud werkt na de eerste laadbeurt ook offline. De app bewaart oefenantwoorden, reflecties en verslagen in `localStorage` van die browser. Met **Download gegevens** maak je zelf een back-up.

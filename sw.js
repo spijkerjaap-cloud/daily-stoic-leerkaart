@@ -1,11 +1,19 @@
-const CACHE_NAME = "daily-stoic-pwa-v3";
+const CACHE_NAME = "daily-stoic-pwa-v4";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=2",
-  "./app.js?v=2",
+  "./styles.css?v=3",
+  "./app.js?v=3",
   "./manifest.webmanifest?v=2",
-  "./icon.svg"
+  "./icon.svg",
+  "./assets/thinkers/zeno.webp",
+  "./assets/thinkers/cleanthes.webp",
+  "./assets/thinkers/chrysippus.webp",
+  "./assets/thinkers/panaetius.webp",
+  "./assets/thinkers/musonius.webp",
+  "./assets/thinkers/seneca.webp",
+  "./assets/thinkers/epictetus.webp",
+  "./assets/thinkers/marcus.webp"
 ];
 
 self.addEventListener("install", (event) => {

@@ -9,6 +9,17 @@ const THINKERS = [
   { id:"marcus", name:"Marcus Aurelius", years:"121–180 n.Chr.", era:"Late Romeinse Stoa", role:"Romeins keizer en schrijver van persoonlijke notities", intro:"Marcus schreef de Meditaties als oefeningen voor zichzelf tijdens een leven vol bestuurswerk en oorlog. Het was geen handboek voor publiek.", ideas:["Herinner jezelf aan je plicht tegenover anderen.","Zie tegenslag als gelegenheid om karakter te tonen.","Sterfelijkheid maakt aandacht voor het huidige handelen urgent."], source:"https://plato.stanford.edu/entries/marcus-aurelius/", hook:"Voor wie schreef Marcus de Meditaties?", answer:"Voor zichzelf." }
 ];
 
+const THINKER_VISUALS = {
+  zeno: { image:"zeno.webp", alt:"Symbolische illustratie van een leraar bij de beschilderde zuilengang in Athene", idea:"De zuilengang: filosofie als openbaar gesprek over goed leven." },
+  cleanthes: { image:"cleanthes.webp", alt:"Symbolische illustratie van een denker onder een geordende sterrenhemel", idea:"De sterrenhemel: de kosmos als samenhangend geheel." },
+  chrysippus: { image:"chrysippus.webp", alt:"Symbolische illustratie van een denker die logische vertakkingen met steentjes onderzoekt", idea:"De vertakking: toets een indruk voordat je instemt." },
+  panaetius: { image:"panaetius.webp", alt:"Symbolische illustratie van een brug tussen een Griekse zuilengang en een Romeins forum", idea:"De brug: Griekse ideeën krijgen een plek in Romeinse plichten." },
+  musonius: { image:"musonius.webp", alt:"Symbolische illustratie van een leraar die bij een eenvoudig maal lesgeeft", idea:"De eenvoudige tafel: filosofie blijkt uit dagelijkse gewoonten." },
+  seneca: { image:"seneca.webp", alt:"Symbolische illustratie van een schrijver met brief en zandloper", idea:"De zandloper: tijd vraagt om bewuste keuzes." },
+  epictetus: { image:"epictetus.webp", alt:"Symbolische illustratie van een leraar met een lichte cirkel rond zijn handen", idea:"De binnenste cirkel: oordeel en keuze zijn jouw oefenterrein." },
+  marcus: { image:"marcus.webp", alt:"Symbolische illustratie van een keizer die in een veldtent schrijft", idea:"Het notitieboek: leiderschap begint met zelfonderzoek." }
+};
+
 const THEORY = [
   { id:"controle", title:"Wat hangt van mij af?", thinker:"Epictetus", meaning:"Je oordeel, keuze en inzet zijn van jou. Reputatie en uitkomst zijn afhankelijk van meer factoren.", example:"Je bereidt een gesprek goed voor; je beheerst de reactie van de ander niet.", link:"https://www.stoicsource.com/epictetus/enchiridion/1/" },
   { id:"indruk", title:"Indruk en instemming", thinker:"Epictetus · Chrysippus", meaning:"Een indruk dient zich aan. Je kunt onderzoeken of jouw eerste uitleg klopt voordat je ermee instemt.", example:"Een kort bericht is een feit; ‘ze is boos’ is nog een interpretatie.", link:"https://www.stoicsource.com/epictetus/enchiridion/5/" },
@@ -57,11 +68,13 @@ function showView(name) {
   window.scrollTo({top:0,behavior:"instant"});
 }
 document.querySelectorAll(".bottom-nav button").forEach((button) => button.addEventListener("click",() => showView(button.dataset.view)));
+$("#openPrimer").addEventListener("click",()=>{showView("theorie");$("#primer").scrollIntoView({behavior:"smooth",block:"start"});});
 
 function renderThinkers() {
-  $("#thinkerList").innerHTML = THINKERS.map((person) => `<button type="button" class="chip ${person.id===state.selectedThinker?"active":""}" data-thinker="${person.id}" aria-pressed="${person.id===state.selectedThinker}">${esc(person.name)}</button>`).join("");
+  $("#thinkerList").innerHTML = THINKERS.map((person) => `<button type="button" class="chip ${person.id===state.selectedThinker?"active":""}" data-thinker="${person.id}" aria-pressed="${person.id===state.selectedThinker}"><img src="./assets/thinkers/${THINKER_VISUALS[person.id].image}" alt="" loading="lazy" width="36" height="36"><span>${esc(person.name)}</span></button>`).join("");
   const thinker = THINKERS.find((item) => item.id===state.selectedThinker) || THINKERS[6];
-  $("#thinkerDetail").innerHTML = `<p class="eyebrow dark">${esc(thinker.era)} · ${esc(thinker.years)}</p><h3>${esc(thinker.name)}</h3><p class="role">${esc(thinker.role)}</p><p>${esc(thinker.intro)}</p><h4>Belangrijkste ideeën</h4><ol class="steps">${thinker.ideas.map((idea)=>`<li>${esc(idea)}</li>`).join("")}</ol><div class="memory-question"><strong>Onthoudvraag</strong><p>${esc(thinker.hook)}</p><details><summary>Toon antwoord</summary><p>${esc(thinker.answer)}</p></details></div><p class="source"><a href="${thinker.source}" target="_blank" rel="noopener noreferrer">Meer achtergrond en bron</a></p>`;
+  const visual=THINKER_VISUALS[thinker.id];
+  $("#thinkerDetail").innerHTML = `<p class="eyebrow dark">${esc(thinker.era)} · ${esc(thinker.years)}</p><h3>${esc(thinker.name)}</h3><p class="role">${esc(thinker.role)}</p><figure class="thinker-figure"><img src="./assets/thinkers/${visual.image}" alt="${esc(visual.alt)}" width="720" height="720"><figcaption><strong>Beeld om te onthouden</strong><span>${esc(visual.idea)}</span></figcaption></figure><p>${esc(thinker.intro)}</p><h4>Belangrijkste ideeën</h4><ol class="steps">${thinker.ideas.map((idea)=>`<li>${esc(idea)}</li>`).join("")}</ol><div class="memory-question"><strong>Onthoudvraag</strong><p>${esc(thinker.hook)}</p><details><summary>Toon antwoord</summary><p>${esc(thinker.answer)}</p></details></div><p class="source"><a href="${thinker.source}" target="_blank" rel="noopener noreferrer">Meer achtergrond en bron</a></p>`;
   document.querySelectorAll("[data-thinker]").forEach((button)=>button.addEventListener("click",()=>{state.selectedThinker=button.dataset.thinker;persist();renderThinkers();}));
 }
 function renderTheory() {
