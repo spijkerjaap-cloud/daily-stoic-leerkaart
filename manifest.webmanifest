@@ -1,7 +1,7 @@
 {
-  "name": "The Daily Stoic Leerkaart",
-  "short_name": "Daily Stoic",
-  "description": "Dagelijkse Stoicijnse passage met bron, theorie, tekening en oefening.",
+  "name": "The Daily Stoic Leeratelier",
+  "short_name": "Stoic Atelier",
+  "description": "Stoïcijnse denkers, theorie, oefeningen en persoonlijke verslagen.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

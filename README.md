@@ -1,11 +1,23 @@
-# The Daily Stoic Leerkaart
+# The Daily Stoic · Leeratelier
 
-Een kleine telefoonvriendelijke PWA voor dagelijkse Stoicijnse leerkaarten.
+Telefoonvriendelijke PWA met vijf schermen: Vandaag, Denker, Theorie, Oefening en Verslagen.
 
-## Installeren op je telefoon
+## Gebruik
 
-1. Publiceer deze map via GitHub Pages.
-2. Open de GitHub Pages-link op je telefoon.
-3. Kies in Safari of Chrome voor **Zet op beginscherm**.
+Open de GitHub Pages-site en voeg die via **Zet op beginscherm** toe aan je telefoon. De basisinhoud werkt na de eerste laadbeurt ook offline. De app bewaart oefenantwoorden, reflecties en verslagen in `localStorage` van die browser. Met **Download gegevens** maak je zelf een back-up.
 
-Daarna opent de site als een app.
+De denkers en theorie zijn redactionele startinhoud met bronlinks. De kaart van Vandaag is momenteel de eerste Epictetus-les; de geplande dagelijkse Codex-automatisering levert nog geen automatische datafeed aan deze PWA.
+
+## AI-feedback bij verslagen
+
+Open **Verslagen → AI instellen**, vul een OpenAI API-sleutel in en klik op **Bekijk met AI** bij een verslag. De app verstuurt dat verslag en een korte samenvatting van de oefenstand rechtstreeks naar de OpenAI Responses API met `store: false`. De sleutel blijft alleen in het invoerveld tijdens de huidige sessie; de app slaat hem niet op. API-gebruik kan kosten veroorzaken.
+
+Voor een gedeelde of breed verspreide app hoort deze browserroute te worden vervangen door een eigen server met authenticatie en een server-side API-sleutel. De huidige statische GitHub Pages-site heeft geen eigen backend of synchronisatie tussen apparaten.
+
+## Lokaal testen
+
+```bash
+python3 -m http.server 8766
+```
+
+Open daarna `http://localhost:8766/`. Voor service workers en installatie gebruikt een telefoon de HTTPS GitHub Pages-site.

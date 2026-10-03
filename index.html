@@ -6,118 +6,87 @@
   <meta name="theme-color" content="#24342f">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Daily Stoic">
-  <title>The Daily Stoic Leerkaart</title>
+  <title>The Daily Stoic · Leeratelier</title>
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./icon.svg">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
   <main class="app-shell">
-    <section class="topbar" aria-label="Dagelijkse voortgang">
-      <div>
-        <p class="eyebrow">The Daily Stoic</p>
-        <h1>Leerkaart van vandaag</h1>
-      </div>
-      <div class="day-pill">
-        <span id="dayLabel">Vandaag</span>
-        <strong id="dateLabel"></strong>
-      </div>
-    </section>
+    <header class="topbar">
+      <div><p class="eyebrow">The Daily Stoic · Leeratelier</p><h1 id="pageTitle">Vandaag</h1></div>
+      <div class="day-pill"><span id="dayLabel"></span><strong id="dateLabel"></strong></div>
+    </header>
 
-    <section class="quote-panel">
-      <p class="theme">Thema: controle en oordeel</p>
-      <blockquote>
-        "Sommige dingen liggen binnen onze macht, andere niet."
-      </blockquote>
-      <p class="source">Epictetus, <cite>Enchiridion</cite>, hoofdstuk 1, parafrase</p>
-    </section>
-
-    <section class="visual-card" aria-label="Visuele uitleg">
-      <h2>Tekening</h2>
-      <div class="drawing" role="img" aria-label="Cirkel van controle met binnenin keuzes en buiten de meningen van anderen">
-        <div class="orbit outside">
-          <span>weer</span>
-          <span>meningen</span>
-          <span>uitkomst</span>
+    <section class="view active" id="view-vandaag" aria-labelledby="heading-vandaag">
+      <div class="quote-panel">
+        <p class="theme">Vandaag · controle en oordeel</p>
+        <h2 id="heading-vandaag" class="display-title">Stuur je keuze, niet de uitkomst</h2>
+        <blockquote>“Sommige dingen hangen van ons af, andere niet.”</blockquote>
+        <p class="source">Epictetus, <cite>Enchiridion</cite> 1 · Nederlandse parafrase</p>
+      </div>
+      <div class="visual-card">
+        <h2>Het idee in één beeld</h2>
+        <div class="drawing" role="img" aria-label="Een binnenste cirkel met oordeel en handelen; daarbuiten reputatie, weer en uitkomst">
+          <div class="orbit outside"><span>weer</span><span>reputatie</span><span>uitkomst</span></div>
+          <div class="orbit inside"><strong>mijn keuze</strong><span>oordeel</span><span>handeling</span></div>
         </div>
-        <div class="orbit inside">
-          <strong>mijn macht</strong>
-          <span>oordeel</span>
-          <span>keuze</span>
-          <span>reactie</span>
-        </div>
+        <p class="caption">Je kunt de uitkomst beïnvloeden. Alleen je eigen oordeel en keuze zijn helemaal van jou.</p>
       </div>
-      <p class="caption">De Stoicijn begint in het midden: niet bij wat gebeurt, maar bij het oordeel dat hij eraan geeft.</p>
+      <div class="card"><h2>Drie stappen voor vandaag</h2><ol class="steps"><li>Zie wat er feitelijk gebeurt.</li><li>Merk je eerste oordeel op.</li><li>Kies een verstandige, rechtvaardige stap.</li></ol></div>
+      <div class="card next-card" id="personalNext"></div>
+      <p class="source source-link">Bron: <a href="https://www.stoicsource.com/epictetus/enchiridion/1/" target="_blank" rel="noopener noreferrer">Enchiridion 1</a></p>
     </section>
 
-    <section class="grid">
-      <article class="card">
-        <h2>Wie zei dit?</h2>
-        <ul>
-          <li><strong>Epictetus</strong>, ca. 50-135 n.Chr.</li>
-          <li>Geboren als slaaf, later Stoicijns leraar.</li>
-          <li>Hoort bij de late Romeinse Stoa.</li>
-          <li>Zijn leerling Arrianus noteerde zijn lessen.</li>
-        </ul>
+    <section class="view" id="view-denker" aria-labelledby="heading-denker" hidden>
+      <div class="section-intro"><p class="eyebrow dark">De mensen achter de ideeën</p><h2 id="heading-denker">Ontmoet de denkers</h2><p>Kies een naam. Bekijk hun plaats in de Stoa, hun belangrijkste ideeën en een vraag om ze te onthouden.</p></div>
+      <div id="thinkerList" class="chip-list" role="group" aria-label="Kies een denker"></div>
+      <article id="thinkerDetail" class="card detail-card" aria-live="polite"></article>
+    </section>
+
+    <section class="view" id="view-theorie" aria-labelledby="heading-theorie" hidden>
+      <div class="section-intro"><p class="eyebrow dark">De kaart van de Stoa</p><h2 id="heading-theorie">Van indruk naar karakter</h2><p>De begrippen hangen samen: wat gebeurt er, hoe oordeel je, en hoe handel je?</p></div>
+      <div class="flow" aria-label="Stoïcijnse denkroute"><span>Gebeurtenis</span><b>→</b><span>Indruk</span><b>→</b><span>Oordeel</span><b>→</b><span>Keuze</span><b>→</b><span>Handeling</span></div>
+      <div id="theoryList" class="theory-list"></div>
+    </section>
+
+    <section class="view" id="view-oefening" aria-labelledby="heading-oefening" hidden>
+      <div class="section-intro"><p class="eyebrow dark">Oefen, ontdek, herhaal</p><h2 id="heading-oefening">Jouw oefenruimte</h2><p id="practiceProgress"></p></div>
+      <article class="card practice-interactive">
+        <p class="eyebrow dark" id="exerciseTopic"></p><h3 id="exerciseQuestion"></h3>
+        <div id="exerciseOptions" class="option-list" role="group" aria-label="Antwoordopties"></div>
+        <div id="exerciseFeedback" class="feedback" aria-live="polite"></div>
+        <button id="nextExercise" class="action secondary" type="button" hidden>Volgende vraag</button>
       </article>
+      <article class="card reflection-card"><h3>Van theorie naar jouw dag</h3><label for="reflection">Beschrijf één situatie, je eerste oordeel en je volgende goede stap.</label><textarea id="reflection" rows="5" placeholder="De situatie was… Mijn eerste oordeel was… Ik kies nu…"></textarea><button id="saveReflection" class="action" type="button">Reflectie bewaren</button><p id="reflectionStatus" class="status" role="status"></p></article>
+      <article id="learningPattern" class="card"></article>
+    </section>
 
-      <article class="card">
-        <h2>Theorie</h2>
-        <table>
-          <thead>
-            <tr>
-              <th>Begrip</th>
-              <th>Betekenis</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Controle</td>
-              <td>Richt energie op keuze, oordeel en handelen.</td>
-            </tr>
-            <tr>
-              <td>Indruk</td>
-              <td>Een gebeurtenis raakt je via je interpretatie.</td>
-            </tr>
-            <tr>
-              <td>Deugd</td>
-              <td>Goed leven is wijs, moedig, rechtvaardig en beheerst handelen.</td>
-            </tr>
-          </tbody>
-        </table>
+    <section class="view" id="view-verslagen" aria-labelledby="heading-verslagen" hidden>
+      <div class="section-intro"><p class="eyebrow dark">Jouw eigen voorbeelden</p><h2 id="heading-verslagen">Verslagen en leerfeedback</h2><p>Bewaar een verslag of reflectie. De app gebruikt je antwoorden om een passend begrip en een vervolgoefening te kiezen.</p></div>
+      <article class="card report-editor">
+        <label for="reportTitle">Titel</label><input id="reportTitle" type="text" maxlength="100" placeholder="Bijvoorbeeld: een lastig gesprek">
+        <label for="reportText">Verslag</label><textarea id="reportText" rows="9" maxlength="15000" placeholder="Wat gebeurde er? Wat dacht je? Wat deed je? Wat zou je volgende keer kiezen?"></textarea>
+        <label class="upload-zone" for="reportFile"><strong>Of kies een .txt, .md of .json bestand</strong><span>Ook slepen naar dit vak werkt. Maximaal 1 MB.</span></label><input id="reportFile" type="file" accept=".txt,.md,.json,text/plain,text/markdown,application/json" hidden>
+        <div class="action-row"><button id="saveReport" class="action" type="button">Verslag bewaren</button><button id="analyzeReport" class="action secondary" type="button">Bekijk met AI</button></div>
+        <p class="fineprint">Verslagen blijven in deze browser. Voor AI-feedback gaan het gekozen verslag, je oefenstand en maximaal twee samenvattingen van eerdere AI-feedback naar OpenAI, uitsluitend na je klik. Een API-sleutel is nodig en wordt niet opgeslagen.</p>
+        <details class="key-panel"><summary>AI instellen</summary><label for="apiKey">OpenAI API-sleutel voor deze sessie</label><input id="apiKey" type="password" autocomplete="off" spellcheck="false" placeholder="sk-…"><p class="fineprint">Gebruik bij voorkeur een sleutel met een eigen bestedingslimiet. Op een gedeeld apparaat is deze browserroute minder geschikt; een eigen server is veiliger.</p></details>
+        <p id="reportStatus" class="status" role="status"></p>
       </article>
-    </section>
-
-    <section class="practice-card">
-      <h2>Vandaag oefenen</h2>
-      <div class="practice-grid">
-        <div>
-          <span class="label">Situatie</span>
-          <p>Iemand reageert kortaf op je.</p>
-        </div>
-        <div>
-          <span class="label">Automatisch</span>
-          <p>"Diegene respecteert mij niet."</p>
-        </div>
-        <div>
-          <span class="label">Stoicijns</span>
-          <p>"Zijn toon is van hem; mijn reactie is van mij."</p>
-        </div>
-      </div>
-    </section>
-
-    <section class="explain-card">
-      <h2>Zo leg je het uit</h2>
-      <p>Epictetus begint zijn handboek met een scheiding: sommige dingen zijn van jou, andere niet. Je lichaam, reputatie en bezit kunnen geraakt worden door toeval of andere mensen. Je oordeel, keuze en houding zijn je oefenterrein.</p>
+      <article id="reportFeedback" class="card" hidden aria-live="polite"></article>
+      <div class="section-intro list-heading"><h3>Mijn verslagen</h3><p id="reportCount"></p></div>
+      <div id="reportList" class="report-list"></div>
+      <div class="card export-card"><h3>Neem je werk mee</h3><p>Download je verslagen en oefenvoortgang als JSON. Je kunt ze later op dit apparaat terugzetten.</p><div class="action-row"><button id="exportData" class="action secondary" type="button">Download gegevens</button><label class="action secondary import-label" for="importData">Gegevens terugzetten</label><input id="importData" type="file" accept="application/json,.json" hidden></div></div>
     </section>
 
     <nav class="bottom-nav" aria-label="App-navigatie">
-      <button class="active" type="button">Vandaag</button>
-      <button type="button">Denker</button>
-      <button type="button">Theorie</button>
-      <button type="button">Oefening</button>
+      <button class="active" data-view="vandaag" type="button" aria-current="page">Vandaag</button>
+      <button data-view="denker" type="button">Denker</button>
+      <button data-view="theorie" type="button">Theorie</button>
+      <button data-view="oefening" type="button">Oefening</button>
+      <button data-view="verslagen" type="button">Verslagen</button>
     </nav>
   </main>
-  <script src="./app.js"></script>
+  <script src="./app.js" defer></script>
 </body>
 </html>
