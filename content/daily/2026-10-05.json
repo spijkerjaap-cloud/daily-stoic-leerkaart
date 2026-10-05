@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-05",
+  "title": "Denk als een bij, handel rechtvaardig",
+  "theme": "Rechtvaardigheid en gemeenschap",
+  "thinkerId": "marcus",
+  "passage": "Wat de bijenkorf niet dient, dient ook de bij niet.",
+  "attribution": "Marcus Aurelius, Meditaties 6.54 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Meditaties 6.54 (brontekst en vertaling)",
+    "url": "https://marcusaurelius-meditations.org/en/chapters/book-06/54/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer vanaf 161.",
+    "Hij schreef de Meditaties in het Grieks als aantekeningen voor zichzelf, niet als lesboek voor een publiek.",
+    "Een deel ontstond tijdens zijn veldtochten aan de Donau in de jaren 170; de precieze plaats van deze zin is onbekend.",
+    "De bijenkorf is zijn korte beeld voor de band tussen een mens en de gemeenschap."
+  ],
+  "theory": "In de stoïcijnse ethiek is de mens redelijk én sociaal. Rechtvaardigheid vraagt daarom dat je bij je eigen voordeel ook de gevolgen voor anderen onderzoekt. Dit sluit aan bij oikeiôsis: de groei van zorg voor jezelf naar zorg voor andere mensen. De zin is geen vrijbrief om een individu voor 'de groep' op te offeren; ook iemands waardigheid telt mee.",
+  "connections": ["Rechtvaardigheid", "Leven volgens de natuur", "Oikeiôsis", "Passend handelen"],
+  "diagram": ["Mijn voordeel", "Gevolg voor anderen", "Toets aan rechtvaardigheid", "Kies de eerlijke stap"],
+  "concepts": [
+    {"term": "Bij", "meaning": "Jij als deel van een gemeenschap", "example": "Je werkt in een team."},
+    {"term": "Bijenkorf", "meaning": "Mensen die je keuze raakt", "example": "Collega's en klanten."},
+    {"term": "Rechtvaardigheid", "meaning": "Anderen eerlijk behandelen", "example": "Deel ook een fout die het team raakt."}
+  ],
+  "modernExample": {
+    "situation": "Je ziet dat een fout in een gedeeld rapport jouw naam spaart, maar een collega de schuld kan krijgen.",
+    "automatic": "Je zwijgt: zo blijft je eigen reputatie veilig.",
+    "stoic": "Je meldt de fout rustig, neemt jouw deel van de verantwoordelijkheid en helpt het rapport herstellen."
+  },
+  "explain": "Marcus gebruikt een bijenkorf als geheugensteun: je leeft niet los van de mensen om je heen. Vraag dus bij een keuze niet alleen 'wat levert het mij op?', maar ook 'is dit eerlijk voor wie de gevolgen draagt?'. De Stoa noemt zo'n sociale toets rechtvaardigheid. Hoe ver het belang van de gemeenschap reikt, blijft een interpretatievraag; het rechtvaardigt geen blinde groepsgehoorzaamheid.",
+  "exercise": "Neem vandaag één kleine keuze die anderen raakt. Schrijf eerst op wie voordeel of nadeel heeft; kies daarna één eerlijke stap.",
+  "reflection": "Waar beschermde ik vandaag mijn gemak ten koste van iemand anders?",
+  "remember": "Mijn keuze raakt de korf; rechtvaardigheid begint dichtbij.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius (121–180 n.Chr.)",
+    "concept": "Rechtvaardigheid: rekening houden met wie jouw keuze raakt",
+    "sentence": "Denk als een bij: toets je voordeel aan het welzijn van de korf."
+  }
+}
