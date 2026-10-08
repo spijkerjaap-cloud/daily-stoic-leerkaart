@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-08",
+  "title": "Pak vandaag vast vóór het wegglijdt",
+  "theme": "Tijd, uitstel en bewuste aandacht",
+  "thinkerId": "seneca",
+  "passage": "Terwijl je uitstelt, glijdt het leven voorbij.",
+  "attribution": "Seneca, Brieven aan Lucilius 1.2 · eigen Nederlandse parafrase, geen kalendercitaat",
+  "source": {
+    "label": "Seneca, Epistulae Morales 1.2 (Latijnse brontekst, Perseus)",
+    "url": "https://beta.perseus.tufts.edu/urn:cts:latinLit:phi1017.phi015.perseus-lat2/"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr.; hij werd geboren in Corduba en kreeg onderwijs in Rome.",
+    "Hij was adviseur van keizer Nero vanaf diens aantreden in 54 n.Chr. en trok zich rond 62 uit het politieke leven terug.",
+    "De Brieven aan Lucilius ontstonden waarschijnlijk in zijn laatste jaren, circa 62–65 n.Chr.; de precieze datum van brief 1 is niet bekend.",
+    "In brief 1.2 schrijft hij in het Latijn: ‘Dum differtur, vita transcurrit’ en spoort hij Lucilius aan vandaag al te handelen."
+  ],
+  "theory": "Voor Seneca is tijd een eindige kans om goed te leven. Uitstel maakt je afhankelijk van een morgen die niet vaststaat. In de stoïcijnse ethiek telt niet hoeveel taken je afvinkt, maar of je nu wijs en passend handelt. Zijn beeld dat tijd ‘van ons’ is, is retorisch: je kunt aandacht en keuzes sturen, niet de lengte van je leven bezitten.",
+  "connections": ["Memento mori", "Passend handelen", "Deugd boven status", "Aandacht voor het heden"],
+  "diagram": ["Ik stel iets waardevols uit", "Waarom wacht ik?", "Kies één passende stap", "Doe die vandaag"],
+  "concepts": [
+    {"term": "Uitstel", "meaning": "Een belangrijke stap doorschuiven zonder goede reden", "example": "Dat eerlijke gesprek kan later wel."},
+    {"term": "Passend handelen", "meaning": "Een concrete stap kiezen die bij je rol en waarden past", "example": "Vraag om tien minuten voor het gesprek."},
+    {"term": "Memento mori", "meaning": "Eindigheid gebruiken om prioriteiten helder te zien", "example": "Geef vandaag aandacht aan iemand die ertoe doet."}
+  ],
+  "modernExample": {
+    "situation": "Je wilt een vriend bellen die het moeilijk heeft, maar blijft eerst door meldingen scrollen.",
+    "automatic": "Je denkt: morgen heb ik vast meer tijd, en opent nog een app.",
+    "stoic": "Je legt de telefoon even stil en stuurt nu een bericht: ‘Ik denk aan je. Kan ik je vanavond bellen?’"
+  },
+  "explain": "Seneca schrijft aan Lucilius dat verloren uren niet terugkomen. Daarom vraagt hij niet om een vollere agenda, maar om een bewuste eerste stap op de dag die je hebt. Hij schreef dit in zijn laatste levensjaren, vermoedelijk tussen 62 en 65 n.Chr. Je hoeft de toekomst niet te beheersen om vandaag zorgvuldig te handelen.",
+  "exercise": "Kies één belangrijk maar uitgesteld contact of taakje. Zet een timer op twee minuten en doe alleen de eerste concrete stap.",
+  "reflection": "Wat schoof ik vandaag door terwijl ik er nu al één goede stap in kon zetten?",
+  "remember": "Morgen is geen afspraak; één goede stap kan vandaag.",
+  "knowledgeAnchor": {
+    "name": "Seneca · Romeinse Stoa, ca. 1 v.Chr.–65 n.Chr.",
+    "concept": "Tijd en passend handelen: gebruik het huidige moment voor een goede keuze",
+    "sentence": "Terwijl je uitstelt, glijdt het leven voorbij."
+  }
+}
