@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-09",
+  "title": "Geef iedereen toegang tot wijsheid",
+  "theme": "Gelijke toegang tot deugd en filosofie",
+  "thinkerId": "musonius",
+  "passage": "Wie goed wil leren leven, heeft oefening in wijsheid nodig — vrouw én man.",
+  "attribution": "Musonius Rufus, Les III · eigen Nederlandse parafrase, geen kalendercitaat",
+  "source": {
+    "label": "Musonius Rufus, Les III (brontekst in Engelse vertaling)",
+    "url": "https://www.stoicsource.com/rufus/lectures/III/"
+  },
+  "facts": [
+    "Musonius Rufus werd vóór 30 n.Chr. geboren in Volsinii in Italië en onderwees later stoïcijnse filosofie in Rome.",
+    "Keizer Nero verbande hem in 65 n.Chr. naar Gyaros; in 68 n.Chr. keerde hij terug naar Rome.",
+    "Zijn eigen geschriften zijn niet bewaard. Zijn lessen kennen we via verslagen van anderen; de precieze datum van Les III is onbekend.",
+    "Epictetus studeerde een tijd bij Musonius Rufus."
+  ],
+  "theory": "In de stoïcijnse ethiek is deugd het eigenlijke goede: wijs, rechtvaardig, moedig en matig handelen. Musonius redeneert in Les III dat vrouwen en mannen kunnen denken en deugd kunnen leren. Daarom hoort oefening in filosofie niet tot één groep beperkt te zijn. Zijn conclusie over onderwijs is ruim voor zijn tijd, maar zijn verwachtingen over huishoudelijke rollen blijven duidelijk antiek en zijn geen moderne gelijkheidstheorie.",
+  "connections": ["De vier deugden", "Leven volgens de natuur", "Oefening boven alleen theorie", "Rechtvaardigheid"],
+  "diagram": ["Ieder mens kan redeneren", "Ieder mens kan deugd oefenen", "Geef toegang tot leren", "Laat handelen het bewijs zijn"],
+  "concepts": [
+    {"term": "Deugd", "meaning": "Goed karakter dat zichtbaar wordt in keuzes", "example": "Een fout eerlijk herstellen."},
+    {"term": "Redelijk vermogen", "meaning": "Kunnen onderzoeken wat goed en rechtvaardig is", "example": "Een aanname over iemands talent toetsen."},
+    {"term": "Filosofie als oefening", "meaning": "Leren denken om beter te handelen", "example": "Kennis delen en iemand laten meedoen."}
+  ],
+  "modernExample": {
+    "situation": "In een team krijgt steeds dezelfde ervaren collega de leerzame taak; een nieuwkomer wordt overgeslagen.",
+    "automatic": "Je denkt: die nieuwkomer is er vast nog niet klaar voor, en laat de taakverdeling staan.",
+    "stoic": "Je vraagt welke ondersteuning nodig is en geeft de nieuwkomer een eerlijke kans om de taak te leren."
+  },
+  "explain": "Musonius vraagt in het Rome van de eerste eeuw: als vrouwen net als mannen kunnen redeneren en goed handelen, waarom zouden zij dan geen filosofie leren? De les is dat wijsheid door oefening groeit en dat toegang tot die oefening ertoe doet. Hij koppelde dit nog aan traditionele rollen; die hoeven we niet over te nemen om zijn argument voor leren serieus te nemen.",
+  "exercise": "Let vandaag op één kleine leerkans. Vraag iemand die vaak wordt overgeslagen of die wil meedoen, en bied één concrete vorm van hulp aan.",
+  "reflection": "Welke aanname over wie iets kan leren heb ik vandaag getoetst?",
+  "remember": "Wie kan leren handelen, verdient de kans om te oefenen.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus · Romeinse Stoa, vóór 30–vóór 102 n.Chr.",
+    "concept": "Deugd is leerbaar voor vrouwen en mannen",
+    "sentence": "Geef iedereen toegang tot wijsheid."
+  }
+}
