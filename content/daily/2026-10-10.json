@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-10",
+  "title": "Laat roem niet je kompas zijn",
+  "theme": "Logos, wijsheid en schijngoed",
+  "thinkerId": "cleanthes",
+  "passage": "Wie achter roem, winst of genot aanholt, kan de gemeenschappelijke rede uit het oog verliezen; vraag om helder inzicht.",
+  "attribution": "Cleanthes, Hymne aan Zeus, regels 21–34 · eigen Nederlandse parafrase; geen citaat uit The Daily Stoic",
+  "source": {
+    "label": "Cleanthes, Hymne aan Zeus (Griekse tekst en Engelse vertaling)",
+    "url": "https://en.wikisource.org/wiki/The_Hymn_of_Cleanthes"
+  },
+  "facts": [
+    "Cleanthes kwam uit Assos en leefde ongeveer van 331/330 tot 230/229 v.Chr.; de datering is op basis van antieke getuigenissen gereconstrueerd.",
+    "Hij volgde Zeno rond 262/261 v.Chr. op als leider van de Stoa in Athene; daarna kwam Chrysippus.",
+    "De Hymne aan Zeus is via de latere bloemlezing van Stobaeus overgeleverd. De precieze datum waarop Cleanthes haar schreef, is onbekend.",
+    "In regels 21–34 zet de hymne jacht op roem, winst en lichamelijk genot tegenover inzicht in de gemeenschappelijke wet en rechtvaardigheid."
+  ],
+  "theory": "Voor de vroege Stoa horen natuurleer en ethiek bij elkaar. Cleanthes noemt de redelijke ordening van de kosmos logos en verbeeldt haar als Zeus. Een mens leeft volgens de natuur door met verstand en rechtvaardigheid te handelen. Roem, geld en comfort kunnen nuttig zijn, maar zijn geen maatstaf voor een goed karakter. De hymne is tegelijk religieus gedicht en filosofische tekst; over de precieze verhouding tussen Zeus en logos verschillen lezingen.",
+  "connections": ["Logos", "Leven volgens de natuur", "Deugd als het eigenlijke goede", "Rechtvaardigheid"],
+  "diagram": ["Verleiding: roem, winst of gemak", "Vraag: wat dient het goede handelen?", "Toets aan rede én rechtvaardigheid", "Kies de passende stap"],
+  "concepts": [
+    {"term": "Logos", "meaning": "De redelijke samenhang van de kosmos in het antieke stoïcijnse wereldbeeld", "example": "Zoek een verstandige reactie op een lastige situatie."},
+    {"term": "Schijngoed", "meaning": "Iets aantrekkelijks dat op zichzelf geen goed karakter garandeert", "example": "Veel likes voor een misleidende post."},
+    {"term": "Deugd", "meaning": "Verstandig en rechtvaardig handelen, ook als dat iets kost", "example": "Een fout openlijk rechtzetten."}
+  ],
+  "modernExample": {
+    "situation": "Je kunt een projectupdate mooier voorstellen dan de feiten toelaten en daarmee applaus krijgen.",
+    "automatic": "Je verzwijgt het probleem: erkenning voelt nu belangrijker dan nauwkeurigheid.",
+    "stoic": "Je meldt wat goed gaat én wat nog niet werkt, en stelt een concrete herstelstap voor."
+  },
+  "explain": "Cleanthes leidde in de derde eeuw v.Chr. de Stoïcijnse school in Athene. In zijn Hymne aan Zeus beschrijft hij mensen die zich laten trekken door roem, winst of genot en daardoor het zicht op verstandig leven verliezen. Zijn antwoord is inzicht: kijk voorbij wat direct lokt en handel redelijk en rechtvaardig. Zijn kosmische Zeus hoort bij een antiek wereldbeeld; je kunt de praktische vraag gebruiken zonder dat wereldbeeld als bewezen natuurkunde te behandelen.",
+  "exercise": "Pauzeer vandaag één keer vóór je iets deelt of beslist. Vraag: zoek ik vooral waardering, voordeel of gemak? Noteer daarna één eerlijkere stap.",
+  "reflection": "Waar liet ik vandaag waardering of voordeel zwaarder wegen dan goed handelen?",
+  "remember": "Gebruik roem en winst; laat ze niet sturen.",
+  "knowledgeAnchor": {
+    "name": "Cleanthes · tweede leider van de Stoa, derde eeuw v.Chr.",
+    "concept": "Logos verbindt het stoïcijnse wereldbeeld met redelijk en rechtvaardig handelen",
+    "sentence": "Laat roem niet je kompas zijn."
+  }
+}
