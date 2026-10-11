@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-11",
+  "title": "Voel de vonk, voed het vuur niet",
+  "theme": "Woede, eerste beweging en instemming",
+  "thinkerId": "seneca",
+  "passage": "Een eerste schok komt ongevraagd. Woede groeit wanneer je het oordeel ‘ik moet terugslaan’ overneemt.",
+  "attribution": "Seneca, Over de woede (De ira) 2.1–4 · eigen Nederlandse parafrase; geen citaat uit The Daily Stoic",
+  "source": {
+    "label": "Seneca, De ira, boek 2, hoofdstukken 1–4 (primaire tekst, Engelse vertaling)",
+    "url": "https://gmr.sourceforge.net/perseus/seneca/seneca_de_ira.html"
+  },
+  "facts": [
+    "Seneca werd rond 1 v.Chr. geboren in Corduba (het huidige Córdoba) en stierf in 65 n.Chr.; hij kreeg zijn opleiding in Rome.",
+    "Hij werd in 41 n.Chr. naar Corsica verbannen, keerde in 49 terug naar Rome en werd later adviseur van keizer Nero.",
+    "De ira is een Romeins stoïcijns betoog gericht aan zijn broer Novatus. De precieze datering van het werk staat niet vast.",
+    "In boek 2 onderscheidt Seneca een onvrijwillige eerste beweging, een nog toetsbaar wraakgericht oordeel en een uit de hand gelopen drift."
+  ],
+  "theory": "Dit is stoïcijnse emotieleer: tussen een indruk van onrecht en een wraakactie ligt instemming met een oordeel. Een schrikreactie of opvliegende warmte is volgens Seneca onvrijwillig; daarop hoef je jezelf niet af te rekenen. Oefen juist bij de gedachte dat vergelding nodig is. Je kunt onrecht herstellen of een grens stellen zonder woede als motor te kiezen. Hoe scherp de grens tussen de tweede en derde fase is, wordt verschillend gelezen.",
+  "connections": ["Indruk en instemming", "Stoïcijnse emotieleer", "Rechtvaardigheid zonder wraak", "Matigheid"],
+  "diagram": ["Prikkel → eerste schok", "Oordeel: ‘dit moet ik wreken’", "Pauze → toets het oordeel", "Kies herstel of een heldere grens"],
+  "concepts": [
+    {"term": "Eerste beweging", "meaning": "Een onvrijwillige lichamelijke of mentale schok", "example": "Je gezicht wordt warm na een scherpe opmerking."},
+    {"term": "Instemming", "meaning": "Een eerste uitleg als waar en richtinggevend aannemen", "example": "Je besluit: ‘Hij kleineert mij expres.’"},
+    {"term": "Rechtvaardigheid", "meaning": "Een fout eerlijk aanpakken zonder vergelding te zoeken", "example": "Je benoemt de opmerking en vraagt om een normaal gesprek."}
+  ],
+  "modernExample": {
+    "situation": "Een collega onderbreekt je scherp tijdens een vergadering.",
+    "automatic": "Je voelt je aangevallen en snauwt terug om hem publiekelijk te raken.",
+    "stoic": "Je merkt de schok op, vraagt om je punt af te maken en bespreekt de toon later rechtstreeks."
+  },
+  "explain": "Seneca analyseert in het Rome van de eerste eeuw n.Chr. hoe woede ontstaat. Een plotselinge schok is nog geen moreel falen. Volgens hem wordt het gevaarlijk wanneer je de gedachte om terug te slaan goedkeurt en laat groeien. De les is niet om onrecht te slikken: herstel wat fout gaat, maar kies je reactie voordat wraak je keuze overneemt.",
+  "exercise": "Merk vandaag één moment van irritatie op. Zeg stil: ‘schok, oordeel, keuze’. Wacht één ademhaling en formuleer dan één rustige grens of herstelstap.",
+  "reflection": "Welke gedachte gaf mijn irritatie vandaag extra brandstof?",
+  "remember": "De schok komt; instemming en handelen kan ik oefenen.",
+  "knowledgeAnchor": {
+    "name": "Seneca · Romeinse Stoa, ca. 1 v.Chr.–65 n.Chr.",
+    "concept": "Eerste beweging → instemming → woede of bewuste keuze",
+    "sentence": "Voel de vonk, voed het vuur niet."
+  }
+}
