@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "title": "Verwacht wrijving, kies samenwerking",
+  "theme": "Voorbereiding, sociale natuur en handelen",
+  "thinkerId": "marcus",
+  "passage": "Begin de dag met de gedachte dat je moeilijke mensen kunt tegenkomen; kies toch voor samenwerking.",
+  "attribution": "Marcus Aurelius, Meditaties 2.1 · eigen Nederlandse parafrase; geen citaat uit The Daily Stoic",
+  "source": {
+    "label": "Marcus Aurelius, Meditaties 2.1 (Griekse primaire tekst en Engelse vertaling)",
+    "url": "https://studyancients.com/meditations-2.html"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer van 161 tot zijn dood.",
+    "Hij kreeg onderwijs in retorica en filosofie; de stoïcijn Rusticus was een belangrijke leraar en vriend.",
+    "De Meditaties zijn persoonlijke notities voor Marcus zelf, geen boek dat hij voor publicatie schreef.",
+    "Een deel ervan ontstond in de laatste jaren van zijn militaire campagnes, in een regeringsperiode met oorlogen, opstanden en een epidemie."
+  ],
+  "theory": "Marcus oefent de stoïcijnse discipline van handelen: anderen zijn geen obstakel buiten de moraal, maar medemensen tegenover wie je rechtvaardig handelt. Vooraf rekening houden met bot gedrag voorkomt naïeve verbazing. Het doel is niet om alles te slikken of misbruik goed te praten; je kunt begrenzen, corrigeren of hulp vragen zonder de ander als vijand te behandelen. Zijn vergelijking met handen en voeten drukt een antiek stoïcijns beeld van menselijke verwantschap uit; moderne lezers verschillen over hoe politiek of vooral persoonlijk deze oproep moet worden gelezen.",
+  "connections": ["Drie disciplines", "Leven volgens de natuur", "Rechtvaardigheid", "Indruk en instemming"],
+  "diagram": ["Vooruitzien: wrijving kan komen", "Indruk: ‘dit is ondraaglijk’", "Herinnering: wij zijn medemensen", "Handel: grens én samenwerking"],
+  "concepts": [
+    {"term": "Voorbereiding", "meaning": "Een waarschijnlijke lastige situatie vooraf nuchter erkennen", "example": "Voor een druk overleg verwacht je onderbrekingen zonder er alvast boos over te worden."},
+    {"term": "Sociale natuur", "meaning": "De stoïcijnse gedachte dat mensen voor samenwerking zijn toegerust", "example": "Je zoekt een werkbare afspraak, ook wanneer je het oneens bent."},
+    {"term": "Rechtvaardig handelen", "meaning": "Een ander eerlijk behandelen en tegelijk duidelijke grenzen houden", "example": "Je stopt een kleinerende opmerking en keert terug naar de inhoud."}
+  ],
+  "modernExample": {
+    "situation": "In een projectoverleg veegt een collega jouw voorstel kort van tafel.",
+    "automatic": "Je noemt hem onredelijk, haakt af en besluit niet meer mee te denken.",
+    "stoic": "Je verwacht geen perfecte toon, vraagt welk bezwaar hij precies ziet en zegt rustig dat je je punt wilt afmaken."
+  },
+  "explain": "Marcus Aurelius schrijft in de tweede eeuw n.Chr. een korte ochtendinstructie aan zichzelf: moeilijke mensen zullen er zijn, maar hun gedrag hoeft niet jouw gedrag te bepalen. Omdat mensen volgens de Stoa redelijke en sociale wezens zijn, is de vraag niet hoe je wint van de ander, maar welke eerlijke stap de samenwerking of grens het best dient.",
+  "exercise": "Kies vóór een lastig gesprek één mogelijke vorm van wrijving. Schrijf daarna twee zinnen: ‘Dit kan gebeuren’ en ‘Dan wil ik rustig deze grens of vraag stellen.’",
+  "reflection": "Bij welke persoon verraste ik mezelf vandaag met een vijandbeeld, terwijl een heldere grens ook mogelijk was?",
+  "remember": "Wrijving is voorspelbaar; mijn reactie kan toch verbindend zijn.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius · Romeinse Stoa, 121–180 n.Chr.",
+    "concept": "Vooruitzien → oordeel toetsen → rechtvaardig samenwerken",
+    "sentence": "Verwacht wrijving, kies samenwerking."
+  }
+}
