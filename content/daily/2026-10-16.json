@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-16",
+  "title": "Speel je rol zonder jezelf te verliezen",
+  "theme": "Passend handelen in vier rollen",
+  "thinkerId": "panaetius",
+  "passage": "Vraag bij elke rol wat passend is, zonder je menselijkheid of eigen aard te vergeten.",
+  "attribution": "Eigen Nederlandse parafrase van Cicero, De officiis 1.107 en 1.115; voortbouwend op Panaetius, geen letterlijk citaat van hem",
+  "source": {
+    "label": "Cicero, De officiis 1.107–117 (Latijn en vertaling)",
+    "url": "https://forage.com/cicero/on-duties/"
+  },
+  "facts": [
+    "Panaetius kwam van Rhodos en leefde ongeveer van 185 tot 109 v.Chr.; hij hoort bij de Midden-Stoa.",
+    "Zijn Griekse werk over passend handelen is niet volledig bewaard gebleven.",
+    "Cicero schreef De officiis in 44 v.Chr. voor zijn zoon; voor de eerste twee boeken gebruikte hij Panaetius als belangrijke bron.",
+    "In boek 1, paragrafen 107 en 115, onderscheidt Cicero vier rollen: mens, individu, omstandigheden en eigen keuze."
+  ],
+  "theory": "De stoïcijnse ethiek vraagt wat passend handelen (kathēkon) is in een concrete situatie. Cicero's vier rollen maken die vraag hanteerbaar: wat past bij ieder redelijk mens, bij jouw sterke kanten, bij je gegeven omstandigheden en bij het leven dat je kiest? Je bijzondere rol heft eerlijkheid en zorg voor anderen niet op. Omdat Panaetius' eigen tekst verloren is, blijft omstreden hoeveel van deze precieze vierdeling van hem of van Cicero komt.",
+  "connections": [
+    "Leven volgens de natuur: redelijk én sociaal handelen",
+    "Kathēkon: een passende daad in de situatie",
+    "Rechtvaardigheid begrenst elke persoonlijke rol",
+    "Deugd vraagt karakter, niet alleen een functietitel"
+  ],
+  "diagram": [
+    "Mens → wat is eerlijk?",
+    "Eigen aard → wat kan ik goed?",
+    "Omstandigheid → wat vraagt dit moment?",
+    "Keuze → welke rol neem ik op mij?",
+    "Passende stap"
+  ],
+  "concepts": [
+    {
+      "term": "Gemeenschappelijke rol",
+      "meaning": "Je bent een redelijk en sociaal mens; dat stelt een morele ondergrens.",
+      "example": "Een collega verdient een eerlijk antwoord."
+    },
+    {
+      "term": "Eigen aard",
+      "meaning": "Je talenten en karakter kleuren hoe je goed handelt.",
+      "example": "Je kunt een lastig gesprek rustig structureren."
+    },
+    {
+      "term": "Gegeven en gekozen rol",
+      "meaning": "Sommige verantwoordelijkheden krijg je; andere neem je bewust op je.",
+      "example": "Je bent vandaag teamleider en kiest ervoor mentor te zijn."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je leidt een team en een deadline schuift door een fout in de planning.",
+    "automatic": "Je verschuilt je achter je functietitel en legt de schuld bij één collega.",
+    "stoic": "Je benoemt eerlijk jouw aandeel, bespreekt de gevolgen en maakt met het team een haalbaar nieuw plan."
+  },
+  "explain": "Panaetius, de stoïcijn uit Rhodos, beïnvloedde Cicero's boek over plichten uit 44 v.Chr. Cicero beschrijft vier rollen die tegelijk meespelen: mens, uniek persoon, omstandigheden en gekozen levensrichting. Een functie vertelt je dus niet vanzelf wat juist is; toets haar eerst aan redelijkheid en rechtvaardigheid. De precieze vierdeling kennen we via Cicero, niet uit een volledig bewaard boek van Panaetius.",
+  "exercise": "Kies één taak van vandaag. Noteer in vier korte woorden: mens, talent, omstandigheid, keuze. Schrijf daarna één passende stap op en voer die uit.",
+  "reflection": "Waar gebruikte ik mijn rol vandaag als excuus, terwijl ik ook eerlijker kon handelen?",
+  "remember": "Mijn rol geeft richting; mijn karakter bepaalt hoe ik haar speel.",
+  "knowledgeAnchor": {
+    "name": "Panaetius → Cicero",
+    "concept": "Vier rollen en passend handelen (kathēkon)",
+    "sentence": "Toets elke rol aan menselijkheid, eigen aard, situatie en bewuste keuze."
+  }
+}
