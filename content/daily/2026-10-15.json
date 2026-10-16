@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-15",
+  "title": "Oefen met minder, leef met meer rust",
+  "theme": "Vrijwillige eenvoud en angst voor verlies",
+  "thinkerId": "seneca",
+  "passage": "Probeer enkele dagen genoeg te hebben aan eenvoudig eten en sobere kleding. Vraag je dan af: was dit waar ik bang voor was?",
+  "attribution": "Seneca, Brieven aan Lucilius 18.5–6 · eigen Nederlandse parafrase; geen citaat uit The Daily Stoic",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 18.5–6 (primaire tekst in Engelse vertaling)",
+    "url": "https://www.stoicsource.com/seneca/letters/18/"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr.; hij werd geboren in Corduba en kreeg onderwijs in Rome.",
+    "Hij was adviseur van keizer Nero en trok zich rond 62 n.Chr. terug uit het politieke leven.",
+    "De Brieven aan Lucilius ontstonden in zijn laatste levensjaren, ongeveer 62–65 n.Chr.",
+    "Brief 18 opent in december met de Saturnalia; Seneca bespreekt hoe je kunt meevieren zonder in luxe mee te drijven."
+  ],
+  "theory": "In de stoïcijnse ethiek is een goed karakter het eigenlijke goede. Comfort en bezit zijn bruikbaar, maar geen garantie voor een goed leven. Seneca stelt daarom een proef voor: kies tijdelijk eenvoud en merk op hoeveel angst voor verlies uit verwachting bestaat. Dat is geen pleidooi voor echte armoede of het negeren van materiële nood. Hij schrijft vanuit een bevoorrechte positie; vrijwillig minder nemen is iets anders dan tekort moeten verdragen.",
+  "connections": ["Deugd als het eigenlijke goede", "Voorkeurszaken en bezit", "Matigheid", "Tegenslag vooraf oefenen"],
+  "diagram": ["Angst: zonder luxe red ik het niet", "Kies kort iets eenvoudigs", "Ervaar wat werkelijk nodig is", "Gebruik comfort zonder eraan vast te zitten"],
+  "concepts": [
+    {"term": "Vrijwillige eenvoud", "meaning": "Tijdelijk een gemak weglaten om je afhankelijkheid te toetsen", "example": "Neem een eenvoudige lunch die je al in huis hebt."},
+    {"term": "Voorkeurszaak", "meaning": "Iets dat prettig of nuttig is, maar je karakter niet bepaalt", "example": "Een dure koffie mag fijn zijn; hij hoeft niet elke ochtend."},
+    {"term": "Matigheid", "meaning": "Met aandacht kiezen hoeveel genoeg is", "example": "Je koopt iets omdat je het nodig hebt, niet om onrust te sussen."}
+  ],
+  "modernExample": {
+    "situation": "Je telefoon werkt nog goed, maar een nieuw model lonkt en iedereen lijkt te upgraden.",
+    "automatic": "Je bestelt meteen om het gevoel van achterlopen kwijt te raken.",
+    "stoic": "Je wacht een dag, gebruikt bewust wat je hebt en beslist daarna of vervanging echt nodig is."
+  },
+  "explain": "Seneca schrijft in de eerste eeuw n.Chr. aan Lucilius dat je angst voor verlies kunt onderzoeken door af en toe eenvoudig te leven. Zoals een soldaat in vredestijd oefent, test je of comfort een behoefte of een gewoonte is. De les is niet dat bezit verkeerd is: later in Brief 18 zegt hij juist dat je bezit zonder angst kunt gebruiken.",
+  "exercise": "Laat vandaag één onnodig gemak weg dat voor jou veilig is. Noteer vanavond: wat miste ik werkelijk, en wat verwachtte ik alleen te missen?",
+  "reflection": "Welk gemak behandel ik als een noodzaak, terwijl het misschien een voorkeur is?",
+  "remember": "Geniet van gemak; oefen ook dat je zonder kunt.",
+  "knowledgeAnchor": {
+    "name": "Seneca · Romeinse Stoa, ca. 1 v.Chr.–65 n.Chr.",
+    "concept": "Vrijwillige eenvoud: een voorkeur testen, geen armoede romantiseren",
+    "sentence": "Oefen met minder, leef met meer rust."
+  }
+}
