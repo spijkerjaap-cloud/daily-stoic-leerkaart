@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-17",
+  "title": "Een duw bepaalt niet hoe je rolt",
+  "theme": "Oorzaak, karakter en verantwoordelijkheid",
+  "thinkerId": "chrysippus",
+  "passage": "Een duw zet een cilinder in beweging; zijn vorm bepaalt hoe hij rolt. Zo raakt een indruk ons van buiten, terwijl instemming mede uit ons eigen karakter voortkomt.",
+  "attribution": "Chrysippus, overgeleverd en besproken door Cicero, De fato 41–43 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Cicero, De fato 41–43 (Latijnse tekst)",
+    "url": "https://reader.humanitext.ai/en/read/urn:cts:latinLit:phi0474.phi054.humanitext-lat1:41-45"
+  },
+  "facts": [
+    "Chrysippus leefde ongeveer van 279 tot 206 v.Chr. en was de derde leider van de Stoa in Athene.",
+    "Van zijn vele geschriften zijn vooral fragmenten en verslagen van latere auteurs bewaard.",
+    "Cicero (106–43 v.Chr.) bespreekt in De fato Chrysippus' onderscheid tussen een aanleiding van buiten en een dragende oorzaak.",
+    "Cicero bekritiseert de oplossing ook: volgens hem blijft de verhouding tussen noodlot en keuze betwist."
+  ],
+  "theory": "De vroege Stoa zag gebeurtenissen als een keten van oorzaken. Chrysippus' cilinder maakt ruimte voor verantwoordelijkheid: de duw is een aanleiding, maar de vorm van de cilinder bepaalt mede de beweging. Bij mensen speelt het gevormde karakter zo mee in de instemming met een indruk. Dit is geen claim dat je jezelf volledig buiten omstandigheden kunt plaatsen.",
+  "connections": ["Oorzaak en gevolg", "Indruk en instemming", "Karaktervorming", "Deugd als geoefende houding"],
+  "diagram": ["Duw van buiten", "Indruk ontstaat", "Karakter kleurt instemming", "Reactie vormt gewoonte"],
+  "concepts": [
+    {"term": "Aanleiding", "meaning": "Wat van buitenaf iets in gang zet", "example": "Een collega geeft onverwacht kritiek."},
+    {"term": "Instemming", "meaning": "Een indruk voor waar of leidend aannemen", "example": "Ik besluit dat de kritiek een aanval is."},
+    {"term": "Karakter", "meaning": "De geoefende manier waarop je oordeelt en handelt", "example": "Ik heb geleerd eerst naar voorbeelden te vragen."}
+  ],
+  "modernExample": {
+    "situation": "Tijdens een overleg wijst iemand op een fout in jouw plan.",
+    "automatic": "Je verdedigt je meteen: ‘Je begrijpt het gewoon niet.’",
+    "stoic": "Je vraagt welk onderdeel niet klopt, bedankt voor het concrete punt en past het plan zo nodig aan."
+  },
+  "explain": "Chrysippus vergelijkt een reactie met een rollende cilinder. Een ander kan de duw geven, maar de cilinder rolt volgens zijn vorm. Zo geeft kritiek je een indruk; hoe je ermee omgaat, hangt mede samen met je geoefende oordeel. Cicero vond dat dit de spanning tussen noodlot en keuze niet helemaal oplost. Voor vandaag volstaat de oefenvraag: welke reactie wil ik tot gewoonte maken?",
+  "exercise": "Pauzeer bij één onverwachte prikkel tien seconden. Benoem de aanleiding, merk je eerste uitleg op en stel één verhelderende vraag.",
+  "reflection": "Welke automatische reactie heb ik vandaag versterkt, en welke wil ik oefenen?",
+  "remember": "De duw komt van buiten; mijn reactie krijgt vorm door oefening.",
+  "knowledgeAnchor": {
+    "name": "Chrysippus",
+    "concept": "Cilinder: uitwendige aanleiding en gevormd karakter werken samen",
+    "sentence": "Een duw bepaalt niet hoe je rolt."
+  }
+}
