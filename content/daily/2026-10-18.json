@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-18",
+  "title": "Vriendschap is geen noodpakket",
+  "theme": "Vriendschap en innerlijke zelfstandigheid",
+  "thinkerId": "seneca",
+  "passage": "De wijze kan zonder vriend bestaan, maar wil niet zonder vriend leven: vriendschap geeft hem ruimte om voor een ander klaar te staan.",
+  "attribution": "Seneca, Brieven aan Lucilius 9.5 en 9.8 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 9.1–8 (Latijnse tekst)",
+    "url": "https://reader.humanitext.ai/en/read/urn:cts:latinLit:phi1017.phi015.humanitext-lat2:9.1-9.8"
+  },
+  "facts": [
+    "Seneca leefde rond het begin van onze jaartelling tot 65 n.Chr. en werd geboren in Corduba, het huidige Córdoba.",
+    "Hij was politiek actief in Rome en trok zich in zijn laatste jaren terug; de brieven aan Lucilius worden doorgaans in 62–65 n.Chr. geplaatst.",
+    "In brief 9 reageert Seneca op de vraag of een wijze die zichzelf genoeg is nog vrienden nodig heeft.",
+    "Hij laat de wijze vrienden zoeken om vriendschap te oefenen en iemand anders bij ziekte of nood te helpen."
+  ],
+  "theory": "Voor de Stoa ligt het hoogste goed in deugdzaam handelen, niet in bezit van andere mensen. Seneca's zelfgenoegzaamheid betekent daarom: je geluk niet volledig van een vriend laten afhangen. Tegelijk zoekt de mens van nature gezelschap en kan rechtvaardigheid zichtbaar worden in trouwe zorg. De 'wijze' is hier een ideaalbeeld; echte mensen mogen steun nodig hebben.",
+  "connections": ["Deugd als hoogste goed", "Rechtvaardigheid en zorg", "Leven volgens de menselijke natuur", "Zelfgenoegzaamheid"],
+  "diagram": ["Innerlijke basis", "Vriend zoeken", "Concreet helpen", "Band zonder boekhouding"],
+  "concepts": [
+    {"term": "Zelfgenoegzaamheid", "meaning": "Je waarde en geluk niet geheel aan andermans aanwezigheid ophangen", "example": "Je blijft een vriend, ook als een antwoord op zich laat wachten."},
+    {"term": "Vriendschap", "meaning": "Een band die je om de ander zelf onderhoudt", "example": "Je belt om te luisteren, niet om een gunst veilig te stellen."},
+    {"term": "Rechtvaardigheid", "meaning": "Anderen zorgvuldig en loyaal behandelen", "example": "Je biedt haalbare hulp aan wanneer iemand ziek is."}
+  ],
+  "modernExample": {
+    "situation": "Een vriend vertelt dat een zware week eraan komt, terwijl jouw agenda vol is.",
+    "automatic": "Je denkt: 'Ik heb zelf ook genoeg' en wacht af tot die vriend ooit iets voor jou kan doen.",
+    "stoic": "Je vraagt wat nu helpt en biedt één haalbare stap aan, bijvoorbeeld een maaltijd brengen of tien minuten luisteren."
+  },
+  "explain": "Seneca vraagt in brief 9 waarom een wijze vrienden zoekt als deugd voldoende is voor geluk. Zijn antwoord: niet om een toekomstige helper te verzamelen, maar om zelf vriendschap te beoefenen. 'Zichzelf genoeg zijn' is hier geen opdracht tot afzondering. Zijn sterke claim over de wijze is een filosofisch ideaal, geen reden om menselijke afhankelijkheid te ontkennen.",
+  "exercise": "Stuur vandaag één vriend een bericht zonder verzoek. Vraag hoe het gaat en bied één kleine, haalbare vorm van hulp aan.",
+  "reflection": "Waar behandelde ik een vriendschap als een ruil, en wat kan ik zelf geven?",
+  "remember": "Een vriend is geen verzekering; vriendschap groeit door zorg.",
+  "knowledgeAnchor": {
+    "name": "Seneca · brief 9",
+    "concept": "Zelfgenoegzaamheid sluit vriendschap en zorg niet uit",
+    "sentence": "Zoek een vriend om vriend te zijn."
+  }
+}
