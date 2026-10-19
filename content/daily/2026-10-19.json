@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-19",
+  "title": "Deugd leer je met je handen",
+  "theme": "Van inzicht naar oefening",
+  "thinkerId": "musonius",
+  "passage": "Weten wat rechtvaardig is maakt je nog niet rechtvaardig; je moet ook oefenen om hebzucht en eigenbelang te weerstaan.",
+  "attribution": "Musonius Rufus, Les 6.1–3, 'Over oefening' · eigen Nederlandse parafrase van de overgeleverde les",
+  "source": {
+    "label": "Musonius Rufus, Les 6.1–3 (vertaling Cora E. Lutz, 1947)",
+    "url": "https://thestoiclibrary.com/musonius/6"
+  },
+  "facts": [
+    "Musonius Rufus werd vóór 30 n.Chr. geboren in Volsinii, in het huidige Italië, en doceerde in het Rome van de eerste eeuw.",
+    "Keizer Nero verbande hem in 65 n.Chr. naar Gyaros; onder Galba keerde hij in 68 n.Chr. terug naar Rome.",
+    "Zijn eigen geschriften zijn niet bewaard. De lessen zijn door anderen overgeleverd; de precieze bewoordingen zijn daarom niet rechtstreeks van zijn hand.",
+    "Epictetus was een van zijn leerlingen en werkte de praktische stoïcijnse levenskunst later verder uit."
+  ],
+  "theory": "In de stoïcijnse ethiek is deugd het hoogste goed: wijs, rechtvaardig, moedig en matig handelen. Musonius noemt kennis daarvoor nodig, maar onvoldoende. Zoals een musicus toonladders oefent, moet je eerlijke keuzes herhalen wanneer eigenbelang trekt. Hij bespreekt ook lichamelijke ontbering als training. Die antieke strengheid kun je verschillend waarderen; de kern van deze les is doelgericht gedrag oefenen, niet ongemak om het ongemak.",
+  "connections": ["Deugd als hoogste goed", "Rechtvaardigheid", "Matigheid", "Gewoontevorming (askêsis)"],
+  "diagram": ["Principe kennen", "Eigenbelang opmerken", "Eerlijk handelen", "Keuze herhalen"],
+  "concepts": [
+    {"term": "Deugd", "meaning": "Goed handelen volgens rede en karakter", "example": "Je noemt ook het werk van een collega."},
+    {"term": "Askêsis", "meaning": "Gerichte oefening die een betere gewoonte vormt", "example": "Je geeft telkens concreet erkenning waar die hoort."},
+    {"term": "Rechtvaardigheid", "meaning": "Ieder eerlijk behandelen, ook wanneer dat jou minder oplevert", "example": "Je verdeelt de eer voor een gezamenlijk resultaat."}
+  ],
+  "modernExample": {
+    "situation": "In een teamoverleg krijgt jouw presentatie lof, maar een belangrijk idee kwam van een collega.",
+    "automatic": "Je geniet van de aandacht en laat de bijdrage van je collega onvermeld.",
+    "stoic": "Je zegt kort van wie het idee kwam en bedankt je collega bij naam."
+  },
+  "explain": "Musonius vraagt in Les 6 wat filosofie waard is als zij bij woorden blijft. Iemand kan rechtvaardigheid uitleggen en toch de eer voor zichzelf houden. De toets is de eerstvolgende echte keuze: geef de ander wat hem of haar toekomt. Door zulke kleine daden wordt een begrepen principe een geoefende gewoonte.",
+  "exercise": "Geef vandaag bij één klein succes precies aan wie eraan heeft bijgedragen. Doe het meteen en zonder bijzin over jezelf.",
+  "reflection": "Welk principe ken ik goed, maar oefen ik nog te weinig wanneer het me iets kost?",
+  "remember": "Een deugd wordt zichtbaar in de volgende kleine daad.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus · Les 6",
+    "concept": "Askêsis: deugd oefenen in concreet gedrag",
+    "sentence": "Begrijpen is het begin; eerlijk handelen is de oefening."
+  }
+}
