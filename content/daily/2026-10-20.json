@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-20",
+  "title": "Volg niet je impuls, volg je natuur",
+  "theme": "Leven volgens de natuur",
+  "thinkerId": "zeno",
+  "passage": "Het doel is te leven in overeenstemming met de natuur: een leven volgens de deugd.",
+  "attribution": "Zeno van Citium, zoals weergegeven door Diogenes Laërtius, Levens 7.87 · eigen Nederlandse parafrase; Zeno's oorspronkelijke tekst is verloren",
+  "source": {
+    "label": "Diogenes Laërtius, Levens 7.87 (overgeleverde formulering)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diogenes_Laertius/Lives_of_the_Eminent_Philosophers/7/Zeno*.html"
+  },
+  "facts": [
+    "Zeno van Citium leefde ongeveer van 334 tot 262 v.Chr.; Citium lag op Cyprus.",
+    "Rond 300 v.Chr. stichtte hij in Athene de school die haar naam ontleent aan de beschilderde zuilengang, de Stoa Poikile.",
+    "Van Zeno's eigen werken is geen compleet boek over; zijn omschrijving van het levensdoel kennen we via latere auteurs zoals Diogenes Laërtius.",
+    "Cleanthes volgde Zeno op; Chrysippus bouwde de leer daarna verder uit."
+  ],
+  "theory": "Voor de vroege Stoa betekent 'natuur' ook de aard van de mens als redelijk en sociaal wezen, en in haar antieke wereldbeeld de orde van de kosmos. Een prettige impuls is dus niet vanzelf een goede gids. Het doel (telos) is een samenhangend leven waarin keuzes deugdzaam zijn: verstandig, eerlijk, moedig en beheerst. De overlevering verschilt: Stobaeus schrijft 'leven in overeenstemming' aan Zeno toe en de toevoeging 'met de natuur' aan Cleanthes; Diogenes Laërtius schrijft de langere formulering al aan Zeno toe.",
+  "connections": ["Telos: levensdoel", "Deugd als hoogste goed", "Rede en sociale natuur", "Logos als antiek wereldbeeld"],
+  "diagram": ["Impuls: wat wil ik nu?", "Rede: wat klopt?", "Samenleven: wie raakt dit?", "Deugdzame keuze"],
+  "concepts": [
+    {"term": "Telos", "meaning": "Het doel waarop een leven is gericht", "example": "Een goed karakter boven een snelle winst."},
+    {"term": "Natuur", "meaning": "Hier: menselijke rede en sociale aanleg, binnen een antiek kosmisch wereldbeeld", "example": "Ook het belang van je team meewegen."},
+    {"term": "Deugd", "meaning": "Goed oordelen en handelen", "example": "Een ongemakkelijke waarheid rustig zeggen."}
+  ],
+  "modernExample": {
+    "situation": "Je ontdekt dat een planning die jou goed uitkomt een collega met het extra werk laat zitten.",
+    "automatic": "Je houdt de wijziging stil: de agenda is toch al rond.",
+    "stoic": "Je benoemt de gevolgen, bespreekt een eerlijkere verdeling en neemt zelf een deel op je."
+  },
+  "explain": "Zeno stelde rond 300 v.Chr. in Athene de vraag wat een goed leven richting geeft. Via Diogenes Laërtius kennen we zijn antwoord: leven in overeenstemming met de natuur en deugd. Dat betekent in de Stoa niet simpelweg je spontane gevoel volgen. Vraag of je keuze redelijk is, past bij samenleven en ook morgen nog met je waarden strookt.",
+  "exercise": "Pauzeer vandaag vóór één makkelijke keuze. Vraag: wat wil ik nu, wie draagt de gevolgen en wat zou hier eerlijk zijn? Kies daarna één concrete stap.",
+  "reflection": "Waar noemde ik gemak vandaag 'natuurlijk', terwijl een eerlijker keuze mogelijk was?",
+  "remember": "Mijn natuur is meer dan mijn eerste impuls: ik kan redelijk en sociaal kiezen.",
+  "knowledgeAnchor": {
+    "name": "Zeno van Citium · ca. 334–262 v.Chr.",
+    "concept": "Telos: leven in overeenstemming met natuur en deugd",
+    "sentence": "Toets gemak aan rede en rechtvaardigheid."
+  }
+}
