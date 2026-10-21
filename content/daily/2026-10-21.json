@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-21",
+  "title": "Onverschillig is niet onzorgvuldig",
+  "theme": "Omgaan met wat je krijgt",
+  "thinkerId": "epictetus",
+  "passage": "De omstandigheden zijn op zichzelf geen deugd of ondeugd; hoe je ze gebruikt, doet ertoe.",
+  "attribution": "Epictetus, Gesprekken 2.5.1–6 · eigen Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Epictetus, Gesprekken 2.5 (vertaling George Long)",
+    "url": "https://classics.mit.edu/Epictetus/discourses.2.two.html"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis, in het huidige Turkije, en overleed rond 135 n.Chr.",
+    "Hij leefde een tijd als slaaf in Rome en studeerde bij de stoïcijn Musonius Rufus.",
+    "Na zijn vertrek uit Rome gaf hij les in Nicopolis, in het huidige noordwesten van Griekenland; de Gesprekken horen bij zijn latere onderwijs, rond 108 n.Chr.",
+    "Epictetus schreef de Gesprekken niet zelf. Zijn leerling Arrianus legde de lessen vast; de precieze bewoordingen zijn daardoor niet met zekerheid van Epictetus."
+  ],
+  "theory": "De Stoa noemt zaken als gezondheid, geld en een gunstige uitkomst 'onverschillig' voor deugd: ze maken je karakter op zichzelf niet goed of slecht. Ze kunnen wel praktisch waardevol zijn. In Gesprekken 2.5 vergelijkt Epictetus het leven met dobbelstenen: je kiest de worp niet, maar speelt zorgvuldig met wat valt. Goed handelen vraagt dus tegelijk aandacht voor het werk en rust tegenover de afloop. 'Onverschillig' kan kil klinken; de tekst vraagt juist om zorgvuldigheid, niet om nalatigheid.",
+  "connections": ["Onverschillige zaken en praktische waarde", "Deugd als hoogste goed", "Prohairesis: bewuste keuze", "Zorgvuldigheid zonder kramp"],
+  "diagram": ["Worp: gegeven situatie", "Waardeer wat mogelijk is", "Kies zorgvuldig", "Laat de afloop open"],
+  "concepts": [
+    {"term": "Onverschillig", "meaning": "Op zichzelf geen moreel goed of kwaad; soms wel praktisch waardevol", "example": "Een levering op tijd is wenselijk, maar geen bewijs van deugd."},
+    {"term": "Gebruik", "meaning": "De manier waarop je met de gegeven situatie omgaat", "example": "Je meldt vertraging eerlijk en zoekt een oplossing."},
+    {"term": "Zorgvuldigheid", "meaning": "Met aandacht doen wat de situatie vraagt", "example": "Je controleert feiten voordat je een nieuwe datum belooft."}
+  ],
+  "modernExample": {
+    "situation": "Een pakket voor een klant is vertraagd, terwijl jij de bezorging niet meer kunt versnellen.",
+    "automatic": "Je zegt 'ik kan er niets aan doen' en laat de klant zonder bericht wachten.",
+    "stoic": "Je controleert de feiten, informeert de klant tijdig en biedt een haalbaar alternatief zonder een uitkomst te beloven die je niet beheerst."
+  },
+  "explain": "Epictetus zegt in Gesprekken 2.5 dat de dobbelsteen niet moreel goed of slecht is. De speler kan wel kundig of slordig spelen. Zo is een vertraagde levering vervelend en een tijdige levering wenselijk, maar jouw karakter blijkt uit eerlijk, zorgvuldig handelen met de situatie die er nu is. Rust over de afloop en inzet in het handelen horen bij elkaar.",
+  "exercise": "Kies vandaag één tegenvaller. Schrijf twee regels: 'Dit is de worp' en 'Dit is mijn zorgvuldige volgende zet'. Voer die zet uit.",
+  "reflection": "Waar gebruikte ik 'het ligt niet aan mij' als reden om minder zorgvuldig te handelen?",
+  "remember": "Ik kies de worp niet; ik kan wel goed spelen.",
+  "knowledgeAnchor": {
+    "name": "Epictetus · Gesprekken 2.5",
+    "concept": "Onverschillige omstandigheden, waardevol gebruik",
+    "sentence": "Laat de worp los en speel zorgvuldig."
+  }
+}
