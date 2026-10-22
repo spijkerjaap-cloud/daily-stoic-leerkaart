@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-22",
+  "title": "Zie de mens achter de rang",
+  "theme": "Waardigheid voorbij status",
+  "thinkerId": "seneca",
+  "passage": "Je noemt hen slaven; zie eerst mensen.",
+  "attribution": "Seneca, Brieven aan Lucilius 47.1 · eigen Nederlandse parafrase van 'Servi sunt. Immo homines.'",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 47.1 (Latijnse tekst en vertaling)",
+    "url": "https://lectito.app/seneca/letters/47/"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 4 v.Chr. tot 65 n.Chr. en was schrijver, stoïcijn en Romeins staatsman.",
+    "Zijn Brieven aan Lucilius stammen uit zijn laatste levensjaren, ongeveer 62–65 n.Chr.",
+    "In brief 47 prijst hij Lucilius omdat die vertrouwelijk met mensen in slavernij omgaat; Seneca spreekt hun menselijke waardigheid expliciet uit.",
+    "Seneca bezat zelf tot slaaf gemaakte mensen. Zijn brief bekritiseert vernedering, maar roept niet op om het instituut slavernij af te schaffen."
+  ],
+  "theory": "Voor de Stoa zegt maatschappelijke rang niets beslissends over iemands morele waarde. Redelijk denken en deugd zijn niet voorbehouden aan machtige mensen; rechtvaardigheid vraagt dat je de ander als mens ziet. Seneca gebruikt dit in brief 47 om hoogmoed tegenover tot slaaf gemaakten te bestrijden. Zijn pleidooi voor menselijker omgang blijft historisch beperkt doordat hij slavernij zelf laat bestaan. Een moderne arbeidsrelatie is niet gelijk aan Romeinse slavernij; de toepasbare vraag is wie door een functielabel onzichtbaar wordt.",
+  "connections": ["Rechtvaardigheid", "Gedeelde menselijke waardigheid", "Deugd boven status", "Sociale natuur"],
+  "diagram": ["Label: functie of rang", "Zie: mens met een stem", "Vraag: wat is rechtvaardig?", "Handel: toon respect"],
+  "concepts": [
+    {"term": "Status", "meaning": "De plaats die een samenleving iemand geeft", "example": "Een directeur en een schoonmaker hebben verschillende functies."},
+    {"term": "Waardigheid", "meaning": "De erkenning dat iemand meer is dan zijn functie", "example": "Je luistert naar de schoonmaker als zijn werk wordt geraakt."},
+    {"term": "Rechtvaardigheid", "meaning": "Een ander eerlijk en respectvol behandelen", "example": "Je stemt een vergadertijd af zonder iemands werk te negeren."}
+  ],
+  "modernExample": {
+    "situation": "Je team plant een vergadering in een ruimte die op dat moment wordt schoongemaakt.",
+    "automatic": "Je loopt binnen en zegt zonder overleg dat de schoonmaker later maar moet terugkomen.",
+    "stoic": "Je vraagt hoeveel tijd nog nodig is en zoekt samen een oplossing die het werk van beiden respecteert."
+  },
+  "explain": "In Rome, tussen 62 en 65 n.Chr., schreef Seneca aan Lucilius over mensen in slavernij. Hij corrigeert het etiket 'slaaf' met een eenvoudig antwoord: mens. Dat past bij de stoïcijnse gedachte dat rang geen maat voor deugd of waardigheid is. Lees hem kritisch: hij had zelf tot slaaf gemaakte mensen en bestreed het stelsel niet. De les voor nu is om niemand tot een functietitel te reduceren.",
+  "exercise": "Let vandaag op één persoon wiens werk je meestal alleen opmerkt als het niet gebeurt. Vraag wat die persoon nodig heeft om het goed te doen en luister zonder onderbreking.",
+  "reflection": "Wie heb ik vandaag vooral als functie gezien, en wat miste ik daardoor?",
+  "remember": "Een rang beschrijft een rol, geen menselijke waarde.",
+  "knowledgeAnchor": {
+    "name": "Seneca · brief 47",
+    "concept": "Rechtvaardigheid: kijk voorbij status en erken de mens",
+    "sentence": "Zie eerst de mens, dan pas de rang."
+  }
+}
