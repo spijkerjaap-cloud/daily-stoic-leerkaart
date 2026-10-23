@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-23",
+  "title": "Neem pauze zonder weg te lopen",
+  "theme": "Innerlijke rust en terugkeer naar je taak",
+  "thinkerId": "marcus",
+  "passage": "Je kunt je ieder moment even in jezelf terugtrekken en daarna vernieuwd terugkeren.",
+  "attribution": "Marcus Aurelius, Meditaties 4.3 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Marcus Aurelius, Meditaties 4.3 (overgeleverde tekst en vertaling)",
+    "url": "https://www.stoicsource.com/aurelius/meditations/4.03/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer van 161 tot 180.",
+    "Hij schreef de Meditaties in het Grieks als persoonlijke aantekeningen, niet als leerboek voor publiek.",
+    "Een deel van de Meditaties ontstond waarschijnlijk tijdens zijn veldtochten in de jaren 170; de precieze plaats en datum van 4.3 zijn onbekend.",
+    "In 4.3 noemt hij landschap en zee als geliefde toevluchtsoorden, maar zoekt hij rust in een korte heroriëntatie van zijn denken."
+  ],
+  "theory": "Deze passage verbindt de stoïcijnse oefening van het oordeel met passend handelen. Marcus zoekt geen permanente afzondering: hij haalt korte basisgedachten op, ordent zijn oordeel en keert terug naar mensen en plichten. Zijn 'rust' is dus meer dan ontspanning. Sommige lezers benadrukken de kalmte, andere de terugkeer naar rechtvaardig handelen; beide bewegingen staan in 4.3.",
+  "connections": ["Oordeel over indrukken", "Innerlijke orde", "Rechtvaardigheid", "Passend handelen"],
+  "diagram": ["Drukte: ik wil weg", "Pauze: één ademhaling", "Toets: welk oordeel jaagt me op?", "Terug: één goede handeling"],
+  "concepts": [
+    {"term": "Toevlucht", "meaning": "Een korte stap terug om helder te kijken", "example": "Je legt je telefoon één minuut neer."},
+    {"term": "Oordeel", "meaning": "De betekenis die je aan een gebeurtenis geeft", "example": "'Deze vraag is een aanval' kan ook 'iemand wil uitleg' zijn."},
+    {"term": "Terugkeer", "meaning": "Met een beter oordeel je taak weer oppakken", "example": "Je antwoordt rustig en concreet."}
+  ],
+  "modernExample": {
+    "situation": "Tijdens een volle werkdag komt er een scherp bericht binnen terwijl je al achterloopt.",
+    "automatic": "Je leest het als verwijt, vlucht in eindeloos scrollen en stelt je antwoord uit.",
+    "stoic": "Je neemt één minuut afstand, onderscheidt het bericht van je uitleg ervan en antwoordt op de feitelijke vraag."
+  },
+  "explain": "Marcus Aurelius, keizer in de tweede eeuw n.Chr., schreef in Meditaties 4.3 aan zichzelf dat hij niet naar zee of bergen hoeft om even rust te vinden. Hij kan zijn aandacht naar binnen richten, zijn basisgedachten ordenen en vervolgens terugkeren naar zijn werk en medemensen. De stoïcijnse pauze is een tussenstap naar beter handelen, geen vlucht uit verantwoordelijkheid.",
+  "exercise": "Neem bij één gespannen moment zestig seconden pauze. Benoem het feit, je oordeel en de eerstvolgende behulpzame stap. Doe alleen die stap.",
+  "reflection": "Wanneer hielp een korte pauze mij vandaag om terug te keren in plaats van af te haken?",
+  "remember": "Stap even terug om beter terug te komen.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius · Meditaties 4.3",
+    "concept": "Innerlijke toevlucht: oordeel ordenen en terugkeren naar passend handelen",
+    "sentence": "Neem pauze zonder weg te lopen."
+  }
+}
