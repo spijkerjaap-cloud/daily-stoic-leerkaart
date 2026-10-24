@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-24",
+  "title": "Betaal geen angst vooruit",
+  "theme": "Vooruitlopen op gevreesde uitkomsten",
+  "thinkerId": "seneca",
+  "passage": "Veel van wat ons bang maakt, is nog niet gebeurd; soms lijden we meer onder ons oordeel dan onder de gebeurtenis.",
+  "attribution": "Seneca, Brieven aan Lucilius 13.4–5 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 13.4–5 (Latijn en vertaling)",
+    "url": "https://reader.humanitext.ai/en/read/urn%3Acts%3AlatinLit%3Aphi1017.phi015.humanitext-lat2%3A13.1-13.8"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr.; hij werd geboren in Corduba en werkte later in Rome.",
+    "De Brieven aan Lucilius stammen uit zijn laatste jaren, ongeveer 62–65 n.Chr.",
+    "In brief 13 onderscheidt Seneca wat iemand werkelijk treft van wat iemand vooraf vreest.",
+    "In 13.5 erkent hij dat mensen een last ook kunnen vergroten, vervroegen of zich voorstellen; hij beweert daarmee niet dat elke bedreiging verzonnen is."
+  ],
+  "theory": "Dit is de stoïcijnse oefening om een indruk te toetsen voordat je haar als feit aanneemt. Vooruitdenken kan nuttig zijn als het tot voorbereiding leidt. Het wordt belastend wanneer een mogelijke uitkomst al als zeker wordt beleefd. Seneca's scherpe formulering kan klinken alsof echte pijn wordt gebagatelliseerd; lees haar hier als een uitnodiging om onzekerheid, huidige feiten en handelingsruimte uit elkaar te houden.",
+  "connections": ["Indruk en oordeel", "Vooruitzien", "Moed", "Passend handelen"],
+  "diagram": ["Wat kan gebeuren?", "Wat weet ik nu echt?", "Welke voorbereiding helpt?", "Laat de rest open"],
+  "concepts": [
+    {"term": "Indruk", "meaning": "Het eerste beeld van een mogelijke uitkomst", "example": "Mijn presentatie gaat mislukken."},
+    {"term": "Toetsing", "meaning": "Nagaan wat feit, mogelijkheid of invulling is", "example": "Ik ken mijn onderwerp; vragen blijven mogelijk."},
+    {"term": "Voorbereiding", "meaning": "Een concrete stap voor een reëel risico", "example": "Ik oefen de opening en leg mijn kernpunten klaar."}
+  ],
+  "modernExample": {
+    "situation": "Morgen geef je een presentatie aan collega's en je verwacht kritische vragen.",
+    "automatic": "Je speelt urenlang een vernederende afloop af en slaapt slecht, zonder nog iets voor te bereiden.",
+    "stoic": "Je noteert wat zeker is, bereidt twee lastige vragen voor en stopt daarna met het herhalen van rampscenario's."
+  },
+  "explain": "Seneca schreef rond 62–65 n.Chr. aan Lucilius dat mensen vaak al lijden onder wat zij vrezen, vóórdat het gebeurt. Hij zegt niet dat gevaar onmogelijk is. Zijn punt is dat je de angstige voorstelling moet onderscheiden van de feiten. Bereid je voor op wat aannemelijk is; behandel wat onzeker blijft niet als een voldongen uitkomst.",
+  "exercise": "Schrijf bij één zorg drie korte regels: 'feit nu', 'gevreesd scenario' en 'één nuttige voorbereiding'. Voer alleen die voorbereiding uit.",
+  "reflection": "Welke mogelijke uitkomst behandelde ik vandaag al als zekerheid?",
+  "remember": "Bereid je voor op risico; betaal niet alvast voor de ramp.",
+  "knowledgeAnchor": {
+    "name": "Seneca · brief 13",
+    "concept": "Toetsing van indrukken: scheid huidig feit van gevreesde mogelijkheid",
+    "sentence": "Betaal geen angst vooruit."
+  }
+}
