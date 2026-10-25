@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-25",
+  "title": "Je karakter reist met je mee",
+  "theme": "Moed en rechtvaardigheid bij verlies van plaats",
+  "thinkerId": "musonius",
+  "passage": "Ook wie zijn vertrouwde plek verliest, kan moed en rechtvaardigheid blijven oefenen.",
+  "attribution": "Musonius Rufus, Les IX, 'Dat verbanning geen moreel kwaad is' · eigen Nederlandse parafrase van de overgeleverde les",
+  "source": {
+    "label": "Musonius Rufus, Les IX, in de vertaling van Cora E. Lutz",
+    "url": "https://stoicismnow.com/read/musonius-rufus/9"
+  },
+  "facts": [
+    "Musonius Rufus werd vóór 30 n.Chr. geboren in Volsinii en gaf in de eerste eeuw les in Rome.",
+    "Keizer Nero verbande hem in 65 n.Chr. naar het eiland Gyaros; in 68 n.Chr. kon hij terugkeren.",
+    "Zijn eigen geschriften zijn niet bewaard. De les over verbanning kennen we uit de overlevering van zijn onderwijs.",
+    "In Les IX spreekt hij vanuit zijn eigen ervaring met verbanning en noemt hij moed, rechtvaardigheid, zelfbeheersing en inzicht als vermogens die een balling kan behouden."
+  ],
+  "theory": "De Stoa onderscheidt zwaar verlies van moreel kwaad: een plaats en vertrouwde contacten zijn waardevol, maar bepalen volgens Musonius niet of iemand moedig of rechtvaardig kan handelen. Dat sluit aan bij de vier deugden en de gedachte van een bredere menselijke gemeenschap. De titel van de antieke les klinkt hard voor wie werkelijk ontheemd is. Zij ontkent de praktische schade niet overtuigend; een hedendaagse lezing verbindt persoonlijke veerkracht daarom met hulp en rechtvaardigheid voor wie zijn thuis verliest.",
+  "connections": ["Vier deugden", "Menselijke gemeenschap", "Moed", "Rechtvaardigheid"],
+  "diagram": ["Vertrouwde plek valt weg", "Erken het verlies", "Wat kan ik blijven doen?", "Zoek contact en handel rechtvaardig"],
+  "concepts": [
+    {"term": "Verbanning", "meaning": "Gedwongen verwijdering uit een vertrouwde gemeenschap", "example": "Musonius werd naar Gyaros gestuurd."},
+    {"term": "Moed", "meaning": "Blijven handelen ondanks angst en verlies", "example": "Je spreekt eerlijk over wat je nodig hebt."},
+    {"term": "Gemeenschap", "meaning": "Verbinding die verder reikt dan één plek", "example": "Je houdt contact en maakt ruimte voor nieuwe mensen."}
+  ],
+  "modernExample": {
+    "situation": "Na een reorganisatie kom je in een ander team en mis je je vertrouwde collega's.",
+    "automatic": "Je besluit dat je nergens meer bij hoort en trekt je uit elk gesprek terug.",
+    "stoic": "Je erkent wat je mist, houdt contact met oude collega's en zoekt één eerlijk gesprek in het nieuwe team. Een teamwissel is geen verbanning; alleen de vraag naar wat je meeneemt is vergelijkbaar."
+  },
+  "explain": "Musonius Rufus kende gedwongen verbanning: Nero stuurde hem in 65 n.Chr. naar Gyaros. In de overgeleverde Les IX stelt hij dat zo'n verlies zijn moed en rechtvaardigheid niet kan afnemen. De gedachte is bruikbaar wanneer je omgeving verandert: verdriet mag er zijn, terwijl je blijft kiezen hoe je met anderen omgaat. Zijn stelling is geen reden om echte ontheemding te bagatelliseren of steun achterwege te laten.",
+  "exercise": "Neem bij één verandering vandaag twee minuten: schrijf op wat je mist en kies één klein gebaar waarmee je een band onderhoudt of opbouwt. Voer dat gebaar uit.",
+  "reflection": "Welke waarde wil ik blijven uitdragen, ook als mijn omgeving verandert?",
+  "remember": "Een plek kan veranderen; je karakter neem je mee.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus · Les IX",
+    "concept": "Deugd blijft mogelijk bij verlies van plaats; rechtvaardigheid vraagt ook steun voor anderen",
+    "sentence": "Je karakter reist met je mee."
+  }
+}
