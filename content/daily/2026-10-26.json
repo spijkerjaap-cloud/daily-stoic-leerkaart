@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-26",
+  "title": "Geef roddel geen tweede stem",
+  "theme": "Spreken met zorg",
+  "thinkerId": "epictetus",
+  "passage": "Spreek alleen wanneer het nodig is, in weinig woorden; maak anderen niet tot onderwerp van verwijt of vergelijking.",
+  "attribution": "Epictetus, Enchiridion 33 · eigen Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Enchiridion 33",
+    "url": "https://www.stoicsource.com/epictetus/enchiridion/33/"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis en leefde als slaaf in Rome.",
+    "Hij studeerde bij Musonius Rufus en gaf na ongeveer 89 n.Chr. les in Nicopolis.",
+    "Zijn leerling Arrianus legde zijn onderwijs vast in de Gesprekken en het Enchiridion.",
+    "In Enchiridion 33 raadt hij aan terughoudend te spreken en anderen niet te bespreken om hen te prijzen, af te keuren of te vergelijken."
+  ],
+  "theory": "Spreken is een handeling waarvoor je verantwoordelijkheid draagt. In de stoïcijnse ethiek vraagt dat om rechtvaardigheid tegenover de ander en matigheid in je eigen impuls om iets te zeggen. Epictetus' raad klinkt strikt: meestal zwijgen en alleen kort spreken wanneer dat nodig is. Je kunt die lezen als een strenge leefregel of als oefening in zorgvuldig spreken; zwijgen bij onrecht volgt er niet uit.",
+  "connections": ["Rechtvaardigheid", "Matigheid", "Passend handelen", "Oordeel over indrukken"],
+  "diagram": ["Je hoort iets over iemand", "Pauze: feit of aanname?", "Helpt mijn bijdrage?", "Spreek zorgvuldig of laat het rusten"],
+  "concepts": [
+    {"term": "Indruk", "meaning": "Wat je hoort of denkt te zien, nog zonder zekerheid", "example": "Een collega reageert kort in de vergadering."},
+    {"term": "Matigheid", "meaning": "De impuls om meteen te praten begrenzen", "example": "Je stuurt geen scherpe opmerking in de groepschat."},
+    {"term": "Rechtvaardigheid", "meaning": "Ook over een afwezige ander eerlijk spreken", "example": "Je vraagt naar het concrete probleem zonder motieven in te vullen."}
+  ],
+  "modernExample": {
+    "situation": "In een groepschat wordt een afwezige collega weggezet als ongemotiveerd.",
+    "automatic": "Je voegt een geestige, venijnige opmerking toe en de aanname wordt een groepsverhaal.",
+    "stoic": "Je doet niet mee aan de speculatie en vraagt welk concreet probleem opgelost moet worden."
+  },
+  "explain": "Epictetus, die na zijn tijd als slaaf lesgaf in Nicopolis, koppelt karakter aan alledaags gedrag. In Enchiridion 33 vraagt hij om sober taalgebruik en waarschuwt hij voor praten over anderen. Voor vandaag betekent dat: merk de drang op om mee te praten, toets wat je weet en kies woorden die eerlijk en nuttig zijn.",
+  "exercise": "Pauzeer vandaag één keer twee seconden voordat je iets over een afwezige persoon zegt. Vervang de opmerking door een feitelijke, behulpzame vraag of laat haar weg.",
+  "reflection": "Wanneer maakte ik vandaag van een aanname over iemand een verhaal?",
+  "remember": "Mijn woorden zijn ook mijn daden.",
+  "knowledgeAnchor": {
+    "name": "Epictetus",
+    "concept": "Rechtvaardig en matig spreken",
+    "sentence": "Spreek zorgvuldig over wie er niet bij is."
+  }
+}
