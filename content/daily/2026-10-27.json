@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-27",
+  "title": "Sta op voor je aandeel",
+  "theme": "Beginnen met betekenis",
+  "thinkerId": "marcus",
+  "passage": "Ik sta op om het werk van een mens te doen; ook rust heeft haar maat.",
+  "attribution": "Marcus Aurelius, Meditaties 5.1 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Meditaties 5.1, Griekse tekst en vertaling",
+    "url": "https://marcusaurelius-meditations.org/en/quotes/orthrou-dysoknos/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer van 161 tot 180.",
+    "Hij schreef de Meditaties in het Grieks als persoonlijke oefeningen; delen ontstonden vermoedelijk tijdens veldtochten in de jaren 170.",
+    "In 5.1 vergelijkt hij menselijk handelen met planten, vogels, mieren, spinnen en bijen die elk hun aandeel doen.",
+    "De passage erkent uitdrukkelijk dat mensen rust nodig hebben."
+  ],
+  "theory": "Voor de Stoa is een mens een redelijk en sociaal wezen. Een goede dag begint daarom niet met zoveel mogelijk taken, maar met een passende bijdrage aan het gezamenlijke leven. Marcus spreekt zichzelf streng toe wanneer comfort hem van zijn werk afhoudt. De tekst kan als aansporing tot discipline worden gelezen, maar rechtvaardigt geen slaaptekort of eindeloze productiviteit: hij noemt rust zelf noodzakelijk.",
+  "connections": ["Leven volgens de natuur", "Passend handelen", "Sociale verbondenheid", "Matigheid"],
+  "diagram": ["Ik wil blijven liggen", "Heb ik rust nodig of stel ik uit?", "Kies één nuttige bijdrage", "Begin klein en neem passende rust"],
+  "concepts": [
+    {"term": "Menselijk werk", "meaning": "Redelijk handelen en bijdragen aan anderen", "example": "Een collega tijdig helpen met een lastige overdracht."},
+    {"term": "Passend handelen", "meaning": "Doen wat in deze situatie bij je rol en mogelijkheden past", "example": "Eerst het noodzakelijke gesprek voeren."},
+    {"term": "Matigheid", "meaning": "Een goede maat houden in comfort, inzet en rust", "example": "Na voldoende slaap opstaan en later bewust pauzeren."}
+  ],
+  "modernExample": {
+    "situation": "Je bent uitgerust, maar blijft 's ochtends scrollen terwijl iemand op jouw antwoord wacht.",
+    "automatic": "Je denkt: nog vijf minuten, en stelt het antwoord steeds verder uit.",
+    "stoic": "Je legt je telefoon weg, geeft het heldere antwoord en plant daarna een echte pauze."
+  },
+  "explain": "Marcus Aurelius was keizer, maar schreef deze aansporing voor zichzelf. In Meditaties 5.1 vraagt hij zich af of hij geboren is om warm onder de dekens te blijven of om als mens zijn aandeel te doen. Zijn punt is niet dat rust slecht is: hij noemt rust nodig. Hij wil zijn eigen uitstel herkennen en weer deelnemen aan het leven met anderen.",
+  "exercise": "Kies vandaag één kleine bijdrage waar iemand baat bij heeft en besteed er meteen vijf minuten aan.",
+  "reflection": "Was mijn aarzeling vandaag een teken dat ik rust nodig had, of stelde ik een passende stap uit?",
+  "remember": "Rust waar nodig; begin waar mogelijk.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius",
+    "concept": "Menselijk werk: redelijk en sociaal handelen",
+    "sentence": "Doe vandaag jouw aandeel, met ruimte voor rust."
+  }
+}
