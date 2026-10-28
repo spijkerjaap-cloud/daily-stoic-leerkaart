@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-28",
+  "title": "Laat ondankbaarheid je hand niet sluiten",
+  "theme": "Weldoen zonder afrekening",
+  "thinkerId": "seneca",
+  "passage": "Laat een goede daad liever onbeantwoord dan ongedaan.",
+  "attribution": "Seneca, Brieven aan Lucilius 81.1 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Epistulae Morales 81.1, Latijnse tekst",
+    "url": "https://www.latin.it/autore/seneca/epistulae_morales_ad_lucilium/%2110%21liber_x/081.lat"
+  },
+  "facts": [
+    "Seneca leefde van ongeveer 4 v.Chr. tot 65 n.Chr. en schreef als Romeins staatsman en filosoof.",
+    "De Brieven aan Lucilius ontstonden in zijn laatste levensjaren, waarschijnlijk tussen 62 en 65 n.Chr.",
+    "Brief 81 begint met Lucilius' klacht over een ondankbare ontvanger van een gunst.",
+    "Seneca vergelijkt opnieuw helpen na teleurstelling met opnieuw zaaien na een slechte oogst."
+  ],
+  "theory": "Een weldaad is in de stoïcijnse ethiek een uiting van rechtvaardigheid en goede wil. De dank van de ontvanger is geen bezit van de gever. Seneca wil voorkomen dat vrees voor ondankbaarheid je vermogen om te helpen verschraalt. Zijn beeld van blijven zaaien kan streng klinken; het verplicht je niet om dezelfde persoon zonder grens te blijven helpen. Onderzoek zowel je motief als de concrete gevolgen van je hulp.",
+  "connections": ["Rechtvaardigheid", "Eigen keuze en uitkomst", "Sociale verbondenheid", "Praktische wijsheid"],
+  "diagram": ["Je helpt iemand", "Dank blijft uit", "Merk je verwachting op", "Kies opnieuw verstandig en gul"],
+  "concepts": [
+    {"term": "Weldaad", "meaning": "Een bewuste handeling die een ander werkelijk helpt", "example": "Je neemt tijd om iemand iets uit te leggen."},
+    {"term": "Uitkomst", "meaning": "De reactie van de ander, die je niet kunt afdwingen", "example": "De ander bedankt je niet."},
+    {"term": "Praktische wijsheid", "meaning": "Helpen op een manier die in deze situatie passend is", "example": "Je biedt hulp, maar neemt niet steeds iemands werk over."}
+  ],
+  "modernExample": {
+    "situation": "Je helpt een collega met een lastig dossier; daarna hoor je geen bedankje.",
+    "automatic": "Je besluit voortaan niemand meer te helpen en blijft aan de ondankbaarheid denken.",
+    "stoic": "Je erkent de teleurstelling, stelt waar nodig een grens en blijft openstaan voor zinvolle hulp."
+  },
+  "explain": "Seneca schrijft Lucilius dat angst voor ondankbaarheid je gieriger kan maken. Dan verdwijnt de mogelijke goede daad al bij jou, nog voordat de ander kan reageren. In brief 81 gebruikt hij het beeld van opnieuw zaaien na een mislukte oogst. Je helpt dus om goed te handelen, terwijl je eerlijk blijft kijken of je hulp passend is.",
+  "exercise": "Doe vandaag één kleine behulpzame handeling zonder op een bedankje te wachten. Vraag je daarna af of de hulp passend was.",
+  "reflection": "Werd mijn bereidheid om te helpen vandaag gestuurd door zorg voor de ander of door de hoop op erkenning?",
+  "remember": "Geef bewust; tel de dank niet mee.",
+  "knowledgeAnchor": {
+    "name": "Seneca",
+    "concept": "Weldoen zonder dank als voorwaarde",
+    "sentence": "Een goede daad blijft goed, ook zonder applaus."
+  }
+}
