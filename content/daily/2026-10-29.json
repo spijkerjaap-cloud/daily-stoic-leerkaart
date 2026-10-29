@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-29",
+  "title": "Eet met aandacht, niet op automatische piloot",
+  "theme": "Matigheid aan tafel",
+  "thinkerId": "musonius",
+  "passage": "Zelfbeheersing bij eten en drinken is een begin van matigheid.",
+  "attribution": "Musonius Rufus, Les 18A · eigen Nederlandse parafrase; overgeleverd via leerlingen",
+  "source": {
+    "label": "Musonius Rufus, Les 18A (Cora E. Lutz-vertaling)",
+    "url": "https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus/lectures/18-0"
+  },
+  "facts": [
+    "Musonius Rufus leefde ongeveer van 30 tot vóór 102 n.Chr. en doceerde in Rome.",
+    "Zijn eigen geschriften zijn niet overgeleverd; zijn lessen zijn via anderen bewaard gebleven.",
+    "Les 18A begint met de gedachte dat zelfbeheersing bij eten en drinken de basis van matigheid vormt.",
+    "Hij prijst eenvoudig en gemakkelijk verkrijgbaar voedsel; zijn voedingsopvattingen zijn duidelijk strenger dan een moderne, flexibele benadering."
+  ],
+  "theory": "Voor Musonius wordt een deugd zichtbaar in herhaalde, gewone keuzes. Eten is zo'n oefenplaats: merk op of behoefte, gewoonte of verlangen naar luxe je keuze stuurt. Dat hoort bij de stoïcijnse matigheid, die ruimte maakt voor een verstandige maat. Zijn afwijzing van culinair plezier en voorkeur voor een streng dieet hoeven niet letterlijk te worden overgenomen; deze les gaat over aandacht, niet over minder eten.",
+  "connections": ["Matigheid", "Oefening in gedrag", "Oordeel over verlangen", "Leven volgens de natuur"],
+  "diagram": ["Ik wil iets nemen", "Wat heb ik nu nodig?", "Kies bewust", "Geniet zonder gedachteloos door te gaan"],
+  "concepts": [
+    {"term": "Matigheid", "meaning": "Een passende maat kiezen in plaats van een impuls volgen", "example": "Je merkt op dat je vooral uit verveling wilt bestellen."},
+    {"term": "Oefening", "meaning": "Een kleine keuze herhalen tot zorgvuldig handelen vertrouwder wordt", "example": "Je neemt een moment voordat je een maaltijd kiest."},
+    {"term": "Verlangen", "meaning": "De trek naar iets prettigs, die je kunt onderzoeken", "example": "Een aanbieding voelt dringend, terwijl je al een plan had."}
+  ],
+  "modernExample": {
+    "situation": "Een bezorgapp toont vlak voor het afrekenen een dure extra aanbieding.",
+    "automatic": "Je tikt meteen op toevoegen omdat de aanbieding tijdelijk lijkt.",
+    "stoic": "Je pauzeert, vraagt of je het echt wilt en kiest zonder je te laten opjagen."
+  },
+  "explain": "Musonius Rufus, de Romeinse leraar van Epictetus, bracht filosofie naar dagelijkse gewoonten. In Les 18A noemt hij zelfbeheersing bij eten en drinken een begin van matigheid. Zijn eigen dieetadvies was streng. Wat je vandaag kunt meenemen is kleiner: laat een verleidelijke keuze niet volledig aan gewoonte of marketing over, maar denk even zelf na.",
+  "exercise": "Pauzeer vandaag bij één voedselkeuze tien seconden en vraag jezelf: kies ik dit bewust of reageer ik op de prikkel? Kies daarna vrij.",
+  "reflection": "Welke dagelijkse prikkel kreeg vandaag meer invloed op mijn keuze dan ik wilde?",
+  "remember": "Een korte pauze maakt ruimte voor een vrije keuze.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus",
+    "concept": "Matigheid als dagelijkse oefening",
+    "sentence": "Onderzoek je impuls voordat je kiest."
+  }
+}
