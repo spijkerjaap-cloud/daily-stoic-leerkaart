@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-30",
+  "title": "Loop mee met de feiten, stuur je stap",
+  "theme": "Aanvaarding zonder berusting",
+  "thinkerId": "cleanthes",
+  "passage": "Leid mij waarheen het lot mij brengt; ik kies ervoor mee te gaan.",
+  "attribution": "Cleanthes, vers bewaard in Epictetus, Enchiridion 53.1 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Enchiridion 53.1, Griekse tekst en toelichting",
+    "url": "https://dcc.dickinson.edu/epictetus-encheiridion/chapter-53"
+  },
+  "facts": [
+    "Cleanthes van Assos leefde ongeveer van 330 tot 230 v.Chr. en volgde Zeno op als leider van de Stoa in Athene.",
+    "Van de vroege stoïcijnse schoolleiders is geen volledig eigen werk bewaard; dit vers is via latere schrijvers overgeleverd.",
+    "Epictetus neemt het vers van Cleanthes op aan het slot van het Enchiridion, in hoofdstuk 53.",
+    "De Griekse tekst spreekt Zeus en het Lot aan en zegt dat de spreker ook bij verzet toch meegevoerd wordt."
+  ],
+  "theory": "De vroege Stoa zag de wereld als een samenhangende, door rede geordende werkelijkheid. Cleanthes oefent bereidheid om een vaststaand verloop te erkennen: verzet tegen het feit verandert het feit niet. Dat laat ruimte om je volgende handeling goed te kiezen. Je kunt het vers religieus lezen als gebed tot Zeus of praktisch als oefening in het aanvaarden van wat al gebeurd is; die praktische lezing neemt niet zijn antieke wereldbeeld over.",
+  "connections": ["Logos en natuurorde", "Eigen keuze en uitkomst", "Passend handelen", "Moed"],
+  "diagram": ["De situatie verandert", "Erken wat nu vaststaat", "Laat vruchteloos verzet los", "Kies je volgende goede stap"],
+  "concepts": [
+    {"term": "Lot", "meaning": "Het verloop van gebeurtenissen buiten je volledige keuze", "example": "De trein waarop je rekende valt uit."},
+    {"term": "Aanvaarding", "meaning": "Een bestaand feit erkennen zonder het goed te keuren", "example": "Je stopt met hopen dat de trein alsnog rijdt."},
+    {"term": "Handelingsruimte", "meaning": "De keuze die in de nieuwe situatie nog openligt", "example": "Je meldt de vertraging en zoekt een andere route."}
+  ],
+  "modernExample": {
+    "situation": "Je trein valt uit terwijl je onderweg bent naar een afspraak.",
+    "automatic": "Je blijft boos naar de melding kijken en verliest tijd met mopperen.",
+    "stoic": "Je erkent de uitval, laat de ander weten wat er speelt en kiest een haalbare route of nieuwe tijd."
+  },
+  "explain": "Cleanthes, de tweede leider van de Stoa, schreef een vers dat Epictetus eeuwen later in zijn handboek opnam. Het zegt: wat gebeurt, gebeurt ook als ik tegenstribbel. Stoïcijnse aanvaarding betekent hier niet niets doen. Zodra ik het feit erken, kan ik mijn aandacht richten op de keuze die nog mogelijk is.",
+  "exercise": "Schrijf bij één tegenvaller vandaag twee korte regels: wat staat vast, en welke goede stap is nu mogelijk? Zet die stap.",
+  "reflection": "Waar bleef ik vandaag vechten tegen een feit terwijl er nog een zinvolle stap openlag?",
+  "remember": "Erken het feit; kies de stap.",
+  "knowledgeAnchor": {
+    "name": "Cleanthes",
+    "concept": "Gewillig omgaan met wat vaststaat",
+    "sentence": "Ik stuur mijn volgende stap, ook als de route verandert."
+  }
+}
