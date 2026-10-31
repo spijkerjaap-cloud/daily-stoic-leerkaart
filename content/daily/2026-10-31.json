@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-31",
+  "title": "Wees aanwezig, ook als je speelt",
+  "theme": "Aandacht als karakteroefening",
+  "thinkerId": "epictetus",
+  "passage": "Ook bij spelen en zingen kun je aandachtig zijn.",
+  "attribution": "Epictetus, Gesprekken 4.12 · eigen Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Gesprekken 4.12, Over aandacht",
+    "url": "https://www.stoicsource.com/epictetus/discourses/4.12/"
+  },
+  "facts": [
+    "Epictetus leefde ongeveer van de jaren 50 tot 135 n.Chr. en gaf na zijn tijd in Rome les in Nicopolis.",
+    "Zijn leerling Arrianus legde de lessen vast die als de Gesprekken zijn overgeleverd.",
+    "Hoofdstuk 4.12 heet Over aandacht en noemt uitdrukkelijk spelen en zingen als bezigheden waarbij aandacht past.",
+    "Epictetus verbindt aandacht aan het toetsen van je eigen keuze en aan passend gedrag in je relaties."
+  ],
+  "theory": "Stoïcijnse aandacht is meer dan concentratie op een taak. Je merkt op welke indruk je volgt en of je gedrag past bij je waarden en de mensen om je heen. Zo raken oordeel, handelen en rechtvaardigheid elkaar. Epictetus formuleert dit streng en wil voortdurende waakzaamheid; een praktische lezing is om na afleiding steeds opnieuw bewust terug te keren, ook tijdens rust en spel.",
+  "connections": ["Indruk en oordeel", "Prohairesis", "Passend handelen", "Rechtvaardigheid"],
+  "diagram": ["Aandacht glijdt weg", "Merk het op", "Wat vraagt dit moment?", "Keer terug naar de ander of je taak"],
+  "concepts": [
+    {"term": "Aandacht", "meaning": "Opmerken wat je denkt en doet terwijl het gebeurt", "example": "Je ziet dat je tijdens een gesprek naar meldingen grijpt."},
+    {"term": "Indruk", "meaning": "Een prikkel die om een reactie lijkt te vragen", "example": "Je telefoon trilt: dit moet ik nu zien."},
+    {"term": "Passend handelen", "meaning": "Kiezen wat in deze relatie en situatie goed is", "example": "Je luistert eerst en bekijkt het bericht later."}
+  ],
+  "modernExample": {
+    "situation": "Tijdens een gesprek met een vriend licht je telefoon steeds op.",
+    "automatic": "Je kijkt telkens even en mist de helft van wat je vriend vertelt.",
+    "stoic": "Je merkt de neiging op, legt je telefoon weg en vraagt door over wat je vriend zei."
+  },
+  "explain": "Epictetus, de leraar uit Nicopolis, vraagt in Gesprekken 4.12 om aandacht voor je eigen handelen. Hij noemt zelfs zingen en spelen: ook vrije tijd verdient een bewuste houding. Het doel is dus geen eindeloze productiviteit, maar aanwezig zijn bij wat je doet en bij de mensen met wie je bent.",
+  "exercise": "Leg bij één gesprek vandaag je telefoon vijf minuten buiten zicht en stel één vraag die laat zien dat je luistert.",
+  "reflection": "Wanneer was ik vandaag lichamelijk aanwezig maar met mijn aandacht ergens anders?",
+  "remember": "Aandacht begint met terugkeren.",
+  "knowledgeAnchor": {
+    "name": "Epictetus",
+    "concept": "Aandacht voor oordeel en handelen",
+    "sentence": "Wees bij de mens en de handeling van dit moment."
+  }
+}
