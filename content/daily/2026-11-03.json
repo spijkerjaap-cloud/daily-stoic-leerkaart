@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-03",
+  "title": "Handig is nog niet juist",
+  "theme": "Plicht en schijnbaar voordeel",
+  "thinkerId": "panaetius",
+  "passage": "Vraag of een handeling juist is, of zij voordeel biedt, en wat te doen als die twee lijken te botsen.",
+  "attribution": "Panaetius' driedeling volgens Cicero, De officiis 1.9 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Cicero, De officiis 1.9, Latijn en vertaling",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/1A*.html"
+  },
+  "facts": [
+    "Panaetius van Rhodos leefde ongeveer van 185 tot 109 v.Chr. en behoorde tot de Midden-Stoa.",
+    "Zijn werk over passende handelingen is verloren; Cicero gebruikte het als belangrijke bron voor De officiis, geschreven in 44 v.Chr.",
+    "Cicero schrijft in De officiis 1.9 expliciet dat Panaetius drie vragen onderscheidde bij het beoordelen van een handeling.",
+    "Cicero breidt de driedeling verderop zelf uit; zijn tekst is dus geen woordelijke weergave van Panaetius."
+  ],
+  "theory": "De stoïcijnse ethiek vraagt eerst of een keuze moreel passend is, daarna wat zij praktisch oplevert. Soms lijkt voordeel tegen het juiste in te gaan: dan moet je de schijn van voordeel onderzoeken. Panaetius' indeling maakt de afweging zichtbaar; Cicero werkt haar in zijn eigen Romeinse context verder uit. Dit schema geeft geen automatisch antwoord, maar voorkomt dat gemak of winst stilzwijgend de maatstaf wordt.",
+  "connections": ["Passend handelen", "Rechtvaardigheid", "Praktische wijsheid", "Moreel goed en nuttig"],
+  "diagram": ["Welke keuze ligt voor?", "Is zij juist?", "Welk voordeel lijkt zij te geven?", "Onderzoek de botsing en handel eerlijk"],
+  "concepts": [
+    {"term": "Passend handelen", "meaning": "Een keuze waarvoor je een goede morele reden kunt geven", "example": "Een fout in een rekening herstellen."},
+    {"term": "Voordeel", "meaning": "Wat een keuze praktisch oplevert", "example": "De fout laten staan scheelt tijd en levert geld op."},
+    {"term": "Schijnbare botsing", "meaning": "Het gevoel dat eerlijkheid en eigen belang uiteenlopen", "example": "Herstellen kost moeite, maar voorkomt benadeling."}
+  ],
+  "modernExample": {
+    "situation": "Je ontdekt dat een klant per ongeluk te veel is gefactureerd.",
+    "automatic": "Je laat het staan: corrigeren kost tijd en niemand heeft geklaagd.",
+    "stoic": "Je meldt de fout en zorgt voor correctie. Het gemak van stilzwijgen maakt de rekening niet eerlijk."
+  },
+  "explain": "Panaetius onderzocht hoe een mens passende keuzes maakt. We kennen zijn driedeling via Cicero: is iets juist, is het voordelig, en wat doe je als die antwoorden lijken te botsen? Cicero schreef later en gaf er zijn eigen uitwerking aan. De praktische les is om bij een aantrekkelijk voordeel eerst te toetsen wie de prijs betaalt.",
+  "exercise": "Neem vandaag één kleine beslissing en noteer drie woorden: juist, voordeel, botsing. Formuleer daarna in één zin waarom je keuze eerlijk is.",
+  "reflection": "Wanneer noemde ik iets handig terwijl ik een moreel bezwaar al zag?",
+  "remember": "Toets het voordeel aan wat juist is.",
+  "knowledgeAnchor": {
+    "name": "Panaetius via Cicero",
+    "concept": "Drie vragen bij een passende keuze",
+    "sentence": "Handig is pas waardevol als het ook eerlijk is."
+  }
+}
