@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-04",
+  "title": "Twee keer nee, één route",
+  "theme": "Redeneren door uitsluiten",
+  "thinkerId": "chrysippus",
+  "passage": "Een hond ruikt bij een driesprong aan twee paden; als het spoor daar niet loopt, neemt hij het derde.",
+  "attribution": "Chrysippus' voorbeeld volgens Sextus Empiricus, Pyrronische schetsen 1.69–70 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Sextus Empiricus, Pyrronische schetsen 1.69–70, Grieks en vertaling",
+    "url": "https://forage.com/sextus/outlines-of-pyrrhonism/"
+  },
+  "facts": [
+    "Chrysippus leefde ongeveer van 280 tot 207 v.Chr. en werd rond 230 v.Chr. de derde leider van de Stoa in Athene.",
+    "Zijn eigen boeken zijn verloren; zijn logische werk kennen we via latere fragmenten en getuigenissen.",
+    "De scepticus Sextus Empiricus beschrijft in Pyrronische schetsen 1.69–70 een hond die bij drie wegen twee mogelijkheden uitsluit.",
+    "Sextus gebruikt het verhaal juist om de stoïcijnse grens tussen menselijke en dierlijke rede uit te dagen."
+  ],
+  "theory": "De Stoa bestudeerde niet alleen ethiek, maar ook logica: hoe volgt een conclusie uit wat je weet? Bij drie volledige mogelijkheden geldt: niet A en niet B, dus C. De redenering is alleen sterk als de lijst volledig is en de uitsluitingen kloppen. Het hondenverhaal is een latere, kritische overlevering, geen bewaard boek van Chrysippus; of de hond werkelijk zo redeneert blijft een andere vraag.",
+  "connections": ["Stoïcijnse logica", "Indruk en bewijs", "Praktische wijsheid", "Oordeel toetsen"],
+  "diagram": ["A, B of C?", "Controleer A", "Controleer B", "C blijft over — mits de lijst compleet is"],
+  "concepts": [
+    {"term": "Uitsluiten", "meaning": "Een mogelijkheid afstrepen op basis van bewijs", "example": "De sleutel ligt niet in mijn jas."},
+    {"term": "Volledige lijst", "meaning": "Alle werkelijk mogelijke opties zijn meegenomen", "example": "Jas, tas of schaal zijn de drie plaatsen waar ik hem zojuist neerlegde."},
+    {"term": "Conclusie", "meaning": "Wat uit de gecontroleerde opties volgt", "example": "Na jas en tas controleer ik de schaal."}
+  ],
+  "modernExample": {
+    "situation": "Je zoekt je sleutel en weet dat je hem bij thuiskomst in je jas, tas of op de schaal legde.",
+    "automatic": "Je roept dat hij kwijt is en doorzoekt het hele huis zonder plan.",
+    "stoic": "Je controleert jas en tas. Als hij daar niet ligt, kijk je op de schaal; zo nodig herzie je daarna je lijst."
+  },
+  "explain": "Chrysippus, de derde leider van de vroege Stoa, maakte logica tot een belangrijk onderdeel van filosofie. Een sceptische schrijver bewaart een beeld van een hond bij een driesprong: twee paden vallen af, dus hij neemt het derde. De les is niet dat een hond een formeel bewijs levert. Zij laat zien hoe je helder kunt redeneren en waarom je eerst moet vragen of je alle opties kent.",
+  "exercise": "Noteer bij één klein probleem drie mogelijke verklaringen. Streep alleen een verklaring weg als je er een concreet gegeven voor hebt; vraag daarna of er een vierde mogelijkheid is.",
+  "reflection": "Wanneer trok ik vandaag een conclusie terwijl mijn lijst met mogelijkheden nog onvolledig was?",
+  "remember": "Uitsluiten werkt pas als je opties kloppen.",
+  "knowledgeAnchor": {
+    "name": "Chrysippus",
+    "concept": "Logica: mogelijkheden zorgvuldig uitsluiten",
+    "sentence": "Twee keer nee geeft pas zekerheid als je alle wegen kent."
+  }
+}
