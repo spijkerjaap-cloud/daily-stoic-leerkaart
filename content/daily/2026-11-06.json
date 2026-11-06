@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-06",
+  "title": "Laat de massa je kompas niet kiezen",
+  "theme": "Omgeving en karakter",
+  "thinkerId": "seneca",
+  "passage": "Neem schadelijk gedrag niet over omdat velen het doen; veracht mensen ook niet omdat zij anders zijn. Zoek gezelschap waarin je elkaar beter maakt.",
+  "attribution": "Seneca, Brieven aan Lucilius 7.8 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 7.1–8, Latijnse tekst en vertaling",
+    "url": "https://reader.humanitext.ai/en/read/urn:cts:latinLit:phi1017.phi015.humanitext-lat2:7.1-7.12"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 4 v.Chr. tot 65 n.Chr.; hij kwam uit Corduba en werkte later in Rome.",
+    "Na zijn terugkeer uit ballingschap in 49 n.Chr. werd hij leermeester en later adviseur van Nero.",
+    "In brief 7 beschrijft hij hoe een gewelddadig middagspektakel in de arena zijn eigen houding beïnvloedde.",
+    "Hij raadt Lucilius aan schadelijk groepsgedrag niet te imiteren en de groep ook niet te haten."
+  ],
+  "theory": "Dit is stoïcijnse ethiek als karakteroefening: wat je herhaaldelijk bekijkt en normaal vindt, kan je oordeel en gewoonten vormen. Seneca legt de nadruk op je gezelschap en op wederzijds leren. Zijn afkeer van de Romeinse arena is geen bewijs dat elke grote groep slecht is; zijn advies aan een leerling kan ook gelezen worden als tijdelijke bescherming van een nog kwetsbaar karakter.",
+  "connections": ["Karaktervorming", "Oordeel en instemming", "Rechtvaardigheid", "Wederzijds leren"],
+  "diagram": ["Prikkel uit de groep", "Merk je reactie op", "Toets: maakt dit mij zorgvuldiger?", "Kies je gedrag en gezelschap"],
+  "concepts": [
+    {"term": "Gewenning", "meaning": "Door herhaling gaat gedrag gewoon lijken", "example": "Na veel spottende berichten voelt spotten vanzelfsprekend."},
+    {"term": "Instemming", "meaning": "Je neemt een indruk over als richting voor je gedrag", "example": "Iedereen lacht, dus ik plaats ook een gemene reactie."},
+    {"term": "Wederkerigheid", "meaning": "Mensen helpen elkaar beter te handelen", "example": "Een vriend wijst mij rustig op mijn toon; ik luister."}
+  ],
+  "modernExample": {
+    "situation": "In een groepschat wordt een afwezige collega belachelijk gemaakt.",
+    "automatic": "Je voegt een grap toe om erbij te horen.",
+    "stoic": "Je doet niet mee, verlegt het gesprek of zegt rustig dat de collega er zelf niet op kan reageren."
+  },
+  "explain": "Seneca zag in de Romeinse arena hoe publiek vermaak mensen aan wreedheid kon laten wennen. In brief 7 adviseert hij Lucilius: volg de groep niet blind, maar keer je ook niet vijandig van mensen af. Kies gezelschap en gewoonten die je oordeel en karakter verbeteren. Een online groepschat is geen arena; de bruikbare vraag is welke reactie je daar zelf oefent.",
+  "exercise": "Let vandaag in één chat of tijdlijn op een groepsreactie. Pauzeer vóór je meedoet en schrijf één zin: welk gedrag wil ik hier oefenen?",
+  "reflection": "Bij welk groepsgedrag deed ik mee omdat het normaal leek, niet omdat ik het juist vond?",
+  "remember": "De groep geeft een prikkel; ik kies mijn aandeel.",
+  "knowledgeAnchor": {
+    "name": "Seneca",
+    "concept": "Karaktervorming door gezelschap en gewoonte",
+    "sentence": "Volg de massa niet blind; zoek mensen met wie je beter handelt."
+  }
+}
