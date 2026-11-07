@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "title": "Kijk naar de prijs vóór je ja zegt",
+  "theme": "Bewuste toewijding",
+  "thinkerId": "epictetus",
+  "passage": "Wie een Olympische overwinning wil, moet eerst naar de training en de mogelijke nederlaag kijken. Beslis daarna of je die weg wilt gaan.",
+  "attribution": "Epictetus, Enchiridion 29.1–3 · eigen Nederlandse parafrase; overgeleverd door Arrianus",
+  "source": {
+    "label": "Epictetus, Enchiridion 29, vertaling van W.A. Oldfather",
+    "url": "https://www.stoicsource.com/epictetus/enchiridion/29/"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis en stierf rond 135 n.Chr.",
+    "Hij leefde een tijd als slaaf in Rome, studeerde bij Musonius Rufus en gaf later les in Nicopolis.",
+    "Zijn leerling Arrianus legde zijn onderwijs vast; het Enchiridion is een verkorte weergave van de Gesprekken.",
+    "In Enchiridion 29 gebruikt hij een Olympische sporter om de voorbereiding, inspanning en kans op verlies zichtbaar te maken."
+  ],
+  "theory": "Epictetus vraagt om een doordachte keuze vóór een groot voornemen. Het aantrekkelijke doel is maar één deel; de dagelijkse handelingen en de mogelijkheid van mislukking horen erbij. Dit past bij prohairesis: je vermogen om indrukken te beoordelen en bewust te kiezen. De uitslag ligt niet volledig in jouw hand, de kwaliteit van je inzet wel. Zijn strenge waarschuwing tegen halfslachtigheid kun je lezen als aansporing tot ernst, niet als verbod om bij nieuwe feiten een plan te herzien.",
+  "connections": ["Prohairesis", "Passend handelen", "Oefening en gewoonte", "Uitkomst en inzet"],
+  "diagram": ["Aantrekkelijk doel", "Wat vraagt het elke week?", "Welke offers en risico's?", "Bewust beginnen of bijstellen"],
+  "concepts": [
+    {"term": "Voornemen", "meaning": "Het doel dat je wilt nastreven", "example": "Ik wil een halve marathon lopen."},
+    {"term": "Voorbereiding", "meaning": "De terugkerende stappen die het doel vraagt", "example": "Ik maak drie momenten per week vrij om te trainen."},
+    {"term": "Prohairesis", "meaning": "Het vermogen om je oordeel en keuze te sturen", "example": "Ik kies een haalbaar schema, ook zonder garantie op een snelle tijd."}
+  ],
+  "modernExample": {
+    "situation": "Je wilt je inschrijven voor een intensieve opleiding naast je werk.",
+    "automatic": "Je ziet het diploma voor je en zegt meteen ja.",
+    "stoic": "Je bekijkt eerst de uren, het geld en de gevolgen voor thuis. Dan kies je bewust: starten, later beginnen of een kleinere stap nemen."
+  },
+  "explain": "Epictetus, een leraar in Nicopolis, vergelijkt een groot plan met deelname aan de Olympische Spelen. De overwinning spreekt aan; trainen, offers en mogelijk verlies horen bij dezelfde keuze. Stoïcijnse toewijding betekent daarom: toets het doel aan wat je werkelijk kunt en wilt doen. Kies daarna je inzet zorgvuldig, zonder een overwinning op te eisen.",
+  "exercise": "Neem één plan waarover je twijfelt. Schrijf op: één gewenste uitkomst, twee terugkerende inspanningen en één risico. Kies daarna de kleinste eerlijke volgende stap.",
+  "reflection": "Van welk doel wil ik vooral het resultaat, terwijl ik de dagelijkse weg ernaartoe nog niet heb gekozen?",
+  "remember": "Een goed ja omvat ook de weg ernaartoe.",
+  "knowledgeAnchor": {
+    "name": "Epictetus",
+    "concept": "Prohairesis: bewust kiezen na het toetsen van een voornemen",
+    "sentence": "Bekijk de training vóór je voor de medaille tekent."
+  }
+}
