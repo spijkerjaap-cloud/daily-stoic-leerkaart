@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-08",
+  "title": "Een correctie is geen nederlaag",
+  "theme": "Oordeel herzien bij bewijs",
+  "thinkerId": "marcus",
+  "passage": "Als iemand mij laat zien dat mijn oordeel of handeling onjuist is, verander ik graag: ik zoek de waarheid.",
+  "attribution": "Marcus Aurelius, Meditaties 6.21 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Marcus Aurelius, Meditaties 6.21, Grieks en vertaling",
+    "url": "https://marcusaurelius-meditations.org/en/chapters/book-06/21/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer van 161 tot 180 n.Chr.",
+    "Hij schreef de Meditaties in het Grieks als aantekeningen aan zichzelf, niet als openbaar handboek.",
+    "In 6.21 zegt hij dat hij zijn oordeel of gedrag graag verandert als iemand aantoont dat het niet juist is.",
+    "De Griekse tekst verbindt vasthouden aan eigen dwaling met schade, en zoeken naar waarheid met het tegendeel."
+  ],
+  "theory": "Stoïcijnse wijsheid vraagt dat je indrukken en oordelen onderzoekt. Een tegenspraak is daarom een kans om beter te zien en rechtvaardiger te handelen. Marcus vraagt om een aangetoonde fout: een ander gelijk geven uit druk of beleefdheid is iets anders dan je oordeel herzien op grond van bewijs. Zijn uitspraak over waarheid en schade gaat over morele en verstandelijke dwaling; een correctie kan natuurlijk wel ongemakkelijk voelen.",
+  "connections": ["Indruk en oordeel", "Wijsheid", "Rechtvaardigheid", "Zelfonderzoek"],
+  "diagram": ["Iemand corrigeert me", "Wat is het concrete bewijs?", "Klopt mijn oordeel nog?", "Zo nodig: erken en herstel"],
+  "concepts": [
+    {"term": "Indruk", "meaning": "De eerste uitleg die bij je opkomt", "example": "Mijn collega vindt mijn werk waardeloos."},
+    {"term": "Toetsen", "meaning": "Nagaan welke feiten de uitleg dragen", "example": "Ze wijst één fout in de berekening aan."},
+    {"term": "Herzien", "meaning": "Een oordeel of handeling aanpassen als bewijs dat vraagt", "example": "Ik herstel de berekening en stuur de juiste versie."}
+  ],
+  "modernExample": {
+    "situation": "Een collega ontdekt een fout in het overzicht dat je net hebt gedeeld.",
+    "automatic": "Je verdedigt meteen je aanpak en zoekt een fout bij haar.",
+    "stoic": "Je vraagt waar de fout zit, controleert het gegeven, bedankt haar en corrigeert het overzicht."
+  },
+  "explain": "Marcus Aurelius, Romeins keizer en stoïcijn, schrijft in zijn persoonlijke Meditaties dat hij graag verandert wanneer iemand laat zien dat hij onjuist denkt of handelt. Dat is geen oproep om iedere mening te volgen. Het is een werkwijze: vraag naar het bewijs, toets je oordeel en herstel wat niet klopt. Zo dient een correctie de waarheid én de mensen die op je werk vertrouwen.",
+  "exercise": "Kies vandaag één kleine correctie die je krijgt. Stel eerst de vraag: ‘Welk concreet punt zie ik over het hoofd?’ Pas daarna je antwoord of werk aan.",
+  "reflection": "Bij welke correctie verdedigde ik vandaag mijn gelijk voordat ik het bewijs bekeek?",
+  "remember": "Gelijk krijgen is kleiner dan beter handelen.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius",
+    "concept": "Oordeel toetsen en bijstellen",
+    "sentence": "Een aangetoonde fout is een uitnodiging om te verbeteren."
+  }
+}
