@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-09",
+  "title": "Trek samen aan hetzelfde touw",
+  "theme": "Wederzijdse zorg in een relatie",
+  "thinkerId": "musonius",
+  "passage": "Samenleven vraagt wederzijdse genegenheid en zorg, juist wanneer het moeilijk wordt; wie alleen het eigen belang zoekt, verzwakt de band.",
+  "attribution": "Musonius Rufus, Les 13A over het huwelijk · eigen Nederlandse parafrase van een overgeleverde les",
+  "source": {
+    "label": "Musonius Rufus, Les 13A, vertaling van Cora E. Lutz",
+    "url": "https://www.stoicsource.com/rufus/lectures/XIIIA/"
+  },
+  "facts": [
+    "Musonius Rufus werd vóór 30 n.Chr. geboren in Volsinii en stierf vóór 101–102 n.Chr.",
+    "Hij doceerde in Rome en was een leermeester van Epictetus.",
+    "In 65 n.Chr. verbande Nero hem naar het eiland Gyaros; in 68 n.Chr. keerde hij terug naar Rome.",
+    "Zijn eigen geschriften zijn niet bewaard; Les 13A is een door anderen overgeleverde weergave van zijn onderwijs."
+  ],
+  "theory": "Musonius plaatst een hechte relatie binnen stoïcijnse rechtvaardigheid: houd rekening met het welzijn van de ander en oefen trouw in gewone handelingen. In Les 13A noemt hij wederzijdse liefde en zorg bij gezondheid én ziekte wezenlijk voor een goed huwelijk. Hij verbindt het huwelijk ook aan kinderen en beschrijft man en vrouw in antieke termen. De gedachte van wederkerigheid is bruikbaar voor partners van nu, zonder zijn historische gezinsnorm als plicht voor iedereen over te nemen.",
+  "connections": ["Rechtvaardigheid", "Passend handelen", "Zorg voor anderen", "Wederkerigheid"],
+  "diagram": ["Eigen behoefte", "Vraag naar de behoefte van de ander", "Zoek wat jullie samen helpt", "Maak één concrete afspraak"],
+  "concepts": [
+    {"term": "Wederkerigheid", "meaning": "Beiden dragen bij aan de relatie", "example": "We verdelen een lastige huishoudelijke taak opnieuw."},
+    {"term": "Zorg", "meaning": "Het welzijn van de ander serieus nemen", "example": "Ik vraag wat mijn partner vandaag nodig heeft."},
+    {"term": "Rechtvaardigheid", "meaning": "Eerlijk handelen met oog voor ieders situatie", "example": "We spreken taken af op basis van tijd en draagkracht."}
+  ],
+  "modernExample": {
+    "situation": "Je partner is moe, terwijl jullie allebei op een vrije avond rekenden.",
+    "automatic": "Je houdt vast aan je eigen plan en telt op wat jij al hebt gedaan.",
+    "stoic": "Je vraagt wat nu helpt, zegt ook eerlijk wat jij aankunt en maakt samen een haalbare afspraak."
+  },
+  "explain": "Musonius Rufus, een Romeinse stoïcijn uit de eerste eeuw, zag een huwelijk als een gedeeld leven. Zijn overgeleverde Les 13A benadrukt wederzijdse zorg bij gezondheid en ziekte. De praktische les is niet jezelf wegcijferen: vraag wat de ander nodig heeft, vertel wat jij kunt dragen en handel samen eerlijk. Zijn antieke beeld van huwelijk en kinderen is een historische opvatting, geen maatstaf voor iedere relatie nu.",
+  "exercise": "Vraag vandaag aan iemand met wie je een verantwoordelijkheid deelt: ‘Wat zou jou deze week helpen?’ Spreek één kleine, haalbare bijdrage van ieder af.",
+  "reflection": "Waar zag ik vandaag vooral mijn eigen inspanning en te weinig die van de ander?",
+  "remember": "Een gedeeld leven vraagt twee mensen die meedenken.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus",
+    "concept": "Rechtvaardigheid als wederzijdse zorg",
+    "sentence": "Trek samen aan hetzelfde touw, ook op een moeilijke dag."
+  }
+}
