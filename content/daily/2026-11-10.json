@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-10",
+  "title": "Lees minder, laat meer landen",
+  "theme": "Aandachtig lezen en verwerken",
+  "thinkerId": "seneca",
+  "passage": "Blijf bij een paar goede schrijvers lang genoeg om iets op te nemen; kies uit wat je leest één gedachte om vandaag te verwerken.",
+  "attribution": "Seneca, Brieven aan Lucilius 2.2–5 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 2.1–5, Latijnse tekst en vertaling",
+    "url": "https://reader.humanitext.ai/en/read/urn:cts:latinLit:phi1017.phi015.humanitext-lat2:2.1-2.6"
+  },
+  "facts": [
+    "Seneca leefde van ongeveer 4 v.Chr. tot 65 n.Chr.; hij groeide op in Corduba en Rome.",
+    "Hij schreef de Brieven aan Lucilius in zijn laatste levensjaren, ongeveer 62–65 n.Chr.",
+    "In brief 2 vergelijkt hij vluchtig lezen met steeds verplante planten en voedsel dat niet wordt verteerd.",
+    "Hij raadt Lucilius aan dagelijks één gedachte te kiezen en gebruikt zelf ook een gedachte van Epicurus, een denker uit een andere school."
+  ],
+  "theory": "Seneca behandelt lezen als oefening in stoïcijnse wijsheid: kennis telt pas wanneer zij je oordeel en handelen voedt. Lang genoeg bij een tekst blijven helpt om een gedachte te begrijpen en toe te passen. Zijn advies is geen verbod op brede nieuwsgierigheid; in dezelfde brief leest hij Epicurus. Het verschil zit tussen verkennen en zo snel doorspringen dat niets beklijft.",
+  "connections": ["Wijsheid", "Aandacht", "Oordeel vormen", "Filosofie als oefening"],
+  "diagram": ["Kies één tekst", "Lees rustig", "Vat één gedachte samen", "Probeer haar vandaag uit"],
+  "concepts": [
+    {"term": "Vluchtig lezen", "meaning": "Steeds wisselen zonder een gedachte te verwerken", "example": "Ik open vijf artikelen en onthoud geen kernpunt."},
+    {"term": "Verwerken", "meaning": "Een idee in eigen woorden uitleggen", "example": "Ik schrijf één zin op over wat ik net las."},
+    {"term": "Toepassen", "meaning": "Een gedachte verbinden aan een concrete keuze", "example": "Ik gebruik het idee in het gesprek van vanmiddag."}
+  ],
+  "modernExample": {
+    "situation": "Je hebt meerdere artikelen en boeken openstaan over hetzelfde probleem.",
+    "automatic": "Je springt tussen tabbladen en bewaart nog meer links voor later.",
+    "stoic": "Je leest één tekst uit, noteert de kern in eigen woorden en kiest één stap die je ermee kunt zetten."
+  },
+  "explain": "Seneca waarschuwt Lucilius in brief 2 dat voortdurend van boek naar boek springen weinig laat wortelen. Hij gebruikt beelden van voedsel en een verplante plant: ook een goed idee heeft tijd nodig. Toch haalt hij zelf iets bij Epicurus. De les is daarom: lees gerust breed, maar blijf soms lang genoeg bij één gedachte om haar te begrijpen en in je dag te gebruiken.",
+  "exercise": "Lees vandaag vijf minuten één tekst zonder te wisselen. Schrijf daarna één zin in je eigen woorden en één concrete toepassing op.",
+  "reflection": "Welke gedachte las ik vandaag echt, in plaats van haar alleen te passeren?",
+  "remember": "Een idee helpt pas als het blijft hangen en iets verandert.",
+  "knowledgeAnchor": {
+    "name": "Seneca",
+    "concept": "Wijsheid vraagt aandacht en verwerking",
+    "sentence": "Laat één gedachte landen voordat je verder bladert."
+  }
+}
