@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-11",
+  "title": "Slim is pas sterk als het eerlijk is",
+  "theme": "Vertrouwen door rechtvaardigheid",
+  "thinkerId": "panaetius",
+  "passage": "Kundigheid zonder rechtvaardigheid wekt geen vertrouwen; wie beide verenigt, kan verantwoordelijkheid dragen.",
+  "attribution": "Cicero, De officiis 2.33–35, in een werk beïnvloed door Panaetius · eigen Nederlandse parafrase; geen bewaard citaat van Panaetius",
+  "source": {
+    "label": "Cicero, De officiis 2.33–35, Latijn en vertaling bij LacusCurtius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cicero/de_Officiis/2A%2A.html"
+  },
+  "facts": [
+    "Panaetius leefde ongeveer van 185 tot 109 v.Chr. en kwam uit Rhodos; hij behoort tot de midden-Stoa.",
+    "Zijn werk over plichten beïnvloedde de eerste twee boeken van Cicero's De officiis; Panaetius' eigen tekst is verloren.",
+    "Cicero schreef De officiis in 44 v.Chr., ruim een halve eeuw na Panaetius' dood.",
+    "In 2.34–35 zegt Cicero dat rechtvaardigheid meer vertrouwen wekt dan louter praktische slimheid en noemt hij Panaetius' manier van spreken."
+  ],
+  "theory": "Dit is stoïcijnse ethiek toegepast op samenwerking en leiderschap: praktische wijsheid helpt om iets goed te regelen, rechtvaardigheid bepaalt of anderen je hun belangen kunnen toevertrouwen. Cicero spreekt hier in gewone taal over deugden alsof ze te scheiden zijn. Hij zegt zelf dat een strikte filosofische lezing de deugden juist samenneemt. De passage staat in zijn bewerking van Panaetius, maar de precieze formulering mag niet aan Panaetius worden toegeschreven.",
+  "connections": ["Rechtvaardigheid", "Praktische wijsheid", "Vertrouwen", "Passend handelen"],
+  "diagram": ["Slim plan", "Wie draagt het voordeel of nadeel?", "Is de uitleg eerlijk?", "Pas aan vóór je vertrouwen vraagt"],
+  "concepts": [
+    {"term": "Praktische wijsheid", "meaning": "Een situatie goed doorzien en handelen", "example": "Ik zie hoe de planning sneller kan."},
+    {"term": "Rechtvaardigheid", "meaning": "Belangen van anderen eerlijk meewegen", "example": "Ik laat de extra belasting voor collega's zien."},
+    {"term": "Vertrouwen", "meaning": "Reden om een ander verantwoordelijkheid toe te vertrouwen", "example": "Mijn team weet dat ik gevolgen niet verberg."}
+  ],
+  "modernExample": {
+    "situation": "Je stelt een snellere werkplanning voor die één collega veel extra diensten geeft.",
+    "automatic": "Je presenteert alleen de tijdwinst, zodat het voorstel wordt aangenomen.",
+    "stoic": "Je laat ook de extra belasting zien, vraagt die collega om inbreng en zoekt een eerlijkere verdeling."
+  },
+  "explain": "Panaetius werkte stoïcijnse plichten uit; Cicero nam veel daarvan over in De officiis. In boek 2 zegt Cicero dat mensen eerder iemand vertrouwen die rechtvaardig is dan iemand die alleen handig is. De praktische vraag bij een plan is daarom niet alleen of het werkt, maar ook wie de gevolgen draagt en of je daar open over bent. Cicero's zin is een eigen uitwerking binnen die traditie, geen letterlijk citaat van Panaetius.",
+  "exercise": "Bekijk één voorstel dat je vandaag doet. Schrijf vóór je het deelt op wie er extra werk of risico door krijgt en benoem dat eerlijk.",
+  "reflection": "Waar probeerde ik vandaag vertrouwen te winnen met een slim plan, terwijl ik een nadeel voor iemand anders oversloeg?",
+  "remember": "Eerlijkheid maakt kundigheid betrouwbaar.",
+  "knowledgeAnchor": {
+    "name": "Panaetius via Cicero",
+    "concept": "Rechtvaardigheid en praktische wijsheid in samenwerking",
+    "sentence": "Een slim plan verdient pas vertrouwen als het ook eerlijk is."
+  }
+}
