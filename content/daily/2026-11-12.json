@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-12",
+  "title": "Trek de kring wijder",
+  "theme": "Eén menselijke gemeenschap",
+  "thinkerId": "zeno",
+  "passage": "Zie mensen voorbij de grenzen van hun stad als deel van één gemeenschap.",
+  "attribution": "Zeno van Citium, Politeia, samengevat door Plutarchus, De fortuna Alexandri 1.6 (329A–B) · eigen Nederlandse parafrase van een latere getuigenis",
+  "source": {
+    "label": "Plutarchus, De fortuna Alexandri 1.6 (329A–B)",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Fortuna_Alexandri%2A/1.html"
+  },
+  "facts": [
+    "Zeno kwam uit Citium op Cyprus en stichtte rond 300 v.Chr. de stoïcijnse school in Athene.",
+    "De school dankt haar naam aan de Stoa Poikile, de beschilderde zuilengang waar de eerste stoïcijnen bijeenkwamen.",
+    "Zeno's Politeia is niet bewaard; Plutarchus vat haar eeuwen later samen in zijn tekst over Alexander.",
+    "Plutarchus beschrijft mensen uit verschillende steden als leden van één gemeenschap met een gedeelde ordening."
+  ],
+  "theory": "Dit hoort bij de stoïcijnse ethiek: als redelijke, sociale wezens kunnen we rechtvaardigheid niet bij onze eigen groep laten ophouden. De gedachte raakt aan oikeiôsis, het erkennen van verwantschap en zorg buiten de naaste kring. Hoe letterlijk Zeno een wereldwijde staat bedoelde, is omstreden; lees Plutarchus' samenvatting dus niet als een vastgesteld politiek programma.",
+  "connections": [
+    "Leven volgens de natuur: ook onze sociale aanleg telt mee.",
+    "Oikeiôsis: de kring van zorg kan zich uitbreiden.",
+    "Rechtvaardigheid: beoordeel behoeften zonder groepsgrens als automatische eindstreep."
+  ],
+  "diagram": ["Ik", "Naasten", "Stad en land", "Mensen elders → dezelfde morele aandacht"],
+  "concepts": [
+    {"term": "Politeia", "meaning": "Zeno's verloren werk over een ideale gemeenschap", "example": "We kennen het hier via Plutarchus' samenvatting."},
+    {"term": "Oikeiôsis", "meaning": "Herkenning van verbondenheid die zorg kan verbreden", "example": "Ook een onbekende telt mee in mijn afweging."},
+    {"term": "Rechtvaardigheid", "meaning": "Ieder eerlijk behandelen naar wat de situatie vraagt", "example": "Dezelfde criteria gebruiken voor bekenden en vreemden."}
+  ],
+  "modernExample": {
+    "situation": "Bij een inzameling voor noodhulp hoor je: 'Dat is ver weg; het zijn onze mensen niet.'",
+    "automatic": "Je neemt afstand als reden om de behoefte niet eens te bekijken.",
+    "stoic": "Je controleert wat nodig is en welke hulp betrouwbaar is, en kiest bewust of en hoe je kunt bijdragen."
+  },
+  "explain": "Zeno, de stichter van de Stoa in Athene rond 300 v.Chr., dacht volgens Plutarchus verder dan afzonderlijke steden. De praktische les: de grens van je groep is geen grens van je rechtvaardigheid. Zijn eigen tekst is verloren, dus de precieze politieke bedoeling blijft onderwerp van discussie.",
+  "exercise": "Denk vandaag aan één beslissing waarbij iemand buiten je vaste kring geraakt wordt. Stel één vraag: zou ik dezelfde maatstaf gebruiken als dit een bekende was?",
+  "reflection": "Wie viel vandaag buiten mijn aandacht doordat die persoon niet bij 'ons' hoorde?",
+  "remember": "Mijn kring is klein; mijn maatstaf hoeft dat niet te zijn.",
+  "knowledgeAnchor": {
+    "name": "Zeno van Citium — stichter van de Stoa rond 300 v.Chr.",
+    "concept": "Kosmopolis — mensen horen bij één morele gemeenschap",
+    "sentence": "Trek de kring wijder en pas dezelfde rechtvaardige maatstaf toe."
+  }
+}
