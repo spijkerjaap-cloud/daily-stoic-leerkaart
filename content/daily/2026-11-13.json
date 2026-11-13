@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-13",
+  "title": "Laat gemis ook herinnering zijn",
+  "theme": "Rouw en dankbare herinnering",
+  "thinkerId": "seneca",
+  "passage": "Laat de herinnering aan wie je mist niet alleen pijn dragen; er was ook iets goeds.",
+  "attribution": "Seneca, Brieven aan Lucilius 63.3–7 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Epistulae morales 63.3–7 (Latijn)",
+    "url": "https://reader.humanitext.ai/en/read/urn:cts:latinLit:phi1017.phi015.humanitext-lat2:63.1-63.8"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr. en schreef als Romeins stoïcijn in het Latijn.",
+    "Zijn Brieven aan Lucilius ontstonden in zijn laatste jaren, ongeveer 62–65 n.Chr.",
+    "In brief 63 reageert hij op de dood van Flaccus, een vriend van Lucilius.",
+    "Seneca erkent tranen bij verlies en vraagt daarna of een goede herinnering naast het gemis kan bestaan."
+  ],
+  "theory": "Dit is stoïcijnse ethiek als oefening met oordeel en emotie. Verlies doet pijn; de oefening is om herinneren niet gelijk te stellen aan jezelf opnieuw kwellen. Seneca wil verdriet begrenzen, maar zijn strenge toon is geen maat voor hoe lang iemand mag rouwen. Het bruikbare onderscheid is: pijn voelen én waarderen wat de relatie heeft gegeven.",
+  "connections": [
+    "Oordeel: wat betekent het dat ik iemand blijf herinneren?",
+    "Tijdelijkheid: een relatie is waardevol zonder dat zij eeuwig duurt.",
+    "Dankbaarheid: wat ontvangen is, verdwijnt niet uit de herinnering."
+  ],
+  "diagram": ["Verlies → gemis", "Gemis + een concrete herinnering", "Ruimte voor verdriet én waardering"],
+  "concepts": [
+    {"term": "Gemis", "meaning": "Pijn doordat iemand er niet meer is", "example": "Een naam of foto roept tranen op."},
+    {"term": "Herinnering", "meaning": "Aandacht voor wat je samen werkelijk meemaakte", "example": "Dat ene gesprek dat steun gaf."},
+    {"term": "Dankbaarheid", "meaning": "Erkennen dat de relatie iets goeds heeft gebracht", "example": "Ik ben blij dat we elkaar kenden."}
+  ],
+  "modernExample": {
+    "situation": "Een foto van een overleden vriend verschijnt onverwacht op je telefoon.",
+    "automatic": "Je klikt hem meteen weg omdat je denkt dat verdriet geen plaats mag krijgen.",
+    "stoic": "Je neemt even tijd voor het gemis en herinnert je desgewenst één moment dat jullie samen deelden."
+  },
+  "explain": "Seneca schrijft Lucilius na de dood van diens vriend Flaccus. In brief 63 zegt hij dat tranen begrijpelijk zijn en dat een herinnering later ook iets warms kan dragen. Dat is geen opdracht om snel over verlies heen te komen: verdriet en waardering kunnen tegelijk bestaan.",
+  "exercise": "Als het vandaag past: denk aan iemand die je mist en schrijf één concreet goed moment op. Laat ook het gevoel toe dat erbij komt.",
+  "reflection": "Kan ik één goede herinnering toelaten zonder van mezelf te eisen dat het gemis weg is?",
+  "remember": "Ik hoef het gemis niet weg te drukken om het goede te bewaren.",
+  "knowledgeAnchor": {
+    "name": "Seneca — Romeins stoïcijn, brieven rond 62–65 n.Chr.",
+    "concept": "Rouw en herinnering — verdriet mag naast waardering bestaan",
+    "sentence": "Laat gemis ook een herinnering aan het goede dragen."
+  }
+}
