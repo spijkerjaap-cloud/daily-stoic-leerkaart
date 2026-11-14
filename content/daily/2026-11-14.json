@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-14",
+  "title": "Drie vragen voor één lastige minuut",
+  "theme": "Verlangen, handelen en instemming",
+  "thinkerId": "epictetus",
+  "passage": "Oefen wat je verlangt, hoe je handelt en met welk oordeel je instemt.",
+  "attribution": "Epictetus, Gesprekken 3.2.1–5 · eigen Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Epictetus, Gesprekken 3.2.1–5 (Griekse tekst, Perseus)",
+    "url": "https://beta.perseus.tufts.edu/urn:cts:greekLit:tlg0557.tlg001.perseus-grc2:3.2/"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis en overleed rond 135 n.Chr.",
+    "Na onderwijs in Rome gaf hij les in Nicopolis, in het noordwesten van Griekenland.",
+    "Zijn leerling Arrianus legde de lessen vast als Gesprekken; de bewaarde boeken gaan terug op onderwijs rond 108 n.Chr.",
+    "In Gesprekken 3.2 noemt Epictetus drie oefengebieden en geeft hij voorrang aan het onderzoeken van verlangen en afkeer."
+  ],
+  "theory": "Epictetus ordent praktische stoïcijnse training in drie gebieden: verlangen en afkeer, passend handelen, en instemming met indrukken. Eerst onderzoek je wat je onmisbaar maakt; daarna wat je situatie en relaties van je vragen; vervolgens of een gedachte waar is. Deze drie oefengebieden zijn niet hetzelfde als de klassieke indeling van filosofie in natuurkunde, ethiek en logica.",
+  "connections": [
+    "Verlangen: maak een onzekere uitkomst niet tot voorwaarde voor een goed leven.",
+    "Kathêkon: handel zorgvuldig binnen je concrete rol en relaties.",
+    "Instemming: geef een eerste indruk pas gewicht na onderzoek."
+  ],
+  "diagram": ["1. Verlangen → wat maak ik noodzakelijk?", "2. Handelen → wat is mijn passende stap?", "3. Instemming → klopt mijn aanname?"],
+  "concepts": [
+    {"term": "Verlangen", "meaning": "Wat je wilt bereiken of vermijden", "example": "Ik wil beslist op tijd aankomen."},
+    {"term": "Kathêkon", "meaning": "Een passende handeling in de situatie", "example": "Ik meld mijn vertraging en zoek een route."},
+    {"term": "Instemming", "meaning": "Een indruk als waar aannemen", "example": "Een gemiste trein maakt niet mijn hele dag waardeloos."}
+  ],
+  "modernExample": {
+    "situation": "Je trein valt uit vlak voor een afspraak.",
+    "automatic": "Je denkt: 'Nu is de hele dag mislukt', moppert op iedereen en zegt niets tegen de ander.",
+    "stoic": "Je laat de eis van een perfecte aankomst los, meldt de vertraging, zoekt een alternatief en toetst de gedachte dat de hele dag verloren is."
+  },
+  "explain": "Epictetus gaf rond 108 n.Chr. les in Nicopolis. Volgens Gesprekken 3.2 oefen je op drie plekken: wat je wilt, wat je doet en wat je als waar aanneemt. Bij een uitgevallen trein kun je de dienstregeling niet dicteren, maar wel je wens bijstellen, iemand informeren en je rampscenario toetsen. De drie gebieden zijn oefeningen voor het leven, geen drie schoolvakken.",
+  "exercise": "Gebruik bij één kleine tegenvaller drie korte vragen: wat eis ik nu, wat kan ik passend doen, en welke gedachte moet ik toetsen?",
+  "reflection": "Welke van de drie vragen vergat ik vandaag het snelst?",
+  "remember": "Onderzoek je wens, kies je stap, toets je oordeel.",
+  "knowledgeAnchor": {
+    "name": "Epictetus — leraar in Nicopolis rond 108 n.Chr.",
+    "concept": "Drie oefengebieden — verlangen, passend handelen, instemming",
+    "sentence": "Onderzoek je wens, kies je stap, toets je oordeel."
+  }
+}
