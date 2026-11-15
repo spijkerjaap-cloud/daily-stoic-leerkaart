@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-15",
+  "title": "Laat je titel je niet verven",
+  "theme": "Invloed zonder zelfverheffing",
+  "thinkerId": "marcus",
+  "passage": "Let op dat je rol je karakter niet kleurt; blijf eenvoudig, rechtvaardig en zorgzaam.",
+  "attribution": "Marcus Aurelius, Meditaties 6.30 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Marcus Aurelius, Meditaties 6.30 (Grieks en vertaling)",
+    "url": "https://marcusaurelius-meditations.org/en/chapters/book-06/30/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en was Romeins keizer van 161 tot 180.",
+    "Hij volgde zijn adoptievader Antoninus Pius op, die hij in Meditaties 6.30 als voorbeeld noemt.",
+    "De Meditaties zijn persoonlijke notities voor zijn eigen morele oefening, geschreven in het Grieks.",
+    "In 6.30 waarschuwt hij zichzelf voor 'verkeizeren' en voor het paars dat bij de keizerlijke status hoorde."
+  ],
+  "theory": "Stoïcijnse ethiek beoordeelt een rol of titel naar het gebruik ervan: deugd zit in rechtvaardig en zorgvuldig handelen. Marcus vreest dat macht zijn karakter ongemerkt verandert. Zijn antwoord is geen afstand van verantwoordelijkheid, maar eenvoud bewaren, mensen helpen en passend werk doen. 'Verkeizeren' kan letterlijk zijn eigen keizerschap betreffen; de toepassing op een kleine moderne positie is onze analogie.",
+  "connections": [
+    "Deugd: een titel bewijst geen goed karakter.",
+    "Rechtvaardigheid: invloed vergroot je plicht om anderen eerlijk te behandelen.",
+    "Zelfonderzoek: merk op welke gewoonten je rol in je aankweekt."
+  ],
+  "diagram": ["Nieuwe invloed", "Verleiding: voorrang en gelijk krijgen", "Toets: dezelfde maatstaf voor iedereen?", "Handeling: helder, eerlijk, dienstbaar"],
+  "concepts": [
+    {"term": "Rol", "meaning": "Een positie met taken en invloed", "example": "Je leidt tijdelijk een team."},
+    {"term": "Verkeizeren", "meaning": "Door macht en uiterlijk vertoon van karakter veranderen", "example": "Je duldt geen tegenspraak meer."},
+    {"term": "Deugd", "meaning": "Goed oordelen en handelen, ook met gezag", "example": "Je legt een besluit uit en gebruikt eerlijke criteria."}
+  ],
+  "modernExample": {
+    "situation": "Je wordt teamleider en mag de werkroosters vaststellen.",
+    "automatic": "Je geeft jezelf de prettigste diensten en ziet bezwaren als gebrek aan respect.",
+    "stoic": "Je gebruikt voor jezelf en anderen dezelfde criteria, licht keuzes toe en laat ruimte voor praktische bezwaren."
+  },
+  "explain": "Marcus was keizer van 161 tot 180 n.Chr. en waarschuwde zichzelf in Meditaties 6.30 om niet door de keizerlijke rol te worden 'geverfd'. Het beeld is simpel: een positie kan ongemerkt je gewoonten veranderen. Zijn oefening is invloed gebruiken met eenvoud, zorg en rechtvaardigheid. Voor ons geldt dat ook bij kleine vormen van gezag.",
+  "exercise": "Kies één besluit waarin je vandaag voordeel hebt. Schrijf vóór je beslist één criterium op dat je ook voor een ander zou gebruiken.",
+  "reflection": "Waar gaf mijn rol mij vandaag een uitzondering die ik een ander niet zou gunnen?",
+  "remember": "Een titel geeft invloed; mijn handelen geeft haar kleur.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius — keizer van 161 tot 180 n.Chr.",
+    "concept": "Verkeizeren — status kan karakter ongemerkt vervormen",
+    "sentence": "Gebruik invloed zonder jezelf een aparte maatstaf te geven."
+  }
+}
