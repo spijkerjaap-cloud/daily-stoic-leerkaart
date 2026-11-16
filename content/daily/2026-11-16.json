@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-16",
+  "title": "Respect kan ook nee zeggen",
+  "theme": "Familie, gehoorzaamheid en geweten",
+  "thinkerId": "musonius",
+  "passage": "Een verzoek van je ouders verdient aandacht; een verkeerd verzoek hoef je niet uit te voeren.",
+  "attribution": "Musonius Rufus, Les 16 · eigen Nederlandse parafrase van de overgeleverde les",
+  "source": {
+    "label": "Musonius Rufus, Les 16 (vertaling Cora E. Lutz)",
+    "url": "https://sites.google.com/site/thestoiclife/the_teachers/musonius-rufus/lectures/16"
+  },
+  "facts": [
+    "Musonius Rufus leefde in de eerste eeuw n.Chr.; hij kwam uit Volsinii in Italië en stierf vóór 102 n.Chr.",
+    "Hij onderwees in Rome, werd in 65 n.Chr. naar Gyaros verbannen en keerde in 68 terug.",
+    "Zijn eigen geschriften zijn niet bewaard; zijn lessen kennen we via latere overlevering in het Grieks.",
+    "In Les 16 vraagt een jongeman of hij zijn vader moet gehoorzamen wanneer die hem verbiedt filosofie te studeren."
+  ],
+  "theory": "Dit hoort bij de stoïcijnse ethiek van passende handelingen: familierelaties vragen zorg en respect, maar deugd blijft de maatstaf. Musonius onderscheidt een goed verzoek van een schadelijk of onrechtvaardig verzoek. Je kunt rustig weigeren en de relatie serieus blijven nemen. Hij gaat uit van ouders die het goede willen; dat geldt niet voor elke familie, en soms is meer afstand nodig.",
+  "connections": [
+    "Kathêkon: je rol als kind brengt zorg en aandacht mee.",
+    "Rechtvaardigheid: een hechte relatie maakt verkeerd handelen niet juist.",
+    "Moed: een grens trekken kan zonder aanval of vernedering."
+  ],
+  "diagram": ["Verzoek van een naaste", "Is het goed en eerlijk?", "Ja → help", "Nee → weiger rustig en bied een juiste stap aan"],
+  "concepts": [
+    {"term": "Passend handelen", "meaning": "Doen wat je relatie en de situatie redelijkerwijs vragen", "example": "Eerst luisteren naar je ouder."},
+    {"term": "Deugd", "meaning": "Goed handelen blijft belangrijker dan gehoorzamen", "example": "Geen onwaar verhaal vertellen."},
+    {"term": "Grens", "meaning": "Een verzoek weigeren zonder de ander te kleineren", "example": "Ik help je wel om het eerlijk recht te zetten."}
+  ],
+  "modernExample": {
+    "situation": "Een ouder vraagt je om diens fout bij een familiebijeenkomst op je zus af te schuiven.",
+    "automatic": "Je zegt ja om spanning te vermijden, terwijl je weet dat het onwaar en oneerlijk is.",
+    "stoic": "Je zegt rustig dat je je zus niet de schuld geeft en biedt aan samen te bespreken hoe de fout kan worden rechtgezet."
+  },
+  "explain": "Musonius, een Romeins stoïcijn uit de eerste eeuw n.Chr., krijgt van een jongeman de vraag of hij zijn vader altijd moet gehoorzamen. In Les 16 zegt hij dat respect voor ouders waardevol is, maar een onrechtvaardig verzoek geen plicht schept. Je toets is de handeling zelf: is zij goed en eerlijk? Zijn veronderstelling dat ouders het beste willen, past niet op iedere familie.",
+  "exercise": "Bedenk één klein verzoek waarbij je twijfelt. Formuleer één rustige zin die je grens noemt én een eerlijk alternatief biedt.",
+  "reflection": "Wanneer verwarde ik vandaag respect met automatisch ja zeggen?",
+  "remember": "Ik kan iemand serieus nemen zonder een verkeerd verzoek te volgen.",
+  "knowledgeAnchor": {
+    "name": "Musonius Rufus — stoïcijnse leraar in de eerste eeuw n.Chr.",
+    "concept": "Passend handelen — zorg voor familie binnen de grens van deugd",
+    "sentence": "Respect kan ook een rustig en eerlijk nee zijn."
+  }
+}
