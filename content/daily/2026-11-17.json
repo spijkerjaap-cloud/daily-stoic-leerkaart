@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-17",
+  "title": "Vreugde zonder applaus",
+  "theme": "Goed geweten en stoïcijnse vreugde",
+  "thinkerId": "seneca",
+  "passage": "Vreugde kan groeien uit een goed geweten, eerlijke bedoelingen en juiste daden.",
+  "attribution": "Seneca, Brieven aan Lucilius 23.7 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Epistulae Morales 23.7 (Latijn)",
+    "url": "https://www.latin.it/autore/seneca/epistulae_morales_ad_lucilium/%2103%21liber_iii/023.lat"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr.; hij werd geboren in Corduba, het huidige Córdoba.",
+    "Zijn Brieven aan Lucilius dateren uit zijn laatste levensjaren, ongeveer 62–65 n.Chr.",
+    "In brief 23 maakt hij onderscheid tussen vluchtig vermaak en een vreugde die dieper wortelt.",
+    "In 23.7 noemt hij een goed geweten, eerlijke plannen en juiste handelingen als bronnen van die vreugde."
+  ],
+  "theory": "In de stoïcijnse ethiek is deugd het echte goede. Seneca verbindt duurzame vreugde aan hoe je handelt, niet aan toeval of waardering. De Stoa kent ook redelijke positieve gevoelens (eupatheiai); dat ideaal betekent niet dat je je na elke goede daad blij moet voelen. Vermaak mag prettig zijn, maar draagt deze vreugde niet alleen.",
+  "connections": ["Deugd als het goede", "Goed geweten", "Eupatheiai: redelijke positieve gevoelens", "Oordeel over waardering van buitenaf"],
+  "diagram": ["Eerlijke bedoeling", "Juiste daad", "Goed geweten", "Vreugde zonder applaus"],
+  "concepts": [
+    {"term": "Goed geweten", "meaning": "Weten dat je naar beste inzicht eerlijk handelde", "example": "Je herstelt je eigen fout."},
+    {"term": "Gaudium", "meaning": "De diepere vreugde waarover Seneca hier schrijft", "example": "Rustige tevredenheid over een goede keuze."},
+    {"term": "Toeval", "meaning": "Wat buiten je keuze valt", "example": "Of iemand je bedankt."}
+  ],
+  "modernExample": {
+    "situation": "Je ontdekt een fout in een gedeeld rapport en corrigeert die voordat iemand het merkt.",
+    "automatic": "Niemand ziet mijn inzet, dus het levert niets op.",
+    "stoic": "Je meldt de correctie waar dat nuttig is en neemt even waar dat je eerlijk hebt gehandeld."
+  },
+  "explain": "Seneca schrijft aan Lucilius dat plezier van buiten snel voorbijgaat. In brief 23 zoekt hij een steviger bron van vreugde: een goed geweten en juiste daden. Je kunt waardering fijn vinden, maar je hoeft er je tevredenheid niet volledig van te laten afhangen. Dit is een oefenrichting, geen belofte dat elke goede keuze meteen goed voelt.",
+  "exercise": "Schrijf vanavond één goede handeling op die niemand hoefde te zien. Noteer waarom die keuze voor jou telt.",
+  "reflection": "Van welke waardering liet ik mijn tevredenheid vandaag afhangen?",
+  "remember": "Een goede daad telt ook zonder publiek.",
+  "knowledgeAnchor": {
+    "name": "Seneca, brief 23",
+    "concept": "Gaudium: vreugde uit een goed geweten",
+    "sentence": "Een goede daad telt ook zonder publiek."
+  }
+}
