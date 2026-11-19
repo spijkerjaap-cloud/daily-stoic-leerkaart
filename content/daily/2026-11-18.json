@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-18",
+  "title": "Wat verandert, wordt materiaal",
+  "theme": "Verandering en de natuur van het geheel",
+  "thinkerId": "marcus",
+  "passage": "Wat bestaat, is ook het zaad van wat eruit kan ontstaan.",
+  "attribution": "Marcus Aurelius, Meditaties 4.36 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Marcus Aurelius, Meditaties 4.36 (Grieks en vertaling)",
+    "url": "https://marcusaurelius-meditations.org/en/chapters/book-04/36/"
+  },
+  "facts": [
+    "Marcus Aurelius leefde van 121 tot 180 n.Chr. en regeerde als Romeins keizer van 161 tot 180.",
+    "Zijn Meditaties zijn Griekstalige notities aan zichzelf, geen leerboek voor een publiek.",
+    "In 4.36 beschrijft Marcus de natuur van het geheel als voortdurend veranderend.",
+    "Hij gebruikt het beeld van zaad: ook wat al bestaat, kan het begin van iets nieuws zijn."
+  ],
+  "theory": "Dit is de stoïcijnse natuurleer: verandering hoort bij een samenhangende wereld. De ethische stap is te kijken welk materiaal de nieuwe situatie geeft voor verstandig en rechtvaardig handelen. Marcus' beeld van een natuur die verandering 'liefheeft' is filosofische beeldspraak, geen bewijs dat elke verandering goed of pijnloos is.",
+  "connections": ["Natuur van het geheel", "Vergankelijkheid", "Oordeel over verandering", "Passend handelen"],
+  "diagram": ["Plan verandert", "Feit erkennen", "Nieuw materiaal zien", "Passende stap kiezen"],
+  "concepts": [
+    {"term": "Metabolē", "meaning": "Verandering of omzetting", "example": "Een project krijgt een andere vorm."},
+    {"term": "Geheel", "meaning": "De wereld waarvan elk voorval deel uitmaakt", "example": "Ook jouw werk verandert met anderen mee."},
+    {"term": "Passende stap", "meaning": "Een redelijke handeling in de nieuwe situatie", "example": "Je maakt een aangepast voorstel."}
+  ],
+  "modernExample": {
+    "situation": "Een project waaraan je maanden werkte, wordt samengevoegd met een ander team.",
+    "automatic": "Alles was voor niets; ik wil het oude plan terug.",
+    "stoic": "Je erkent het verlies van het oorspronkelijke plan, inventariseert wat bruikbaar blijft en spreekt één concrete volgende stap af."
+  },
+  "explain": "Marcus Aurelius herinnerde zichzelf eraan dat de wereld steeds verandert. In Meditaties 4.36 vergelijkt hij wat nu bestaat met zaad voor wat volgt. Dat maakt verlies niet automatisch prettig. Het helpt wel om na de eerste teleurstelling te vragen: wat is er nu werkelijk, en wat kan ik ermee doen?",
+  "exercise": "Kies één gewijzigd plan. Schrijf in twee regels op wat wegviel en welk bruikbaar onderdeel je vandaag meeneemt.",
+  "reflection": "Waar bleef ik vasthouden aan de oude vorm terwijl een goede volgende stap al mogelijk was?",
+  "remember": "Verandering geeft nieuw materiaal voor mijn handelen.",
+  "knowledgeAnchor": {
+    "name": "Marcus Aurelius, Meditaties 4.36",
+    "concept": "Metabolē: verandering als deel van de natuur",
+    "sentence": "Wat verandert, wordt materiaal voor de volgende stap."
+  }
+}
