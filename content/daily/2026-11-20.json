@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-20",
+  "title": "Sluit de dag af zonder vonnis",
+  "theme": "Dagelijkse zelfreflectie",
+  "thinkerId": "seneca",
+  "passage": "Loop je woorden en daden na; erken wat goed ging en leer van wat misging.",
+  "attribution": "Seneca, De ira 3.36.1–4 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, De ira 3.36 (Latijn)",
+    "url": "https://www.latin.it/autore/seneca/de_ira/%2103%21liber_iii/36.lat"
+  },
+  "facts": [
+    "Seneca leefde ongeveer van 1 v.Chr. tot 65 n.Chr. en werd geboren in Corduba.",
+    "In De ira bespreekt hij hoe woede ontstaat en hoe je haar kunt temperen.",
+    "In boek 3.36 beschrijft hij een avondlijke zelftoetsing die hij met Sextius verbindt.",
+    "Seneca zegt dat hij zijn eigen woorden en daden dagelijks naloopt, zichzelf prijst of vermaant en een fout kan vergeven."
+  ],
+  "theory": "De stoïcijnse oefening richt de aandacht op je oordeel en handelen: wat deed je, waarom, en wat kies je morgen? Seneca gebruikt een streng beeld van een rechter, maar spreekt ook over jezelf vergeven. De gewoonte wordt door hem aan Sextius verbonden; haar historische oorsprong is dus niet uitsluitend stoïcijns.",
+  "connections": [
+    "Oordeel en instemming",
+    "Zelfonderzoek",
+    "Voortgang in deugd",
+    "Woede temperen"
+  ],
+  "diagram": [
+    "Dag voorbij",
+    "Eén handeling terugzien",
+    "Leren zonder verbergen",
+    "Morgen één verbetering"
+  ],
+  "concepts": [
+    {
+      "term": "Zelftoetsing",
+      "meaning": "Je eigen handelen eerlijk onderzoeken",
+      "example": "Je kijkt terug op een scherp antwoord."
+    },
+    {
+      "term": "Voortgang",
+      "meaning": "Een kleine verbetering in karakter en keuze",
+      "example": "Morgen vraag je eerst door."
+    },
+    {
+      "term": "Zelfvergeving",
+      "meaning": "Een fout erkennen zonder jezelf vast te zetten",
+      "example": "Je herstelt wat kan en probeert opnieuw."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je hebt in een vergadering iemand onderbroken en merkt het pas later.",
+    "automatic": "Je schaamt je en blijft het gesprek in gedachten herhalen, of je praat het goed.",
+    "stoic": "Je noteert wat er gebeurde, biedt zo nodig excuses aan en kiest voor de volgende vergadering één luisterregel."
+  },
+  "explain": "Seneca beschrijft in De ira 3.36 hoe hij aan het eind van de dag zijn woorden en daden terughaalt. Hij verbergt fouten niet, maar laat het onderzoek eindigen in een concreet voornemen. Zijn rechterlijke taal kan streng klinken; de passage bevat ook ruimte om jezelf te vergeven. Het doel is morgen beter handelen, niet eindeloos piekeren.",
+  "exercise": "Neem vanavond twee minuten. Noteer één handeling die goed ging, één die je wilt herstellen en één kleine stap voor morgen.",
+  "reflection": "Welke fout kon ik vandaag eerlijk erkennen zonder mijzelf erop vast te pinnen?",
+  "remember": "Onderzoek je dag; geef morgen richting.",
+  "knowledgeAnchor": {
+    "name": "Seneca, De ira 3.36",
+    "concept": "Avondlijke zelftoetsing met ruimte voor vergeving",
+    "sentence": "Eerlijk terugkijken maakt een betere volgende stap mogelijk."
+  }
+}

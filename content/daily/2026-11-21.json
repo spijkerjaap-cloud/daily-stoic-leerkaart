@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "title": "Karakter is leerbaar",
+  "theme": "Deugd als onderwijs en oefening",
+  "thinkerId": "chrysippus",
+  "passage": "Deugd kan worden geleerd; mensen kunnen van slecht naar beter handelen groeien.",
+  "attribution": "Chrysippus' opvatting bij Diogenes Laërtius, Levens 7.91 · eigen Nederlandse parafrase; indirect overgeleverd",
+  "source": {
+    "label": "Diogenes Laërtius, Levens 7.91 (Grieks en vertaling)",
+    "url": "https://www.attalus.org/old/diogenes7b.html"
+  },
+  "facts": [
+    "Chrysippus leefde ongeveer van 280 tot 207 v.Chr. en kwam uit Soli in Cilicië.",
+    "Hij leidde de Stoa in Athene vanaf ongeveer 230 v.Chr. en werkte haar leer systematisch uit.",
+    "Diogenes Laërtius schreef veel later en meldt dat Chrysippus, Cleanthes en anderen deugd leerbaar vonden.",
+    "Chrysippus' eigen boek over het hoogste doel is verloren; we kennen deze formulering via de latere getuige."
+  ],
+  "theory": "In de stoïcijnse ethiek is deugd een vorm van kennis en goed oordelen. De bewering dat zij leerbaar is, maakt morele verbetering mogelijk: uitleg, voorbeeld en oefening kunnen je keuzes veranderen. De antieke Stoa spreekt vaak strikt over de volmaakte wijze; de moderne praktische les is bescheidener: één fout onderzoeken en een betere keuze oefenen.",
+  "connections": [
+    "Deugd als kennis",
+    "Morele vooruitgang",
+    "Oordeel en keuze",
+    "Onderwijs en oefening"
+  ],
+  "diagram": [
+    "Fout herkennen",
+    "Beginsel begrijpen",
+    "Nieuwe keuze oefenen",
+    "Karakter bijstellen"
+  ],
+  "concepts": [
+    {
+      "term": "Deugd",
+      "meaning": "Een stabiele neiging om wijs en rechtvaardig te kiezen",
+      "example": "Je meldt een eigen vergissing eerlijk."
+    },
+    {
+      "term": "Leerbaarheid",
+      "meaning": "Karakter kan door inzicht en oefening veranderen",
+      "example": "Je oefent eerst luisteren voor je reageert."
+    },
+    {
+      "term": "Overlevering",
+      "meaning": "Een latere bron bewaart een oudere leer",
+      "example": "Diogenes vertelt wat Chrysippus schreef."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je merkt dat je in gesprekken vaak te snel oordeelt.",
+    "automatic": "Zo ben ik nu eenmaal; ik verander toch niet.",
+    "stoic": "Je kiest één gesprek om eerst een vraag te stellen, kijkt terug op het effect en herhaalt de oefening."
+  },
+  "explain": "Diogenes Laërtius schrijft dat Chrysippus deugd leerbaar vond. Dat is een krachtige gedachte: een slechte keuze hoeft niet je vaste identiteit te zijn. De oorspronkelijke tekst van Chrysippus is verloren, dus we kennen de stelling via latere overlevering. Gebruik haar praktisch: begrijp wat misging, oefen een beter antwoord en kijk of je gedrag verandert.",
+  "exercise": "Kies één terugkerende misstap. Schrijf één concrete betere handeling op en oefen die vandaag één keer.",
+  "reflection": "Welke gewoonte behandel ik als onveranderlijk terwijl ik er iets in kan leren?",
+  "remember": "Een fout is informatie voor je volgende oefening.",
+  "knowledgeAnchor": {
+    "name": "Chrysippus via Diogenes Laërtius 7.91",
+    "concept": "Deugd is leerbaar",
+    "sentence": "Karakter groeit door inzicht en herhaalde keuzes."
+  }
+}

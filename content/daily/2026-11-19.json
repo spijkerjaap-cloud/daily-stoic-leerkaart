@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-19",
+  "title": "Pak het draagbare handvat",
+  "theme": "Een lastige gebeurtenis anders vastpakken",
+  "thinkerId": "epictetus",
+  "passage": "Elke gebeurtenis heeft een handvat waarmee je haar kunt dragen en een waarmee dat niet lukt.",
+  "attribution": "Epictetus, Enchiridion 43 · eigen Nederlandse parafrase; overgeleverd door Arrianus",
+  "source": {
+    "label": "Epictetus, Enchiridion 43 (Grieks, Dickinson College Commentaries)",
+    "url": "https://dcc.dickinson.edu/ar/epictetus-encheiridion/chapter-43"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis en overleed rond 135 n.Chr.",
+    "Hij leefde als slaaf in Rome, werd vrijgelaten en gaf later les in Nicopolis.",
+    "Zijn leerling Arrianus legde zijn onderwijs vast; het Enchiridion is een korte selectie daaruit.",
+    "In hoofdstuk 43 gebruikt Epictetus het beeld van twee handvatten bij een onrechtvaardige daad van een broer."
+  ],
+  "theory": "Epictetus verbindt dit beeld aan het toetsen van onze indrukken: hetzelfde voorval kan via verschillende oordelen tot verschillend handelen leiden. Het 'draagbare' handvat helpt je een redelijke en sociale reactie te kiezen. De passage over een broer vraagt geen goedkeuring van onrecht; een moderne toepassing laat ruimte voor herstel, grenzen en veiligheid.",
+  "connections": [
+    "Indruk en oordeel",
+    "Prohairesis: bewuste keuze",
+    "Sociale plichten",
+    "Rechtvaardige grens"
+  ],
+  "diagram": [
+    "Lastig voorval",
+    "Eerste greep: verwijt",
+    "Andere greep: feit en relatie",
+    "Herstel of grens"
+  ],
+  "concepts": [
+    {
+      "term": "Handvat",
+      "meaning": "De kant van een voorval waarop je je aandacht richt",
+      "example": "Een gemiste afspraak zien als een probleem om op te lossen."
+    },
+    {
+      "term": "Indruk",
+      "meaning": "De eerste betekenis die zich aandient",
+      "example": "Hij neemt mij niet serieus."
+    },
+    {
+      "term": "Draagbaar",
+      "meaning": "Een gezichtspunt dat redelijk handelen mogelijk maakt",
+      "example": "We hebben een gezamenlijke taak; ik vraag wat misging."
+    }
+  ],
+  "modernExample": {
+    "situation": "Een collega levert zijn deel van een gezamenlijke taak te laat aan.",
+    "automatic": "Je besluit dat hij je niet respecteert en reageert scherp.",
+    "stoic": "Je benoemt de vertraging, vraagt wat er gebeurde en maakt een haalbare afspraak of duidelijke grens."
+  },
+  "explain": "Epictetus zegt dat een lastig voorval twee 'handvatten' heeft. In zijn voorbeeld doet een broer iets onrechtvaardigs. Het helpt volgens hem om niet alleen aan de krenking vast te houden, maar ook te zien welke relatie en verantwoordelijkheid er zijn. Zo kun je het probleem aanspreken zonder meteen door verwijt te worden gestuurd. Bij ernstig of herhaald schadelijk gedrag kan het juiste handvat juist een stevige grens zijn.",
+  "exercise": "Neem één irritatie. Schrijf je eerste uitleg op en formuleer daarna één feitelijker gezichtspunt dat een goede stap mogelijk maakt.",
+  "reflection": "Welk handvat koos ik vandaag, en welke handeling volgde daaruit?",
+  "remember": "Kies het gezichtspunt dat eerlijk handelen mogelijk maakt.",
+  "knowledgeAnchor": {
+    "name": "Epictetus, Enchiridion 43",
+    "concept": "Twee handvatten: een voorval anders vastpakken",
+    "sentence": "Kies het draagbare handvat en handel rechtvaardig."
+  }
+}
