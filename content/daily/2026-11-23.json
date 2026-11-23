@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-23",
+  "title": "Alleen is niet hetzelfde als eenzaam",
+  "theme": "Alleenzijn en betrouwbare verbondenheid",
+  "thinkerId": "epictetus",
+  "passage": "Wie alleen is, is niet vanzelf verlaten; ook midden tussen mensen kun je je verlaten voelen.",
+  "attribution": "Epictetus, Gesprekken 3.13.1–4 · eigen Nederlandse parafrase; opgetekend door Arrianus",
+  "source": {
+    "label": "Epictetus, Gesprekken 3.13.1–4 (Grieks)",
+    "url": "https://folio.furman.edu/dramaturg/Philosophy/Epictetus_Discourses/pages/chunk_231.html"
+  },
+  "facts": [
+    "Epictetus werd in de jaren 50 n.Chr. geboren in Hierapolis en overleed rond 135 n.Chr.",
+    "Hij gaf later les in Nicopolis; zijn leerling Arrianus legde zijn onderwijs vast.",
+    "In Gesprekken 3.13 onderscheidt hij fysiek alleen zijn van een toestand zonder hulp of steun.",
+    "Hij zegt dat niet zomaar de aanwezigheid van mensen helpt, maar de nabijheid van iemand die betrouwbaar en behulpzaam is."
+  ],
+  "theory": "De stoïcijnse mens is zowel redelijk als sociaal. Epictetus oefent zelfstandigheid wanneer je alleen bent, maar erkent ook het natuurlijke verlangen naar gemeenschap. Zijn onderscheid is geen opdracht om eenzaamheid weg te redeneren; het helpt om te zien of je rust, eigen bezigheid of werkelijk betrouwbaar contact nodig hebt.",
+  "connections": [
+    "Sociale natuur",
+    "Zelfstandigheid",
+    "Oordeel over de situatie",
+    "Betrouwbare relaties"
+  ],
+  "diagram": [
+    "Ik voel me alleen",
+    "Wat ontbreekt er?",
+    "Rust of contact?",
+    "Eén passende stap"
+  ],
+  "concepts": [
+    {
+      "term": "Alleenzijn",
+      "meaning": "Er is op dit moment niemand bij je",
+      "example": "Je brengt een avond thuis door."
+    },
+    {
+      "term": "Verlatenheid",
+      "meaning": "Je ervaart gebrek aan steun of veiligheid",
+      "example": "Een volle groepschat voelt toch leeg."
+    },
+    {
+      "term": "Betrouwbaar contact",
+      "meaning": "Iemand bij wie je eerlijk kunt zijn en op steun kunt rekenen",
+      "example": "Je vraagt een vriend om een gesprek."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je zit alleen thuis terwijl een groepschat de hele avond berichten stuurt.",
+    "automatic": "Je blijft scrollen, maar voelt je steeds minder verbonden.",
+    "stoic": "Je vraagt wat je nodig hebt: rustige tijd voor jezelf of een echt gesprek. Bij behoefte aan contact stuur je één vertrouwd persoon een bericht."
+  },
+  "explain": "Epictetus merkt op dat alleen zijn niet automatisch betekent dat je verlaten bent. Omgekeerd kan een menigte weinig steun bieden. Hij wijst op betrouwbaarheid en behulpzaamheid als kern van gezelschap. De praktische vraag is dus niet hoeveel berichten je ziet, maar of je behoefte aan rust of aan betekenisvol contact hebt.",
+  "exercise": "Pauzeer vandaag één keer bij een gevoel van alleen zijn. Schrijf 'rust' of 'contact' op en zet één kleine stap die daarbij past.",
+  "reflection": "Zocht ik vandaag gezelschap in aantal mensen, of in echte steun?",
+  "remember": "Vraag wat je nodig hebt: ruimte of betrouwbaar contact.",
+  "knowledgeAnchor": {
+    "name": "Epictetus, Gesprekken 3.13",
+    "concept": "Alleenzijn verschilt van verlatenheid",
+    "sentence": "Een menigte vervangt geen betrouwbaar contact."
+  }
+}
