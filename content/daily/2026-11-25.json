@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-25",
+  "title": "Welk lokmiddel stuurt je keuze?",
+  "theme": "Aanzien, winst en gemak toetsen",
+  "thinkerId": "cleanthes",
+  "passage": "Sommigen jagen op roem, anderen op winst of gemak; onderweg raken ze kwijt wat een goed leven vraagt.",
+  "attribution": "Cleanthes, Hymne aan Zeus 26–30 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Cleanthes, Hymne aan Zeus 26–30 (Grieks en vertaling)",
+    "url": "https://en.wikisource.org/wiki/The_Hymn_of_Cleanthes"
+  },
+  "facts": [
+    "Cleanthes leefde ongeveer van 330 tot 230 v.Chr. en kwam uit Assos in Klein-Azië.",
+    "Hij volgde Zeno op als leider van de Stoa in Athene; Chrysippus volgde hem later op.",
+    "In de Hymne aan Zeus noemt hij mensen die op aanzien, ongeremde winst of lichamelijk gemak afstormen.",
+    "De hymne verbindt zulke keuzes met de stoïcijnse gedachte van een gemeenschappelijke redelijke orde."
+  ],
+  "theory": "De vroege Stoa verbond ethiek met natuurleer: goed leven betekent redelijk en rechtvaardig handelen binnen een groter geheel. Aanzien, geld en comfort kunnen bruikbaar zijn, maar zijn geen maatstaf voor goed karakter. Cleanthes schrijft dit als religieuze hymne aan Zeus en de logos. Een hedendaagse lezer kan de keuzetoets benutten zonder zijn kosmologie als bewezen feit te aanvaarden.",
+  "connections": [
+    "Leven volgens de natuur",
+    "Logos",
+    "Deugd als het goede",
+    "Onverschillige zaken"
+  ],
+  "diagram": [
+    "Keuze dient zich aan",
+    "Wat trekt mij: aanzien, winst of gemak?",
+    "Toets aan redelijkheid en rechtvaardigheid",
+    "Kies één passende handeling"
+  ],
+  "concepts": [
+    {
+      "term": "Aanzien",
+      "meaning": "De waardering die anderen aan je geven",
+      "example": "Je wilt een opdracht aannemen omdat de titel indruk maakt."
+    },
+    {
+      "term": "Winst",
+      "meaning": "Een voordeel dat je kunt gebruiken, maar dat je karakter niet bepaalt",
+      "example": "Een hogere vergoeding telt mee, naast de gevolgen voor anderen."
+    },
+    {
+      "term": "Logos",
+      "meaning": "De redelijke orde waarin de vroege stoïcijnen de wereld plaatsten",
+      "example": "Je vraagt wat in deze situatie samenhangend en rechtvaardig is."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je krijgt een zichtbare opdracht met extra geld, maar weinig tijd om haar zorgvuldig te doen.",
+    "automatic": "Je zegt direct ja vanwege status en opbrengst.",
+    "stoic": "Je vraagt eerst of je de opdracht goed kunt uitvoeren, wie de druk draagt en of een eerlijker afspraak mogelijk is."
+  },
+  "explain": "Cleanthes, de tweede leider van de Stoa, beschrijft in zijn hymne hoe mensen achter roem, winst en gemak aan kunnen rennen. Hij veroordeelt daarmee niet ieder plezier of inkomen. Zijn punt is dat zulke doelen je richting kunnen overnemen. Toets daarom bij een keuze of je nog redelijk en rechtvaardig handelt. De goddelijke orde in zijn tekst hoort bij het antieke stoïcijnse wereldbeeld; moderne lezers verschillen in hoe letterlijk zij dat nemen.",
+  "exercise": "Pauzeer vandaag bij één keuze tien seconden. Noteer welk lokmiddel trekt — aanzien, winst of gemak — en kies daarna één stap die je ook eerlijk kunt verdedigen.",
+  "reflection": "Wanneer liet ik vandaag aanzien, winst of gemak zwaarder wegen dan zorgvuldig handelen?",
+  "remember": "Een aantrekkelijk voordeel is nog geen goede reden.",
+  "knowledgeAnchor": {
+    "name": "Cleanthes, Hymne aan Zeus 26–30",
+    "concept": "Voordeel toetsen aan deugd",
+    "sentence": "Vraag wat je trekt; kies wat je kunt verantwoorden."
+  }
+}
