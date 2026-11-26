@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-26",
+  "title": "Maak honing van wat je leest",
+  "theme": "Kennis verwerken tot eigen inzicht",
+  "thinkerId": "seneca",
+  "passage": "Verzamel ideeën zoals bijen nectar verzamelen; maak er door denken en schrijven iets eigens van.",
+  "attribution": "Seneca, Brieven aan Lucilius 84.2–7 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 84.2–7 (Latijnse tekst)",
+    "url": "https://www.lateinlex.de/?call=Puc&permalink=Sen_epist_11_84"
+  },
+  "facts": [
+    "Seneca leefde in de eerste eeuw n.Chr. en stierf in 65 n.Chr.",
+    "Zijn Brieven aan Lucilius ontstonden in de laatste jaren van zijn leven, ongeveer 62–65 n.Chr.",
+    "In brief 84 wisselt hij lezen en schrijven af: de pen moet verwerkt materiaal een eigen vorm geven.",
+    "De bijen en de spijsvertering zijn beelden voor leren, geen wetenschappelijke uitleg van hoe bijen honing maken."
+  ],
+  "theory": "Stoïcijnse filosofie is oefening in oordelen en handelen, niet alleen het onthouden van mooie zinnen. Seneca laat lezen, nadenken en schrijven samenwerken: je onderzoekt een idee, verbindt het met andere inzichten en gebruikt het in je leven. De passage gaat ook over stijl en schrijven; de toepassing op digitale informatie is een moderne uitbreiding.",
+  "connections": [
+    "Indruk en oordeel",
+    "Filosofie als oefening",
+    "Eigen redenering",
+    "Van kennis naar handelen"
+  ],
+  "diagram": [
+    "Lees één bruikbaar idee",
+    "Toets: wat bedoelt het?",
+    "Schrijf het in eigen woorden",
+    "Probeer één handeling"
+  ],
+  "concepts": [
+    {
+      "term": "Verzamelen",
+      "meaning": "Ideeën van verschillende bronnen opnemen",
+      "example": "Je leest een hoofdstuk en noteert één gedachte."
+    },
+    {
+      "term": "Verwerken",
+      "meaning": "Een idee onderzoeken en in eigen woorden verbinden",
+      "example": "Je legt zonder citaat uit waarom die gedachte klopt of wringt."
+    },
+    {
+      "term": "Toepassen",
+      "meaning": "Je inzicht in een keuze uitproberen",
+      "example": "Je stelt vandaag één vraag voordat je reageert."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je bewaart vijf artikelen en een AI-samenvatting over beter luisteren.",
+    "automatic": "Je deelt een mooi citaat en leest verder, zonder iets in een gesprek te veranderen.",
+    "stoic": "Je kiest één gedachte, schrijft haar in twee eigen zinnen en probeert vandaag één gesprek zonder onderbreken."
+  },
+  "explain": "Seneca schrijft Lucilius dat alleen lezen of alleen schrijven weinig oplevert. Zoals bijen verschillende bloemen bezoeken, kun je ideeën verzamelen; door ze te onderzoeken en zelf te verwoorden, worden ze bruikbaar. Bij Seneca gaat het mede om het vormen van een eigen schrijfstijl. Als dagelijkse stoïcijnse oefening voeg je er één concrete handeling aan toe. De vergelijking met bijen is een beeld, geen les in biologie.",
+  "exercise": "Neem vandaag één idee uit iets dat je leest. Schrijf in twee eigen zinnen wat het betekent en waar je het vandaag kunt proberen.",
+  "reflection": "Welk idee heb ik vandaag echt verwerkt in plaats van alleen opgeslagen?",
+  "remember": "Een opgeslagen inzicht helpt pas als ik het eigen maak.",
+  "knowledgeAnchor": {
+    "name": "Seneca, brief 84.2–7",
+    "concept": "Lezen en schrijven als verwerking",
+    "sentence": "Verzamel, verwerk en probeer één idee."
+  }
+}
