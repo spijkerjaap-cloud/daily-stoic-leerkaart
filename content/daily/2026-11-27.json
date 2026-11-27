@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-27",
+  "title": "Sluit je hand niet te snel",
+  "theme": "Van indruk naar kennis",
+  "thinkerId": "zeno",
+  "passage": "Een open hand is de indruk; gebogen vingers zijn instemming; een vuist is begrip; de tweede hand staat voor vaste kennis.",
+  "attribution": "Zeno volgens Cicero, Academica 2.145 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Cicero, Academica 2.145 (Latijnse tekst; getuigenis over Zeno)",
+    "url": "https://ancientlibrary.net/cicero-marcus-tullius-lucullus/"
+  },
+  "facts": [
+    "Zeno van Citium leefde ongeveer van 334 tot 262 v.Chr. en stichtte rond 300 v.Chr. de Stoa in Athene.",
+    "Van Zeno zijn geen volledige eigen boeken overgeleverd; zijn leer kennen we mede via latere auteurs.",
+    "Cicero leefde van 106 tot 43 v.Chr. en beschrijft in Academica 2.145 Zeno's gebaar met vier handstanden.",
+    "In het gebaar is een vuist het begrijpen van één zaak; de tweede hand verbeeldt de stabiele kennis die de stoïcijnen aan de wijze toeschreven."
+  ],
+  "theory": "Dit is stoïcijnse kennisleer: een indruk verschijnt, maar instemmen is een volgende stap. Zeno onderscheidde een stevige greep op iets waars van de samenhangende, onwrikbare kennis van de wijze. Academische sceptici bestreden of een indruk ooit zo zeker herkenbaar is. De handstanden zijn voor ons een geheugensteun om een bewering te toetsen, geen garantie dat factchecken vanzelf onfeilbare kennis oplevert.",
+  "connections": [
+    "Indruk en instemming",
+    "Katalêpsis: begrip",
+    "Kennis van de wijze",
+    "Academische scepsis"
+  ],
+  "diagram": [
+    "✋ Open hand: indruk",
+    "🤏 Vingers buigen: instemming",
+    "✊ Vuist: begrip",
+    "✊ + andere hand: vaste kennis"
+  ],
+  "concepts": [
+    {
+      "term": "Indruk",
+      "meaning": "Wat zich aan je voordoet voordat je er ja tegen zegt",
+      "example": "Je ziet een alarmerende kop in een groepschat."
+    },
+    {
+      "term": "Instemming",
+      "meaning": "Je aanvaardt de inhoud als waar",
+      "example": "Je zegt: dit is beslist gebeurd."
+    },
+    {
+      "term": "Katalêpsis",
+      "meaning": "Stoïcijnse term voor een betrouwbare greep op een waar feit",
+      "example": "Je controleert wat de oorspronkelijke mededeling echt zegt."
+    }
+  ],
+  "modernExample": {
+    "situation": "In een groepschat verschijnt een screenshot met een alarmerende bewering.",
+    "automatic": "Je behandelt de screenshot als bewijs en stuurt hem meteen door.",
+    "stoic": "Je houdt de hand eerst open: wie zegt dit, waar staat het oorspronkelijke bericht en wat weet je nog niet? Pas daarna reageer je."
+  },
+  "explain": "Cicero vertelt hoe Zeno met zijn hand vier stappen liet zien: indruk, instemming, begrip en vaste kennis. Dat is vroege stoïcijnse logica, geen gebod om nooit iets te geloven. Een binnenkomend bericht is nog geen bewezen feit; het doorsturen is al een vorm van instemming. Vraag eerst waarop de bewering rust. De oude stoïcijnen dachten dat zekere kennis mogelijk was; sceptici betwijfelden dat.",
+  "exercise": "Kies vandaag één bewering die je wilt doorsturen. Zoek eerst de oorspronkelijke bron en schrijf op wat vaststaat en wat nog onzeker is.",
+  "reflection": "Welke indruk maakte ik vandaag te snel tot zekerheid?",
+  "remember": "Een open hand mag eerst onderzoeken.",
+  "knowledgeAnchor": {
+    "name": "Zeno via Cicero, Academica 2.145",
+    "concept": "Indruk → instemming → begrip → kennis",
+    "sentence": "Sluit je hand pas wanneer je reden hebt."
+  }
+}
