@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-28",
+  "title": "Laat je woorden landen",
+  "theme": "Helder spreken in plaats van overrompelen",
+  "thinkerId": "seneca",
+  "passage": "Spreek eenvoudig over wat waar is; geef woorden tijd om bij de ander aan te komen.",
+  "attribution": "Seneca, Brieven aan Lucilius 40.4 · eigen Nederlandse parafrase",
+  "source": {
+    "label": "Seneca, Brieven aan Lucilius 40.4 (Latijnse tekst)",
+    "url": "https://www.latin.it/autore/seneca/epistulae_morales_ad_lucilium/!04!liber_iv/040.lat"
+  },
+  "facts": [
+    "Seneca werd in Corduba geboren en stierf in 65 n.Chr.; hij schreef als Romeins stoïcijn in het Latijn.",
+    "Zijn Brieven aan Lucilius ontstonden ongeveer tussen 62 en 65 n.Chr.",
+    "In brief 40 reageert hij op een filosoof die volgens Lucilius woorden haastig achter elkaar uitstoot.",
+    "In 40.4 zegt Seneca dat spreken in dienst van de waarheid eenvoudig moet zijn en dat een heilzaam woord tijd nodig heeft om door te dringen."
+  ],
+  "theory": "Dit raakt de stoïcijnse ethiek van spreken: woorden zijn handelingen waarmee je de ander kunt helpen begrijpen of kunt overrompelen. Waarheidsliefde vraagt ruimte voor toetsing; matigheid remt de drang om indruk te maken. Seneca bespreekt vooral de voordracht van een filosofieleraar. Zijn voorkeur voor een gematigd tempo is geen bewijs dat iedere snelle spreker minder waarachtig is.",
+  "connections": [
+    "Waarheid en oordeel",
+    "Matigheid",
+    "Zorg voor de luisteraar",
+    "Filosofie als oefening"
+  ],
+  "diagram": [
+    "Ik wil iets belangrijks zeggen",
+    "Kies één heldere kern",
+    "Spreek zonder woordenstroom",
+    "Pauzeer: kan de ander mee?"
+  ],
+  "concepts": [
+    {
+      "term": "Waarheidsliefde",
+      "meaning": "Zo spreken dat een bewering te begrijpen en te toetsen is",
+      "example": "Je noemt de bron van een getal."
+    },
+    {
+      "term": "Matigheid",
+      "meaning": "Je tempo en toon afstemmen op de inhoud",
+      "example": "Je laat een stilte vallen na een lastig punt."
+    },
+    {
+      "term": "Zorg voor de luisteraar",
+      "meaning": "Rekening houden met wat de ander kan volgen",
+      "example": "Je vraagt of een uitleg helder was."
+    }
+  ],
+  "modernExample": {
+    "situation": "Je moet in een overleg een lastige wijziging uitleggen.",
+    "automatic": "Je vuurt veel argumenten en cijfers af om bezwaren voor te zijn.",
+    "stoic": "Je noemt eerst de kern en de reden, pauzeert, en nodigt uit tot een concrete vraag."
+  },
+  "explain": "Seneca schrijft Lucilius in brief 40 over een filosoof die razendsnel spreekt. Voor hem moet een uitleg die op waarheid mikt eenvoudig zijn en tijd krijgen om binnen te komen. Het gaat niet om traag praten als doel op zich. In een overleg kun je hetzelfde principe oefenen: één helder punt, een korte pauze, dan ruimte voor een vraag. Zo krijgt de ander gelegenheid om zelf te oordelen.",
+  "exercise": "Leg vandaag één belangrijk punt uit in maximaal twee zinnen. Pauzeer daarna en vraag wat de ander nog wil weten.",
+  "reflection": "Wanneer gebruikte ik vandaag veel woorden om een vraag of bezwaar vóór te zijn?",
+  "remember": "Een helder punt heeft ruimte nodig.",
+  "knowledgeAnchor": {
+    "name": "Seneca, brief 40.4",
+    "concept": "Waarachtig en gematigd spreken",
+    "sentence": "Spreek helder en laat ruimte voor begrip."
+  }
+}
